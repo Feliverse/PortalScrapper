@@ -76,7 +76,7 @@ export default function App() {
   const atRisk = (counts["Atrasado"] || 0) + (counts["Próximo a vencer"] || 0);
 
   return <div className="app">
-    <header className="topbar"><div className="brand"><div className="logo"><Database size={22} /></div><div><span className="eyebrow">DATAX · OPERACIONES</span><h1>Monitor de datasets</h1></div></div><div className="header-status"><span className="live-dot" /> Monitoreo activo <button className="icon-btn" onClick={() => void load()} title="Actualizar"><RefreshCw size={17} /></button></div></header>
+    <header className="topbar"><div className="brand"><div className="logo"><Database size={22} /></div><div><span className="eyebrow">DATAX · PROSPECCION</span><h1>Monitor de datasets</h1></div></div><div className="header-status"><span className="live-dot" /> Monitoreo activo <button className="icon-btn" onClick={() => void load()} title="Actualizar"><RefreshCw size={17} /></button></div></header>
     <main className="content">
       <section className="hero"><div><p className="eyebrow accent">CENTRO DE CONTROL</p><h2>Estado de actualización</h2><p className="subtitle">Supervisa la vigencia del catálogo y ejecuta el scraper v2 cuando necesites un nuevo corte.</p></div><div className="actions"><button className="button primary" onClick={() => void runV2()} disabled={running}><Play size={16} /> {running ? "Ejecutando v2..." : "Ejecutar v2"}</button><button className="button secondary" onClick={() => void convertExcel()}><FileSpreadsheet size={16} /> Convertir a Excel</button></div></section>
       {message && <div className="notice"><Activity size={17} /> {message}</div>}
