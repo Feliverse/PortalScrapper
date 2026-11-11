@@ -26,6 +26,8 @@ historial_productos/*.csv
 !.vscode/settings.json
 Thumbs.db
 Desktop.ini
+invitacion.html
+invitacion_whatsapp.mp4
 
 # Logs and temporary files
 *.log
