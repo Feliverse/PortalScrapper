@@ -14,7 +14,7 @@ from openpyxl.styles import Font
 
 ROOT = Path(__file__).resolve().parent
 V2_DIR = ROOT / "v2"
-CSV_PATH = V2_DIR / "productos_datax_dataset.csv"
+CSV_PATH = ROOT / "diccionary" / "DATAX_Consolidacion_Tabla_Web.csv"
 HISTORY_DIR = V2_DIR / "historial_productos"
 FRONTEND_DIR = ROOT / "frontend" / "dist"
 PORT = 8000
@@ -35,37 +35,19 @@ def file_metadata(path):
         "name": path.name,
         "size": path.stat().st_size,
         "modified": modified.isoformat(timespec="seconds"),
-        "download": f"/downloads/{path.name}",
+        "download": f"/downloads/consolidacion/{path.name}" if path == CSV_PATH else f"/downloads/{path.name}",
     }
 
 
 def status_payload():
     rows = csv_rows(CSV_PATH)
-    counts = {}
-    for row in rows:
-        state = row.get("Estado de actualización", "Sin fecha")
-        counts[state] = counts.get(state, 0) + 1
-    excel_files = sorted(V2_DIR.glob("comparacion_productos_*.xlsx"))
-    snapshots = sorted(HISTORY_DIR.glob("productos_*.csv"))
     return {
         "generatedAt": datetime.now().isoformat(timespec="seconds"),
         "dataset": {
             "rows": len(rows),
-            "counts": counts,
             "file": file_metadata(CSV_PATH),
         },
-        "latestComparison": file_metadata(excel_files[-1]) if excel_files else None,
-        "snapshots": [
-            file_metadata(path) for path in reversed(snapshots[-10:])
-        ],
         "rows": rows,
-        "rules": [
-            {"name": "Al día", "description": "Menos del 80% del ciclo de actualización."},
-            {"name": "Próximo a vencer", "description": "Entre 80% y 100% del ciclo esperado."},
-            {"name": "Atrasado", "description": "Superó el ciclo de actualización."},
-            {"name": "Sin fecha", "description": "No hay una fecha de actualización válida."},
-            {"name": "Periodicidad no reconocida", "description": "La periodicidad no tiene una regla configurada."},
-        ],
     }
 
 
@@ -118,6 +100,13 @@ class Handler(BaseHTTPRequestHandler):
         parsed = urlparse(self.path)
         if parsed.path == "/api/status":
             self._send_json(status_payload())
+            return
+        if parsed.path.startswith("/downloads/consolidacion/"):
+            requested = unquote(parsed.path.removeprefix("/downloads/consolidacion/"))
+            if requested == CSV_PATH.name:
+                self._send_file(CSV_PATH)
+            else:
+                self.send_error(404)
             return
         if parsed.path.startswith("/downloads/"):
             requested = unquote(parsed.path.removeprefix("/downloads/"))

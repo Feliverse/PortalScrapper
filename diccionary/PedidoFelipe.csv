@@ -1,0 +1,1006 @@
+﻿pathanalyze;nombreanalyze;codigospimanalyze;nexus.codigonexus;portal.nombreportal;airflow.name;airflow.dag_id
+ADA\Santa Cruz;Precios de Pollo y Huevo para Productores;S_BOADA_11_000729;s_boada_11_000729;Precios de Pollo y Huevo para Productores;S_BOADA_11_000729;D_BO_000000255
+ADA\Santa Cruz;Evolucion del Precio del Pollo  - Santa Cruz;S_BOADA_11_000730;s_boada_11_000730;Evolucion del Precio del Pollo  - Santa Cruz;S_BOADA_11_000730;D_BO_000000462
+ADA\Santa Cruz;Precios de Insumos Alimentos para Pollo - Santa Cruz;S_BOADA_11_000731;s_boada_11_000731;Precios de Insumos Alimentos para Pollo - Santa Cruz;S_BOADA_11_000731;D_BO_000000462
+ADUANA NACIONAL\Difusión y Publicaciones;Recaudación Liberada según Acuerdo Preferencial y Disposición Liberatoria;S_BO_AN_44_000347;s_bo_an_44_000347;Recaudación Liberada según Acuerdo Preferencial y Disposición Liberatoria;S_BO_AN_44_000347;D_BO_000000012
+ADUANA NACIONAL\Difusión y Publicaciones;Recaudación Ordinaria según Tipo de Pago;S_BOADUA44_000345;s_boadua44_000345;Recaudación Ordinaria según Tipo de Pago;;
+ADUANA NACIONAL\Difusión y Publicaciones;Recaudación Ordinaria según Principal Capítulo Nandina;S_BO_AN_44_000351;s_bo_an_44_000351;Recaudación Ordinaria según Principal Capítulo Nandina;S_BO_AN_44_000351;D_BO_000000012
+ADUANA NACIONAL\Difusión y Publicaciones;Recaudación Ordinaria según Tipo de Administración Aduanera;S_BO_AN_44_000350;s_bo_an_44_000350;Recaudación Ordinaria según Tipo de Administración Aduanera;S_BO_AN_44_000350;D_BO_000000012
+ADUANA NACIONAL\Difusión y Publicaciones;Recaudación Ordinaria según Gerencia Regional y Administración Aduanera por Departamento;S_BO_AN_44_000349;s_bo_an_44_000349;Recaudación Ordinaria según Gerencia Regional y Administración Aduanera por Departamento;S_BO_AN_44_000349;D_BO_000000012
+ADUANA NACIONAL\Difusión y Publicaciones;Recaudación Ordinaria según Departamento;S_BO_AN_44_000348;s_bo_an_44_000348;Recaudación Ordinaria según Departamento;S_BO_AN_44_000348;D_BO_000000012
+ADUANA NACIONAL\Difusión y Publicaciones;Recaudación Liberada según Tipo de Impuesto;S_BO_AN_44_000346;s_bo_an_44_000346;Recaudación Liberada según Tipo de Impuesto;S_BO_AN_44_000346;D_BO_000000012
+ADUANA NACIONAL\Difusión y Publicaciones;Recaudación Ordinaria según Tipo de Impuesto;S_BO_AN_44_000344;s_bo_an_44_000344;Recaudación Ordinaria según Tipo de Impuesto;S_BO_AN_44_000344;D_BO_000000012
+APS\Pensiones;Pensiones de Jubilación por Sexo, AFP y Entidad Aseguradora;S_BOAPS_44_000771;s_boaps_44_000771;Pensiones de Jubilación por Sexo, AFP y Entidad Aseguradora;S_BOAPS_44_000771;D_BO_000000260
+APS\Pensiones;Pago de Pensiones de Invalidez y Muerte derivada de Riesgos del Sistema Integral de Pensiones y Seguro Social Obligatorio;S_BOAPS_44_000663;s_boaps_44_000663;Pago de Pensiones de Invalidez y Muerte derivada de Riesgos del Sistema Integral de Pensiones y Seguro Social Obligatorio;S_BOAPS_44_000663;D_BO_000000263
+APS\Pensiones;Pago de Pensiones de Invalidez y Muerte derivada de Riesgos del Sistema Integral de Pensiones y Seguro Social Obligatorio;S_BOAPS_44_000663;s_boaps_44_000663;Pago de Pensiones de Invalidez y Muerte derivada de Riesgos del Sistema Integral de Pensiones y Seguro Social Obligatorio;S_BOAPS_44_000663;D_BO_000000264
+APS\Pensiones;Patrimonio Acumulado de Fondos de Pensiones en el Fondo de Ahorro Provisional (FAP);S_BOAPS_44_000662;s_boaps_44_000662;Patrimonio Acumulado de Fondos de Pensiones en el Fondo de Ahorro Provisional (FAP);S_BOAPS_44_000662;D_BO_000000258
+APS\Pensiones;Pensiones de Jubilación por Pensión Mínima y Pensión Solidaria de Vejez por Sexo;S_BOAPS_44_000772;s_boaps_44_000772;Pensiones de Jubilación por Pensión Mínima y Pensión Solidaria de Vejez por Sexo;S_BOAPS_44_000772;D_BO_000000261
+APS\Pensiones;Inversiones Acumuladas de Fondos de Pensiones en el Fondo de Ahorro Provisional (FAP);S_BOAPS_44_000658;s_boaps_44_000658;Inversiones Acumuladas de Fondos de Pensiones en el Fondo de Ahorro Provisional (FAP);S_BOAPS_44_000658;D_BO_000000256
+APS\Pensiones;Asegurados del Sistema Integral de Pensiones por AFP, Grupos Quinquenales de Edad y Sexo;S_BOAPS_44_000659;s_boaps_44_000659;Asegurados del Sistema Integral de Pensiones por AFP, Grupos Quinquenales de Edad y Sexo;S_BOAPS_44_000659;D_BO_000000257
+APS\SOAT;Cobertura del SOAT a Nivel Nacional por Departamento;S_BOAPS_66_000655;s_boaps_66_000655;Cobertura del SOAT a Nivel Nacional por Departamento;S_BOAPS_66_000655;D_BO_000000259
+APS\SOAT;Información del SOAT por Departamento;S_BOAPS_66_000824;;Información del SOAT por Departamento;;
+APS\Seguros;Balance General de Compañías de Seguros de Personas;SPIM_0203_BGCSP;spim_0203_bgcsp;Balance General de Compañías de Seguros de Personas;SPIM_0203_BGCSP;A_BOAPS_04_02_000001
+APS\Seguros;Estado de Resultados de Compañías de Seguros Generales y Fianzas;SPIM_0202_ERCSGF;spim_0202_ercsgf;Estado de Resultados de Compañías de Seguros Generales y Fianzas;SPIM_0202_ERCSGF;D_BO_000000447
+APS\Seguros;Balance General de Compañías de Seguros de Personas;SPIM_0203_BGCSP;spim_0203_bgcsp;Balance General de Compañías de Seguros de Personas;SPIM_0203_BGCSP;D_BO_000000447
+APS\Seguros;Estado de Resultados de Compañías de Seguros Generales y Fianzas;SPIM_0202_ERCSGF;spim_0202_ercsgf;Estado de Resultados de Compañías de Seguros Generales y Fianzas;SPIM_0202_ERCSGF;A_BOAPS_04_02_000001
+APS\Seguros;Ventas Soat por Departamento;SPIM_0027_VS;spim_0027_vs;Ventas Soat por Departamento;SPIM_0027_VS;D_BO_000000259
+APS\Seguros;Estado de Resultados de Compañías de Seguros de Personas;SPIM_0204_ERCSP;spim_0204_ercsp;Estado de Resultados de Compañías de Seguros de Personas;SPIM_0204_ERCSP;D_BO_000000447
+APS\Seguros;Producción y Siniestros por Modalidad y Ramos;SPIM_0166_PSMR;spim_0166_psmr;Producción y Siniestros por Modalidad y Ramos;SPIM_0166_PSMR;D_BO_000000447
+APS\Seguros;Producción y Siniestros por Modalidad y Ramos;SPIM_0166_PSMR;spim_0166_psmr;Producción y Siniestros por Modalidad y Ramos;SPIM_0166_PSMR;A_BOAPS_04_02_000001
+APS\Seguros;Producción y Siniestros por Compañías de Seguro;SPIM_0170_PSCS;spim_0170_pscs;Producción y Siniestros por Compañías de Seguro;SPIM_0170_PSCS;A_BOAPS_04_02_000001
+APS\Seguros;Estados Financieros de Corredoras de Seguros;S_BOAPS_44_000779;s_boaps_44_000779;Estados Financieros de Corredoras de Seguros en Bolivia;;
+APS\Seguros;Producción y Siniestros por Compañías de Seguro;SPIM_0170_PSCS;spim_0170_pscs;Producción y Siniestros por Compañías de Seguro;SPIM_0170_PSCS;D_BO_000000447
+APS\Seguros;Producción y Siniestros Netos Acumulados por Tipo de Componente y Ramos;S_BOSPVS46_000251;s_bospvs46_000251;Producción y Siniestros Netos Acumulados por Tipo de Componente y Ramos;S_BOSPVS46_000251;D_BO_000000447
+APS\Seguros;Intermediación Acumulada de Corredora de Reaseguro, por Modalidad y Ramos;S_BOAPS_44_000621;s_boaps_44_000621;Intermediación Acumulada de Corredora de Reaseguro, por Modalidad y Ramos;S_BOAPS_44_000621;A_BOAPS_04_02_000001
+APS\Seguros;Estados Financieros Empresas de Seguros;S_BOAPS_44_000612;s_boaps_44_000612;Estados Financieros Empresas de Seguros;S_BOAPS_44_000612;D_BO_000000537
+APS\Seguros;Valor de Cartera a Precio de Mercado por Instrumento;S_BOSPVS66_000263;s_bospvs66_000263;Valor de Cartera a Precio de Mercado por Instrumento;S_BOSPVS66_000263;D_BO_000000262
+APS\Seguros;Inversiones Admisibles por Compañías de Seguros;S_BOSPVS66_000262;s_bospvs66_000262;Inversiones Admisibles por Compañías de Seguros;S_BOSPVS66_000262;D_BO_000000262
+APS\Seguros;Inversiones Admisibles por Compañías de Seguros;S_BOSPVS66_000262;s_bospvs66_000262;Inversiones Admisibles por Compañías de Seguros;S_BOSPVS66_000262;A_BOAPS_04_02_000001
+APS\Seguros;Intermediación de Corredores de Seguros por Modalidad y Ramo;S_BOSPVS66_000261;s_bospvs66_000261;Intermediación de Corredores de Seguros por Modalidad y Ramo;S_BOSPVS66_000261;A_BOAPS_04_02_000001
+APS\Seguros;Intermediación de Corredores de Seguros por Modalidad y Ramo;S_BOSPVS66_000261;s_bospvs66_000261;Intermediación de Corredores de Seguros por Modalidad y Ramo;S_BOSPVS66_000261;D_BO_000000447
+APS\Seguros;Intermediación de Corredores de Seguros por Tipo y Compañía de Seguros;S_BOSPVS66_000260;s_bospvs66_000260;Intermediación de Corredores de Seguros por Tipo y Compañía de Seguros;S_BOSPVS66_000260;A_BOAPS_04_02_000001
+APS\Seguros;Intermediación Acumulada de Corredora de Reaseguro, por Modalidad y Ramos;S_BOAPS_44_000621;s_boaps_44_000621;Intermediación Acumulada de Corredora de Reaseguro, por Modalidad y Ramos;S_BOAPS_44_000621;D_BO_000000447
+APS\Seguros;Intermediación de Corredores de Seguros por Tipo y Compañía de Seguros;S_BOSPVS66_000260;s_bospvs66_000260;Intermediación de Corredores de Seguros por Tipo y Compañía de Seguros;S_BOSPVS66_000260;D_BO_000000447
+APS\Seguros;Producción y Siniestros Netos Acumulados por Modalidad, Ramos y Compañía de Seguros;S_BOSPVS66_000254;s_bospvs66_000254;Producción y Siniestros Netos Acumulados por Modalidad, Ramos y Compañía de Seguros;S_BOSPVS66_000254;A_BOAPS_04_02_000001
+APS\Seguros;Producción y Siniestros Netos Acumulados por Modalidad, Ramos y Compañía de Seguros;S_BOSPVS66_000254;s_bospvs66_000254;Producción y Siniestros Netos Acumulados por Modalidad, Ramos y Compañía de Seguros;S_BOSPVS66_000254;D_BO_000000447
+APS\Seguros;Producción Directa Neta de Anulaciones y Siniestros Directos por Modalidad, Ramos y Compañía de Seguros;S_BOSPVS66_000253;s_bospvs66_000253;Producción Directa Neta de Anulaciones y Siniestros Directos por Modalidad, Ramos y Compañía de Seguros;S_BOSPVS66_000253;A_BOAPS_04_02_000001
+APS\Seguros;Producción Directa Neta de Anulaciones y Siniestros Directos por Modalidad, Ramos y Compañía de Seguros;S_BOSPVS66_000253;s_bospvs66_000253;Producción Directa Neta de Anulaciones y Siniestros Directos por Modalidad, Ramos y Compañía de Seguros;S_BOSPVS66_000253;D_BO_000000447
+APS\Seguros;Producción y Siniestros Netos Acumulados por Tipo de Componente y Ramos;S_BOSPVS46_000251;s_bospvs46_000251;Producción y Siniestros Netos Acumulados por Tipo de Componente y Ramos;S_BOSPVS46_000251;A_BOAPS_04_02_000001
+APS\Seguros;Balance General de Compañías de Seguros Generales y Fianzas;SPIM_0201_BGCSGF;spim_0201_bgcsgf;Balance General de Compañías de Seguros Generales y Fianzas;SPIM_0201_BGCSGF;D_BO_000000447
+APS\Seguros;Producción Directa Neta de Anulación y Siniestros Directos por Entidad Aseguradora y Departamento;S_BOAPS_44_000620;s_boaps_44_000620;Producción Directa Neta de Anulación y Siniestros Directos por Entidad Aseguradora y Departamento;S_BOAPS_44_000620;D_BO_000000447
+APS\Seguros;Producción Directa Neta de Anulación y Siniestros Directos por Entidad Aseguradora y Departamento;S_BOAPS_44_000620;s_boaps_44_000620;Producción Directa Neta de Anulación y Siniestros Directos por Entidad Aseguradora y Departamento;S_BOAPS_44_000620;A_BOAPS_04_02_000001
+APS\Seguros;Margen de Solvencia y Patrimonio Técnico por Compañías de Seguros;S_BOSPVS66_000258;s_bospvs66_000258;Margen de Solvencia y Patrimonio Técnico por Compañías de Seguros;S_BOSPVS66_000258;A_BOAPS_04_02_000001
+APS\Seguros;Balance General de Compañías de Seguros Generales y Fianzas;SPIM_0201_BGCSGF;spim_0201_bgcsgf;Balance General de Compañías de Seguros Generales y Fianzas;SPIM_0201_BGCSGF;A_BOAPS_04_02_000001
+ASFI - Valores\Agencias de Bolsa;Estados Financieros de las Agencias de Bolsa;S_BOASFI44_000496;s_boasfi44_000496;Estados Financieros de las Agencias de Bolsa;S_BOASFI44_000496;D_BO_000000005
+ASFI - Valores\Agencias de Bolsa;Estados Financieros de las Agencias de Bolsa;S_BOASFI44_000496;s_boasfi44_000496;Estados Financieros de las Agencias de Bolsa;S_BOASFI44_000496;D_BO_000000004
+ASFI - Valores\Agencias de Bolsa;Patrimonio, Número de Clientes, Resultados Netos, Operativos y Financieros de las Agencias de  Bolsa;S_BOASFI46_000495;s_boasfi46_000495;Patrimonio, Número de Clientes, Resultados Netos, Operativos y Financieros de las Agencias de  Bolsa;S_BOASFI46_000495;D_BO_000000001
+ASFI - Valores\Agencias de Bolsa;Cartera Propia y de Clientes de Agencias de Bolsa;S_BOASFI44_000487;s_boasfi44_000487;Cartera Propia y de Clientes de Agencias de Bolsa;S_BOASFI44_000487;D_BO_000000001
+ASFI - Valores\Agencias de Bolsa;Patrimonio, Número de Clientes, Resultados Netos, Operativos y Financieros de las Agencias de  Bolsa;S_BOASFI46_000495;s_boasfi46_000495;Patrimonio, Número de Clientes, Resultados Netos, Operativos y Financieros de las Agencias de  Bolsa;S_BOASFI46_000495;D_BO_000000461
+ASFI - Valores\Agencias de Bolsa;Cartera Propia y de Clientes de Agencias de Bolsa;S_BOASFI44_000487;s_boasfi44_000487;Cartera Propia y de Clientes de Agencias de Bolsa;S_BOASFI44_000487;D_BO_000000461
+ASFI - Valores\Bolsa Boliviana de Valores;Estados Financieros de la Bolsa Boliviana de Valores;S_BOASFI66_000486;s_boasfi66_000486;Estados Financieros de la Bolsa Boliviana de Valores;S_BOASFI66_000486;D_BO_000000461
+ASFI - Valores\Bolsa Boliviana de Valores;Estados Financieros de la Bolsa Boliviana de Valores;S_BOASFI66_000486;s_boasfi66_000486;Estados Financieros de la Bolsa Boliviana de Valores;S_BOASFI66_000486;D_BO_000000001
+ASFI - Valores\Calificadores;Equivalencia de Calificaciones de Riesgo;S_BOASFI99_000751;;;;
+ASFI - Valores\Calificadores;Calificaciones de Riesgo;S_BOASFI44_000746;;;;
+ASFI - Valores\Emisores en Bolsa;Estados Financieros de Empresas Emisoras en Bolsa - Actualizado;S_BOASFI66_000752;s_boasfi66_000752;Reportes Financieros Actualizados de Empresas Emisoras en el Mercado de Valores;;
+ASFI - Valores\Emisores en Bolsa;Estados Financieros de Empresas Emisoras en la Bolsa Boliviana de Valores;S_BOASFI_66_000477;s_boasfi_66_000477;Estados Financieros de Empresas Emisoras en la Bolsa Boliviana de Valores;S_BOASFI_66_000477;D_BO_000000001
+ASFI - Valores\Emisores en Bolsa;Estados Financieros de Empresas Emisoras en la Bolsa Boliviana de Valores;S_BOASFI_66_000477;s_boasfi_66_000477;Estados Financieros de Empresas Emisoras en la Bolsa Boliviana de Valores;S_BOASFI_66_000477;D_BO_000000461
+ASFI - Valores\Emisores en Bolsa;Indicadores Financieros de Empresas Emisoras de la Bolsa Boliviana de Valores;S_BOASFI_66_000478;s_boasfi_66_000478;Indicadores Financieros de Empresas Emisoras de la Bolsa Boliviana de Valores;S_BOASFI_66_000478;D_BO_000000001
+ASFI - Valores\Emisores en Bolsa;Emisiones de Depósitos a Plazo Fijo;S_BOASFI44_000491;s_boasfi44_000491;Emisiones de Depósitos a Plazo Fijo;S_BOASFI44_000491;D_BO_000000461
+ASFI - Valores\Emisores en Bolsa;Emisiones Vigentes;S_BOASFI44_000490;s_boasfi44_000490;Emisiones Activas por Emisor y Fecha de Vencimiento en el Mercado de Valores;S_BOASFI44_000490;D_BO_000000461
+ASFI - Valores\Emisores en Bolsa;Indicadores Financieros de Empresas Emisoras de la Bolsa Boliviana de Valores;S_BOASFI_66_000478;s_boasfi_66_000478;Indicadores Financieros de Empresas Emisoras de la Bolsa Boliviana de Valores;S_BOASFI_66_000478;D_BO_000000461
+ASFI - Valores\Emisores en Bolsa;Emisiones Vigentes;S_BOASFI44_000490;s_boasfi44_000490;Emisiones Activas por Emisor y Fecha de Vencimiento en el Mercado de Valores;S_BOASFI44_000490;D_BO_000000001
+ASFI - Valores\Emisores en Bolsa;Emisiones de Depósitos a Plazo Fijo;S_BOASFI44_000491;s_boasfi44_000491;Emisiones de Depósitos a Plazo Fijo;S_BOASFI44_000491;D_BO_000000001
+ASFI - Valores\Fondos de Inversión;Evolución de la Cartera de los Fondos de Inversión;SPIM_0102_ECFI;spim_0102_ecfi;Evolución de la Cartera de los Fondos de Inversión;SPIM_0102_ECFI;D_BO_000000461
+ASFI - Valores\Fondos de Inversión;Evolución de la Cartera de los Fondos de Inversión;SPIM_0102_ECFI;spim_0102_ecfi;Evolución de la Cartera de los Fondos de Inversión;SPIM_0102_ECFI;D_BO_000000001
+ASFI - Valores\Fondos de Inversión;Evolución del Número de Participantes de los Fondos de Inversión;SPIM_0103_EPFI;spim_0103_epfi;Evolución del Número de Participantes de los Fondos de Inversión;SPIM_0103_EPFI;D_BO_000000001
+ASFI - Valores\Fondos de Inversión;Cartera Participantes y Tasas de Rendimiento de los Fondos de Inversión en Bolivianos;SPIM_0101_CPTRFIB;spim_0101_cptrfib;Cartera Participantes y Tasas de Rendimiento de los Fondos de Inversión en Bolivianos;SPIM_0101_CPTRFIB;D_BO_000000461
+ASFI - Valores\Fondos de Inversión;Evolución de la Tasa de Rendimiento Promedio Ponderada a 30 días de los Fondos de Inversión;SPIM_0104_ETR30FI;spim_0104_etr30fi;Evolución de la Tasa de Rendimiento Promedio Ponderada a 30 días de los Fondos de Inversión;SPIM_0104_ETR30FI;D_BO_000000461
+ASFI - Valores\Fondos de Inversión;Evolución de la Tasa de Rendimiento Promedio Ponderada a 30 días de los Fondos de Inversión;SPIM_0104_ETR30FI;spim_0104_etr30fi;Evolución de la Tasa de Rendimiento Promedio Ponderada a 30 días de los Fondos de Inversión;SPIM_0104_ETR30FI;D_BO_000000001
+ASFI - Valores\Fondos de Inversión;Diversificación de la Cartera de los Fondos de Inversión por Valor y Emisor;SPIM_0110_DCFIVEPP;spim_0110_dcfivepp;Diversificación de la Cartera de los Fondos de Inversión por Valor y Emisor;SPIM_0110_DCFIVEPP;D_BO_000000001
+ASFI - Valores\Fondos de Inversión;Diversificación de la Cartera de los Fondos de Inversión por Valor y Emisor;SPIM_0110_DCFIVEPP;spim_0110_dcfivepp;Diversificación de la Cartera de los Fondos de Inversión por Valor y Emisor;SPIM_0110_DCFIVEPP;D_BO_000000461
+ASFI - Valores\Fondos de Inversión;Cartera, Participantes y Tasas de Rendimiento de los Fondos de Inversión en Dólares Americanos;SPIM_0100_CPTRFID;spim_0100_cptrfid;Cartera, Participantes y Tasas de Rendimiento de los Fondos de Inversión en Dólares Americanos;SPIM_0100_CPTRFID;D_BO_000000001
+ASFI - Valores\Fondos de Inversión;Cartera, Participantes y Tasas de Rendimiento de los Fondos de Inversión en Dólares Americanos;SPIM_0100_CPTRFID;spim_0100_cptrfid;Cartera, Participantes y Tasas de Rendimiento de los Fondos de Inversión en Dólares Americanos;SPIM_0100_CPTRFID;D_BO_000000461
+ASFI - Valores\Fondos de Inversión;Cartera Participantes y Tasas de Rendimiento de los Fondos de Inversión en Bolivianos;SPIM_0101_CPTRFIB;spim_0101_cptrfib;Cartera Participantes y Tasas de Rendimiento de los Fondos de Inversión en Bolivianos;SPIM_0101_CPTRFIB;D_BO_000000001
+ASFI - Valores\Fondos de Inversión;Cartera, Cuota, Participantes y Tasa de Rendimiento de los Fondos de Inversión;S_BOASFI44_000479;s_boasfi44_000479;Cartera, Cuota, Participantes y Tasa de Rendimiento de los Fondos de Inversión;S_BOASFI44_000479;D_BO_000000001
+ASFI - Valores\Fondos de Inversión;Evolución del Número de Participantes de los Fondos de Inversión;SPIM_0103_EPFI;spim_0103_epfi;Evolución del Número de Participantes de los Fondos de Inversión;SPIM_0103_EPFI;D_BO_000000461
+ASFI - Valores\Fondos de Inversión;Estados Financieros de las Administradoras de Fondos de Inversión;S_BOASFI44_000494;s_boasfi44_000494;Estados Financieros de las Administradoras de Fondos de Inversión;S_BOASFI44_000494;D_BO_000000002
+ASFI - Valores\Fondos de Inversión;Cartera, Crecimiento y Número de Participantes de la Industria de Fondos de Inversión Abiertos;S_BOASFI46_000493;s_boasfi46_000493;Cartera, Crecimiento y Número de Participantes de la Industria de Fondos de Inversión Abiertos;S_BOASFI46_000493;D_BO_000000001
+ASFI - Valores\Fondos de Inversión;Cartera, Crecimiento y Número de Participantes de la Industria de Fondos de Inversión Abiertos;S_BOASFI46_000493;s_boasfi46_000493;Cartera, Crecimiento y Número de Participantes de la Industria de Fondos de Inversión Abiertos;S_BOASFI46_000493;D_BO_000000461
+ASFI - Valores\Fondos de Inversión;Fondos de Inversión;SPIM_0023_FI;spim_0023_fi;Fondos de Inversión;SPIM_0023_FI;D_BO_000000461
+ASFI - Valores\Fondos de Inversión;Fondos de Inversión;SPIM_0023_FI;spim_0023_fi;Fondos de Inversión;SPIM_0023_FI;D_BO_000000001
+ASFI - Valores\Fondos de Inversión;Tasas de Rendimiento de la Industria de Fondos de Inversión Abiertos;S_BOASFI46_000501;s_boasfi46_000501;Tasas de rendimiento promedio por tipo de moneda de los Fondos de Inversión abiertos;S_BOASFI46_000501;D_BO_000000461
+ASFI - Valores\Fondos de Inversión;Estados Financieros de las Administradoras de Fondos de Inversión;S_BOASFI44_000494;s_boasfi44_000494;Estados Financieros de las Administradoras de Fondos de Inversión;S_BOASFI44_000494;D_BO_000000003
+ASFI - Valores\Fondos de Inversión;Cartera, Cuota, Participantes y Tasa de Rendimiento de los Fondos de Inversión;S_BOASFI44_000479;s_boasfi44_000479;Cartera, Cuota, Participantes y Tasa de Rendimiento de los Fondos de Inversión;S_BOASFI44_000479;D_BO_000000461
+ASFI - Valores\Fondos de Inversión;Tasas de Rendimiento de la Industria de Fondos de Inversión Abiertos;S_BOASFI46_000501;s_boasfi46_000501;Tasas de rendimiento promedio por tipo de moneda de los Fondos de Inversión abiertos;S_BOASFI46_000501;D_BO_000000001
+ASFI - Valores\Fondos de Inversión;Diversificación de la Cartera de los Fondos de Inversión por Valor y Emisor;S_BOASFI66_000497;s_boasfi66_000497;Diversificación de la cartera de las SAFI's  de Bolivia y sus fondos de inversión por empresa emisora y tipo de intrumento;S_BOASFI66_000497;D_BO_000000001
+ASFI - Valores\Fondos de Inversión;Diversificación de la Cartera de los Fondos de Inversión por Valor y Emisor;S_BOASFI66_000497;s_boasfi66_000497;Diversificación de la cartera de las SAFI's  de Bolivia y sus fondos de inversión por empresa emisora y tipo de intrumento;S_BOASFI66_000497;D_BO_000000461
+ASFI - Valores\Fondos de Inversión;Evolución Diaria de Fondos de Inversión;SPIM_0205_EDFI;spim_0205_edfi;Evolución Diaria de Fondos de Inversión;SPIM_0205_EDFI;D_BO_000000058
+ASFI - Valores\Fondos de Inversión;Diversificación por Instrumento Industria Fondos de Inversión;S_BOASFI44_000498;s_boasfi44_000498;Diversificación por Instrumento Industria Fondos de Inversión;S_BOASFI44_000498;D_BO_000000461
+ASFI - Valores\Fondos de Inversión;Diversificación por Instrumento Industria Fondos de Inversión;S_BOASFI44_000498;s_boasfi44_000498;Diversificación por Instrumento Industria Fondos de Inversión;S_BOASFI44_000498;D_BO_000000001
+ASFI - Valores\Operaciones en Mercado de Valores;Operaciones en Ruedo de Bolsa;SPIM_0026_ORBBV;spim_0026_orbbv;Operaciones en Ruedo de Bolsa;SPIM_0026_ORBBV;D_BO_000000001
+ASFI - Valores\Operaciones en Mercado de Valores;Volumen de Operaciones en el Mercado de Valores por Instrumento;SPIM_0082_VOMVI;spim_0082_vomvi;Volumen de Operaciones en el Mercado de Valores por Instrumento;SPIM_0082_VOMVI;D_BO_000000001
+ASFI - Valores\Operaciones en Mercado de Valores;Volumen de Operaciones en el Mercado de Valores por Lugar de Negociación;SPIM_0081_VOMVLN;spim_0081_vomvln;Volumen de Operaciones en el Mercado de Valores por Lugar de Negociación;SPIM_0081_VOMVLN;D_BO_000000001
+ASFI - Valores\Operaciones en Mercado de Valores;Volumen de Operaciones en el Mercado de Valores por Lugar de Negociación;SPIM_0081_VOMVLN;spim_0081_vomvln;Volumen de Operaciones en el Mercado de Valores por Lugar de Negociación;SPIM_0081_VOMVLN;D_BO_000000461
+ASFI - Valores\Operaciones en Mercado de Valores;Volumen de Operaciones en el Mercado de Valores por Instrumento;SPIM_0082_VOMVI;spim_0082_vomvi;Volumen de Operaciones en el Mercado de Valores por Instrumento;SPIM_0082_VOMVI;D_BO_000000461
+ASFI - Valores\Operaciones en Mercado de Valores;Operaciones en Ruedo de Bolsa;SPIM_0026_ORBBV;spim_0026_orbbv;Operaciones en Ruedo de Bolsa;SPIM_0026_ORBBV;D_BO_000000461
+ASFI - Valores\Operaciones en Mercado de Valores;Tasas Promedio Ponderadas por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija Mercado Primario;SPIM_0091_TPPPETMVRFMP;spim_0091_tpppetmvrfmp;Tasas Promedio Ponderadas por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija Mercado Primario;SPIM_0091_TPPPETMVRFMP;D_BO_000000001
+ASFI - Valores\Operaciones en Mercado de Valores;Volumen de Operaciones por Agencia de Bolsa Vendedora y Compradora;S_BOASFI44_000504;s_boasfi44_000504;Volumen de Operaciones por Agencia de Bolsa Vendedora y Compradora;S_BOASFI44_000504;D_BO_000000006
+ASFI - Valores\Operaciones en Mercado de Valores;Tasas Promedio Ponderadas por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija Mercado Secundario;SPIM_0092_TPPPETMVRFMS;spim_0092_tpppetmvrfms;Tasas Promedio Ponderadas por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija Mercado Secundario;SPIM_0092_TPPPETMVRFMS;D_BO_000000001
+ASFI - Valores\Operaciones en Mercado de Valores;Tasas Promedio Ponderadas por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija Mercado Secundario;SPIM_0092_TPPPETMVRFMS;spim_0092_tpppetmvrfms;Tasas Promedio Ponderadas por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija Mercado Secundario;SPIM_0092_TPPPETMVRFMS;D_BO_000000461
+ASFI - Valores\Operaciones en Mercado de Valores;Tasas Promedio Ponderadas por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija. Reporto;SPIM_0093_TPPPETMVRFR;spim_0093_tpppetmvrfr;Tasas Promedio Ponderadas por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija. Reporto;SPIM_0093_TPPPETMVRFR;D_BO_000000461
+ASFI - Valores\Operaciones en Mercado de Valores;Tasas Promedio Ponderadas por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija. Reporto;SPIM_0093_TPPPETMVRFR;spim_0093_tpppetmvrfr;Tasas Promedio Ponderadas por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija. Reporto;SPIM_0093_TPPPETMVRFR;D_BO_000000001
+ASFI - Valores\Operaciones en Mercado de Valores;Volumen de Operaciones por Agencia de Bolsa Vendedora y Compradora;S_BOASFI44_000504;s_boasfi44_000504;Volumen de Operaciones por Agencia de Bolsa Vendedora y Compradora;S_BOASFI44_000504;D_BO_000000007
+ASFI - Valores\Operaciones en Mercado de Valores;Volumen de Operaciones por Emisor e Instrumento;S_BOASFI44_000505;s_boasfi44_000505;Volumen de Operaciones por Emisor e Instrumento;S_BOASFI44_000505;D_BO_000000008
+ASFI - Valores\Operaciones en Mercado de Valores;Volumen de Operaciones por Agencia de Bolsa Compradora, Vendedora  y Tipo de Operación;S_BOASFI44_000506;s_boasfi44_000506;Volumen de Operaciones por Agencia de Bolsa Compradora, Vendedora y Tipo de Operación;S_BOASFI44_000506;D_BO_000000009
+ASFI - Valores\Operaciones en Mercado de Valores;Composición de la Cartera de Inversiones por Tipo;S_BOASFI44_000507;s_boasfi44_000507;Composición de la Cartera de Inversiones por Tipo;S_BOASFI44_000507;D_BO_000000010
+ASFI - Valores\Operaciones en Mercado de Valores;Cartera de Clientes por Agencias de Bolsa e Instrumento;S_BOASFI44_000508;s_boasfi44_000508;Cartera de Clientes por Agencias de Bolsa e Instrumento;S_BOASFI44_000508;D_BO_000000011
+ASFI - Valores\Operaciones en Mercado de Valores;Tasas Promedio Ponderadas por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija Mercado Primario;SPIM_0091_TPPPETMVRFMP;spim_0091_tpppetmvrfmp;Tasas Promedio Ponderadas por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija Mercado Primario;SPIM_0091_TPPPETMVRFMP;D_BO_000000461
+ASFI\Captaciones;Depósitos del Público;S_BOASFI44_000742;s_boasfi44_000742;Depósitos del Público;S_BOASFI44_000742;D_BO_000000297
+ASFI\Captaciones;Encaje Legal del Sistema Financiero por Monedas;S_BOASFI44_000409;s_boasfi44_000409;Encaje Legal del Sistema Financiero por Monedas;S_BOASFI44_000409;D_BO_000000288
+ASFI\Captaciones;Obligaciones, Cartera y Contingente del Sistema Bancario por Departamento;estrat_obli_cart;estrat_obli_cart;Obligaciones, Cartera y Contingente del Sistema Bancario por Departamento;;
+ASFI\Captaciones;Depósitos del Público;S_BOASFI44_000742;s_boasfi44_000742;Depósitos del Público;S_BOASFI44_000742;D_BO_000000298
+ASFI\Captaciones;Encaje Legal del Sistema Financiero por Monedas;S_BOASFI44_000409;s_boasfi44_000409;Encaje Legal del Sistema Financiero por Monedas;S_BOASFI44_000409;D_BO_000000287
+ASFI\Captaciones;Estratificación de Depósitos;SPIM_0009_ED;spim_0009_ed;Estratificación de Depósitos;SPIM_0009_ED;D_BO_000000314
+ASFI\Captaciones;Estratificación de Depósitos;SPIM_0009_ED;spim_0009_ed;Estratificación de Depósitos;SPIM_0009_ED;D_BO_000000310
+ASFI\Captaciones;Estratificación de Depósitos;SPIM_0009_ED;spim_0009_ed;Estratificación de Depósitos;SPIM_0009_ED;D_BO_000000309
+ASFI\Captaciones;Ranking de Depósitos;S_BOSBEF44_000339;s_bosbef44_000339;Ranking de Depósitos;S_BOSBEF44_000339;D_BO_000000300
+ASFI\Captaciones;Estratificación de Depósitos;SPIM_0009_ED;spim_0009_ed;Estratificación de Depósitos;SPIM_0009_ED;D_BO_000000312
+ASFI\Captaciones;Estratificación de Depósitos;SPIM_0009_ED;spim_0009_ed;Estratificación de Depósitos;SPIM_0009_ED;D_BO_000000313
+ASFI\Captaciones;Estratificación de Depósitos;SPIM_0009_ED;spim_0009_ed;Estratificación de Depósitos;SPIM_0009_ED;D_BO_000000311
+ASFI\Colocaciones;Estratificación de Cartera - Contingente por Monto y Número de Prestatarios;SPIM_0008_ECMNP;spim_0008_ecmnp;Estratificación de Cartera - Contingente por Monto y Número de Prestatarios;SPIM_0008_ECMNP;D_BO_000000370
+ASFI\Colocaciones;Estratificación de Cartera - Contingente por Monto y Número de Prestatarios;SPIM_0008_ECMNP;spim_0008_ecmnp;Estratificación de Cartera - Contingente por Monto y Número de Prestatarios;SPIM_0008_ECMNP;D_BO_000000368
+ASFI\Colocaciones;Clasificación de Cartera y Contingente por Entidad, Estado y Tipo del Crédito;S_BOASFI66_000728;s_boasfi66_000728;Clasificación de Cartera y Contingente por Entidad, Estado y Tipo del Crédito;S_BOASFI66_000728;D_BO_000000336
+ASFI\Colocaciones;Clasificación de Cartera y Contingente por Entidad, Estado y Tipo del Crédito;S_BOASFI66_000728;s_boasfi66_000728;Clasificación de Cartera y Contingente por Entidad, Estado y Tipo del Crédito;S_BOASFI66_000728;D_BO_000000335
+ASFI\Colocaciones;Clasificación de Cartera y Contingente por Entidad, Estado y Tipo del Crédito;S_BOASFI66_000728;s_boasfi66_000728;Clasificación de Cartera y Contingente por Entidad, Estado y Tipo del Crédito;S_BOASFI66_000728;D_BO_000000334
+ASFI\Colocaciones;Clasificación de Cartera y Contingente por Entidad, Estado y Tipo del Crédito;S_BOASFI66_000728;s_boasfi66_000728;Clasificación de Cartera y Contingente por Entidad, Estado y Tipo del Crédito;S_BOASFI66_000728;D_BO_000000337
+ASFI\Colocaciones;Clasificación de Cartera y Contingente por Entidad, Estado y Destino del Crédito;S_BOASFI66_000727;s_boasfi66_000727;Clasificación de Cartera y Contingente por Entidad, Estado y Destino del Crédito;S_BOASFI66_000727;D_BO_000000330
+ASFI\Colocaciones;Clasificación de Cartera y Contingente por Entidad, Estado y Destino del Crédito;S_BOASFI66_000727;s_boasfi66_000727;Clasificación de Cartera y Contingente por Entidad, Estado y Destino del Crédito;S_BOASFI66_000727;D_BO_000000332
+ASFI\Colocaciones;Clasificación de Cartera-Contingente por Tipo de Garantía;clf_crt_tip_gar;clf_crt_tip_gar;Clasificación de Cartera-Contingente por Tipo de Garantía;;
+ASFI\Colocaciones;Estratificación de Cartera - Contingente por Monto y Número de Prestatarios;SPIM_0008_ECMNP;spim_0008_ecmnp;Estratificación de Cartera - Contingente por Monto y Número de Prestatarios;SPIM_0008_ECMNP;D_BO_000000367
+ASFI\Colocaciones;Estratificación de Cartera - Contingente por Monto y Número de Prestatarios;SPIM_0008_ECMNP;spim_0008_ecmnp;Estratificación de Cartera - Contingente por Monto y Número de Prestatarios;SPIM_0008_ECMNP;D_BO_000000371
+ASFI\Colocaciones;Clasificación de Cartera y Contingente por Entidad, Estado y Destino del Crédito;S_BOASFI66_000727;s_boasfi66_000727;Clasificación de Cartera y Contingente por Entidad, Estado y Destino del Crédito;S_BOASFI66_000727;D_BO_000000331
+ASFI\Colocaciones;Clasificación de Cartera-Contingente por Actividad Económica del Deudor;ClasifCArtContinActEcon;clasifcartcontinactecon;Clasificación de Cartera-Contingente por Actividad Económica del Deudor;;
+ASFI\Colocaciones;Clasificación de Cartera-Contingente por Destino del Crédito;ClasCartContDestCredi;clascartcontdestcredi;Clasificación de Cartera-Contingente por Destino del Crédito;;
+ASFI\Colocaciones;Clasificación de Cartera-Contingente por Tipo y Objeto del Crédito;S_BOSBEF66_000474;s_bosbef66_000474;Clasificación de Cartera-Contingente por Tipo y Objeto del Crédito;S_BOSBEF66_000474;D_BO_000000338
+ASFI\Colocaciones;Clasificación de Cartera-Contingente por Tipo y Objeto del Crédito;S_BOSBEF66_000474;s_bosbef66_000474;Clasificación de Cartera-Contingente por Tipo y Objeto del Crédito;S_BOSBEF66_000474;D_BO_000000339
+ASFI\Colocaciones;Clasificación de Cartera-Contingente por Tipo y Objeto del Crédito;S_BOSBEF66_000474;s_bosbef66_000474;Clasificación de Cartera-Contingente por Tipo y Objeto del Crédito;S_BOSBEF66_000474;D_BO_000000341
+ASFI\Colocaciones;Clasificación de Cartera-Contingente por Tipo y Objeto del Crédito;S_BOSBEF66_000474;s_bosbef66_000474;Clasificación de Cartera-Contingente por Tipo y Objeto del Crédito;S_BOSBEF66_000474;D_BO_000000340
+ASFI\Colocaciones;Clasificación de Cartera y Contingente por Departamento, Plazo y Destino del Crédito;SPIM_5014_CCCDPDC;spim_5014_cccdpdc;Clasificación de Cartera y Contingente por Departamento, Plazo y Destino del Crédito;SPIM_5014_CCCDPDC;D_BO_000000381
+ASFI\Colocaciones;Clasificación de Cartera y Contingente por Departamento, Plazo y Destino del Crédito;SPIM_5014_CCCDPDC;spim_5014_cccdpdc;Clasificación de Cartera y Contingente por Departamento, Plazo y Destino del Crédito;SPIM_5014_CCCDPDC;D_BO_000000383
+ASFI\Colocaciones;Clasificación de Cartera y Contingente por Departamento, Plazo y Destino del Crédito;SPIM_5014_CCCDPDC;spim_5014_cccdpdc;Clasificación de Cartera y Contingente por Departamento, Plazo y Destino del Crédito;SPIM_5014_CCCDPDC;D_BO_000000382
+ASFI\Colocaciones;Clasificación de Cartera y Contingente por Departamento, Plazo y Destino del Crédito;SPIM_5014_CCCDPDC;spim_5014_cccdpdc;Clasificación de Cartera y Contingente por Departamento, Plazo y Destino del Crédito;SPIM_5014_CCCDPDC;D_BO_000000384
+ASFI\Colocaciones;Clasificación de Cartera-Contingente por Departamento, Estado y Destino del Crédito;clasfCartContDepEstCred;clasfcartcontdepestcred;Clasificación de Cartera-Contingente por Departamento, Estado y Destino del Crédito;;
+ASFI\Colocaciones;Estratificación de Cartera - Contingente por Monto y Número de Prestatarios;SPIM_0008_ECMNP;spim_0008_ecmnp;Estratificación de Cartera - Contingente por Monto y Número de Prestatarios;SPIM_0008_ECMNP;D_BO_000000372
+ASFI\Colocaciones;Estratificación de Cartera - Contingente por Monto y Número de Prestatarios;SPIM_0008_ECMNP;spim_0008_ecmnp;Estratificación de Cartera - Contingente por Monto y Número de Prestatarios;SPIM_0008_ECMNP;D_BO_000000369
+ASFI\Colocaciones;Clasificación de Cartera-Contingente por Tipo de Crédito;clasif_cart_contin_tip;clasif_cart_contin_tip;Clasificación de Cartera-Contingente por Tipo de Crédito;;
+ASFI\Colocaciones;Financiamiento de Entidades del Exterior;SPIM_0010_FEE;spim_0010_fee;Financiamiento de Entidades del Exterior;SPIM_0010_FEE;D_BO_000000315
+ASFI\Colocaciones;Clasificación de Cartera y Contingente por Entidad, Estado y Destino del Crédito;S_BOASFI66_000727;s_boasfi66_000727;Clasificación de Cartera y Contingente por Entidad, Estado y Destino del Crédito;S_BOASFI66_000727;D_BO_000000333
+ASFI\Colocaciones;Ranking de Cartera y Contingente;S_BOSBEF44_000340;s_bosbef44_000340;Ranking de Cartera y Contingente;S_BOSBEF44_000340;D_BO_000000301
+ASFI\Colocaciones;Ranking de Cartera y Contingente;S_BOSBEF44_000340;s_bosbef44_000340;Ranking de Cartera y Contingente;S_BOSBEF44_000340;D_BO_000000302
+ASFI\Colocaciones;Financiamiento de Entidades del Exterior;SPIM_0010_FEE;spim_0010_fee;Financiamiento de Entidades del Exterior;SPIM_0010_FEE;D_BO_000000316
+ASFI\Consumidor Financiero;Reclamos por Entidad Financiera;S_BOASFI44_000671;s_boasfi44_000671;Reclamos por Entidad Financiera;S_BOASFI44_000671;D_BO_000000290
+ASFI\Consumidor Financiero;Reclamos por Entidad Financiera;S_BOASFI44_000671;s_boasfi44_000671;Reclamos por Entidad Financiera;S_BOASFI44_000671;D_BO_000000289
+ASFI\Controladoras;Estados Financieros de Controladoras de Grupos Financieros;S_BOASFI_44_000774;s_boasfi_44_000774;Estados Financieros de Controladoras de Grupos Financieros;S_BOASFI_44_000774;D_BO_000000053
+ASFI\Entidades Financieras;Puntos de Atención de Entidades Financieras;S_BOASFI66_000500;s_boasfi66_000500;Puntos de Atención de Entidades Financieras;S_BOASFI66_000500;D_BO_000000055
+ASFI\Entidades Financieras;Cantidad de Puntos de Atención de Entidades Financieras por Departamento;S_BOASFI_44_000762;s_boasfi_44_000762;Cantidad de Puntos de Atención de Entidades Financieras por Departamento;S_BOASFI_44_000762;D_BO_000000055
+ASFI\Estados Financieros;Balances 4to Nivel;SPIM_5008_B4NV;spim_5008_b4nv;Balance General de Entidades Financieras – Detalle a Cuarto Nivel;SPIM_5008_B4NV;D_BO_000000283
+ASFI\Estados Financieros;Balances 4to Nivel;SPIM_5008_B4NV;spim_5008_b4nv;Balance General de Entidades Financieras – Detalle a Cuarto Nivel;SPIM_5008_B4NV;D_BO_000000285
+ASFI\Estados Financieros;Balances 4to Nivel;SPIM_5008_B4NV;spim_5008_b4nv;Balance General de Entidades Financieras – Detalle a Cuarto Nivel;SPIM_5008_B4NV;D_BO_000000286
+ASFI\Estados Financieros;Estados de Resultados 3er Nivel;SPIM_5010_ER3NV;spim_5010_er3nv;Estados de Resultados 3er Nivel;SPIM_5010_ER3NV;D_BO_000000283
+ASFI\Estados Financieros;Estados de Resultados 3er Nivel;SPIM_5010_ER3NV;spim_5010_er3nv;Estados de Resultados 3er Nivel;SPIM_5010_ER3NV;D_BO_000000281
+ASFI\Estados Financieros;Estados de Resultados 3er Nivel;SPIM_5010_ER3NV;spim_5010_er3nv;Estados de Resultados 3er Nivel;SPIM_5010_ER3NV;D_BO_000000284
+ASFI\Estados Financieros;Resultados de Mercado e Indicadores Financieros del Sistema;S_BOASFI_44_000686;s_boasfi_44_000686;Resultados de Mercado e Indicadores Financieros del Sistema;S_BOASFI_44_000686;D_BO_000000283
+ASFI\Estados Financieros;Resultados de Mercado e Indicadores Financieros del Sistema;S_BOASFI_44_000686;s_boasfi_44_000686;Resultados de Mercado e Indicadores Financieros del Sistema;S_BOASFI_44_000686;D_BO_000000285
+ASFI\Estados Financieros;Estados Financieros 3er Nivel;S_BOSBEF44_000392;s_bosbef44_000392;Estados Financieros 3er Nivel;S_BOSBEF44_000392;D_BO_000000281
+ASFI\Estados Financieros;Estados Financieros 3er Nivel;S_BOSBEF44_000392;s_bosbef44_000392;Estados Financieros 3er Nivel;S_BOSBEF44_000392;D_BO_000000282
+ASFI\Estados Financieros;Estados Financieros 3er Nivel;S_BOSBEF44_000392;s_bosbef44_000392;Estados Financieros 3er Nivel;S_BOSBEF44_000392;D_BO_000000285
+ASFI\Estados Financieros;Estados de Resultados 3er Nivel;SPIM_5010_ER3NV;spim_5010_er3nv;Estados de Resultados 3er Nivel;SPIM_5010_ER3NV;D_BO_000000285
+ASFI\Estados Financieros;Estados Financieros 3er Nivel;S_BOSBEF44_000392;s_bosbef44_000392;Estados Financieros 3er Nivel;S_BOSBEF44_000392;D_BO_000000286
+ASFI\Estados Financieros;Estados Financieros 3er Nivel;S_BOSBEF44_000392;s_bosbef44_000392;Estados Financieros 3er Nivel;S_BOSBEF44_000392;D_BO_000000284
+ASFI\Estados Financieros;Estados Financieros 3er Nivel;S_BOSBEF44_000392;s_bosbef44_000392;Estados Financieros 3er Nivel;S_BOSBEF44_000392;D_BO_000000283
+ASFI\Estados Financieros;Estados de Resultados 3er Nivel;SPIM_5010_ER3NV;spim_5010_er3nv;Estados de Resultados 3er Nivel;SPIM_5010_ER3NV;D_BO_000000282
+ASFI\Estados Financieros;Balances 4to Nivel;SPIM_5008_B4NV;spim_5008_b4nv;Balance General de Entidades Financieras – Detalle a Cuarto Nivel;SPIM_5008_B4NV;D_BO_000000282
+ASFI\Estados Financieros;Balances 4to Nivel;SPIM_5008_B4NV;spim_5008_b4nv;Balance General de Entidades Financieras – Detalle a Cuarto Nivel;SPIM_5008_B4NV;D_BO_000000281
+ASFI\Estados Financieros;Estados de Resultados 3er Nivel;SPIM_5010_ER3NV;spim_5010_er3nv;Estados de Resultados 3er Nivel;SPIM_5010_ER3NV;D_BO_000000286
+ASFI\Estados Financieros;Resultados de Mercado e Indicadores Financieros del Sistema;S_BOASFI_44_000686;s_boasfi_44_000686;Resultados de Mercado e Indicadores Financieros del Sistema;S_BOASFI_44_000686;D_BO_000000284
+ASFI\Estados Financieros;Resultados de Mercado e Indicadores Financieros del Sistema;S_BOASFI_44_000686;s_boasfi_44_000686;Resultados de Mercado e Indicadores Financieros del Sistema;S_BOASFI_44_000686;D_BO_000000281
+ASFI\Estados Financieros;Resultados de Mercado e Indicadores Financieros del Sistema;S_BOASFI_44_000686;s_boasfi_44_000686;Resultados de Mercado e Indicadores Financieros del Sistema;S_BOASFI_44_000686;D_BO_000000286
+ASFI\Estados Financieros;Resultados de Mercado e Indicadores Financieros del Sistema;S_BOASFI_44_000686;s_boasfi_44_000686;Resultados de Mercado e Indicadores Financieros del Sistema;S_BOASFI_44_000686;D_BO_000000282
+ASFI\Estados Financieros;Balances 4to Nivel;SPIM_5008_B4NV;spim_5008_b4nv;Balance General de Entidades Financieras – Detalle a Cuarto Nivel;SPIM_5008_B4NV;D_BO_000000284
+ASFI\Indicadores;Indicadores Financieros ASFI por Tipo de Sistema;S_BOASFI44_000721;s_boasfi44_000721;Indicadores Financieros ASFI por Tipo de Sistema;S_BOASFI44_000721;D_BO_000000292
+ASFI\Indicadores;Indicadores Financieros ASFI por Tipo de Sistema;S_BOASFI44_000721;s_boasfi44_000721;Indicadores Financieros ASFI por Tipo de Sistema;S_BOASFI44_000721;D_BO_000000295
+ASFI\Indicadores;Indicadores Financieros ASFI por Tipo de Sistema;S_BOASFI44_000721;s_boasfi44_000721;Indicadores Financieros ASFI por Tipo de Sistema;S_BOASFI44_000721;D_BO_000000291
+ASFI\Indicadores;Indicadores Financieros ASFI por Tipo de Sistema;S_BOASFI44_000721;s_boasfi44_000721;Indicadores Financieros ASFI por Tipo de Sistema;S_BOASFI44_000721;D_BO_000000294
+ASFI\Indicadores;Indicadores Financieros ASFI por Tipo de Sistema;S_BOASFI44_000721;s_boasfi44_000721;Indicadores Financieros ASFI por Tipo de Sistema;S_BOASFI44_000721;D_BO_000000296
+ASFI\Indicadores;Indicadores Financieros ASFI por Tipo de Sistema;S_BOASFI44_000721;s_boasfi44_000721;Indicadores Financieros ASFI por Tipo de Sistema;S_BOASFI44_000721;D_BO_000000293
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000285
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000324
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000303
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000283
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000307
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000281
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000319
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000304
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000282
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000322
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000305
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000284
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000320
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000306
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000308
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000286
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000323
+ASFI\Indicadores;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;s_bosbef44_000361;Indicadores Financieros ASFI por Categorías;S_BOSBEF44_000361;D_BO_000000321
+ASFI\Indicadores;Indicadores Financieros del Sector Bancario;SPIM_50013_IF;spim_50013_if;Indicadores Financieros del Sector Bancario;;
+ASFI\Indicadores;Empleados por Entidad Financiera;S_BOASFI_66_000365;s_boasfi_66_000365;Empleados por Entidad Financiera;S_BOASFI_66_000365;D_BO_000000325
+ASFI\Indicadores;Calificación de Cartera y Contingente;SPIM_0003_CCC;spim_0003_ccc;Calificación de Cartera y Contingente;SPIM_0003_CCC;D_BO_000000307
+ASFI\Indicadores;Calificación de Cartera y Contingente;SPIM_0003_CCC;spim_0003_ccc;Calificación de Cartera y Contingente;SPIM_0003_CCC;D_BO_000000306
+ASFI\Indicadores;Calificación de Cartera y Contingente;SPIM_0003_CCC;spim_0003_ccc;Calificación de Cartera y Contingente;SPIM_0003_CCC;D_BO_000000305
+ASFI\Indicadores;Calificación de Cartera y Contingente;SPIM_0003_CCC;spim_0003_ccc;Calificación de Cartera y Contingente;SPIM_0003_CCC;D_BO_000000304
+ASFI\Indicadores;Calificación de Cartera y Contingente;SPIM_0003_CCC;spim_0003_ccc;Calificación de Cartera y Contingente;SPIM_0003_CCC;D_BO_000000303
+ASFI\Indicadores;Calificación de Cartera y Contingente;SPIM_0003_CCC;spim_0003_ccc;Calificación de Cartera y Contingente;SPIM_0003_CCC;D_BO_000000308
+ASFI\Indicadores;Empleados por Entidad Financiera;S_BOASFI_66_000365;s_boasfi_66_000365;Empleados por Entidad Financiera;S_BOASFI_66_000365;D_BO_000000327
+ASFI\Indicadores;Indicadores Financieros del Sector Bancario (Utilidad Neta);SPIM_50013_IF2;spim_50013_if2;Indicadores Financieros del Sector Bancario (Utilidad Neta);;
+ASFI\Indicadores;Empleados por Entidad Financiera;S_BOASFI_66_000365;s_boasfi_66_000365;Empleados por Entidad Financiera;S_BOASFI_66_000365;D_BO_000000326
+ASFI\Indicadores;Empleados por Entidad Financiera;S_BOASFI_66_000365;s_boasfi_66_000365;Empleados por Entidad Financiera;S_BOASFI_66_000365;D_BO_000000328
+ASFI\Indicadores;Empleados por Entidad Financiera;S_BOASFI_66_000365;s_boasfi_66_000365;Empleados por Entidad Financiera;S_BOASFI_66_000365;D_BO_000000329
+ASFI\Indicadores;Ponderación de Activos y CAP;SPIM_5012_PASP;spim_5012_pasp;Ponderación de Activos y CAP;SPIM_5012_PASP;D_BO_000000321
+ASFI\Indicadores;Ponderación de Activos y CAP;SPIM_5012_PASP;spim_5012_pasp;Ponderación de Activos y CAP;SPIM_5012_PASP;D_BO_000000319
+ASFI\Indicadores;Ponderación de Activos y CAP;SPIM_5012_PASP;spim_5012_pasp;Ponderación de Activos y CAP;SPIM_5012_PASP;D_BO_000000323
+ASFI\Indicadores;Ponderación de Activos y CAP;SPIM_5012_PASP;spim_5012_pasp;Ponderación de Activos y CAP;SPIM_5012_PASP;D_BO_000000322
+ASFI\Indicadores;Ponderación de Activos y CAP;SPIM_5012_PASP;spim_5012_pasp;Ponderación de Activos y CAP;SPIM_5012_PASP;D_BO_000000324
+ASFI\Indicadores;Ponderación de Activos y CAP;SPIM_5012_PASP;spim_5012_pasp;Ponderación de Activos y CAP;SPIM_5012_PASP;D_BO_000000320
+ASFI\Información Financiera;Cartera por Tipo de Moneda del Sistema Bancario;SPIM_5007_CXTMSB;spim_5007_cxtmsb;Cartera por Tipo de Moneda del Sistema Bancario;SPIM_5007_CXTMSB;D_BO_000000024
+ASFI\Información Financiera;Cartera por Situación del Sistema Bancario;SPIM_5006_CXSSB;spim_5006_cxssb;Cartera por Situación del Sistema Bancario;SPIM_5006_CXSSB;D_BO_000000024
+ASFI\Información Financiera;Liquidez por Factores del Sistema Bancario;SPIM_5003_LXFSB;spim_5003_lxfsb;Liquidez por Factores del Sistema Bancario;SPIM_5003_LXFSB;D_BO_000000024
+ASFI\Servicios Financieros;Estados Financieros Cámaras de Compensación y Liquidación;S_BOASFI_44_000775;s_boasfi_44_000775;Estados Financieros Cámaras de Compensación y Liquidación;S_BOASFI_44_000775;D_BO_000000054
+ASFI\Servicios Financieros;Estados Financieros Empresas de Arrendamiento Financiero;S_BOASF_44_000614;s_boasf_44_000614;Estados Financieros Empresas de Arrendamiento Financiero;S_BOASF_44_000614;D_BO_000000051
+ASFI\Servicios Financieros;Estados Financieros de Almacenes Generales de Depósito;S_BOASF_44_000644;s_boasf_44_000644;Estados Financieros de Almacenes Generales de Depósito;S_BOASF_44_000644;D_BO_000000052
+ATT\Internet;Conexiones de Internet por Departamento;S_BOATT_88_000606;s_boatt_88_000606;Conexiones de Internet por Departamento;;
+ATT\Telefonía;Distribución de Líneas Telefónicas por Departamento;SPIM_8003_DLTD;spim_8003_dltd;Distribución de Líneas Telefónicas por Departamento;;
+BANCO MUNDIAL\Indicadores;World Development Indicators;S_MUBAMU88_000397;s_mubamu88_000397;World Development Indicators;;
+BANCO MUNDIAL\Indicadores;Indicadores del Desarrollo Mundial;S_MUBAMU88_000395;s_mubamu88_000395;Indicadores del Desarrollo Mundial;;
+BANCO MUNDIAL\Indicadores;Indicadores de desarrollo de Población;S_MUBAMU88_000763;;;;
+BBV\Estados Financieros;Estados Financieros de los Emisores - Seguros - BBV;S_BOBBV_66_000749;s_bobbv_66_000749;Estados Financieros de los Emisores - Seguros - BBV;S_BOBBV_66_000749;D_BO_000000536
+BBV\Estados Financieros;Estados Financieros de los Emisores - Seguros - BBV;S_BOBBV_66_000749;s_bobbv_66_000749;Estados Financieros de los Emisores - Seguros - BBV;S_BOBBV_66_000749;D_BO_000000299
+BBV\Estados Financieros;Estados Financieros SAFIs;S_BOBBV_44_000770;s_bobbv_44_000770;Estados Financieros SAFIs;S_BOBBV_44_000770;D_BO_000000548
+BBV\Estadísticas de Mercado;Valores Inscritos en Bolsa por Emisor;S_BOBBV_44_000580;s_bobbv_44_000580;Valores Inscritos en Bolsa por Emisor;S_BOBBV_44_000580;D_BO_000000417
+BBV\Estadísticas de Mercado;Operaciones en la Bolsa de Valores;S_BOBBV_44_000413;s_bobbv_44_000413;Operaciones en la Bolsa de Valores;S_BOBBV_44_000413;D_BO_000000253
+BBV\Estadísticas de Mercado;Evolución Diaria de Operaciones de la Bolsa Boliviana de Valores;S_BOBBV_12_000367;s_bobbv_12_000367;Evolución Diaria de Operaciones de la Bolsa Boliviana de Valores;S_BOBBV_12_000367;D_BO_000000481
+BBV\Estadísticas de Mercado;Operaciones Acumuladas de la Bolsa Boliviana de Valores;S_BOBBV_12_000368;s_bobbv_12_000368;Operaciones Acumuladas de la Bolsa Boliviana de Valores;S_BOBBV_12_000368;D_BO_000000481
+BBV\Estadísticas de Mercado;Acciones Inscritas en Bolsa;S_BOBBV_11_000582;s_bobbv_11_000582;Acciones Inscritas en Bolsa;S_BOBBV_11_000582;D_BO_000000481
+BBV\Estadísticas de Mercado;Fondos de Inversión Administrados por SAFI;S_BOBBV_11_000581;s_bobbv_11_000581;Fondos de Inversión Administrados por SAFI;S_BOBBV_11_000581;D_BO_000000481
+BBV\Estadísticas de Mercado;Tasas de Rendimiento;S_BOBBV_11_000583;s_bobbv_11_000583;Tasas de Rendimiento;S_BOBBV_11_000583;D_BO_000000481
+BCB\Encuestas\Remesas;Remesas de Trabajadores Recibidas;S_BOBCB_44_000773;s_bobcb_44_000773;Remesas de Trabajadores Recibidas;S_BOBCB_44_000773;D_BO_000000265
+BCB\Indicadores Macroecómicos;Precios y Tasas de Interés;SPIM_1075_IMPTI;spim_1075_impti;Precios y Tasas de Interés;SPIM_1075_IMPTI;D_BO_000000419
+BCB\Indicadores Macroecómicos;Operaciones del Sistema Financiero;SPIM_1072_IMOSF;spim_1072_imosf;Operaciones del Sistema Financiero;SPIM_1072_IMOSF;D_BO_000000419
+BCB\Indicadores Macroecómicos;Operaciones de Mercado Abierto y Financiamiento del BCB;SPIM_1071_IMOMAFBCB;spim_1071_imomafbcb;Operaciones de Mercado Abierto y Financiamiento del BCB;SPIM_1071_IMOMAFBCB;D_BO_000000419
+BCB\Indicadores Macroecómicos;Tipos de Cambio y Valor de la UFV;SPIM_1073_IMTCVUFV;spim_1073_imtcvufv;Tipos de Cambio y Valor de la UFV;SPIM_1073_IMTCVUFV;D_BO_000000419
+BCB\Indicadores Macroecómicos;Índices de Información Monetaria;SPIM_1070_IMIIM;spim_1070_imiim;Índices de Información Monetaria;SPIM_1070_IMIIM;D_BO_000000419
+BCB\Indicadores Macroecómicos;Información Monetaria;SPIM_1069_IMIM;spim_1069_imim;Información Monetaria;SPIM_1069_IMIM;D_BO_000000419
+BCB\Indicadores Macroecómicos;Operaciones con el Exterior;SPIM_1068_IMOE;spim_1068_imoe;Operaciones con el Exterior;SPIM_1068_IMOE;D_BO_000000419
+BCB\Indicadores Macroecómicos;Saldos de Deuda Pública;SPIM_1074_IMSDP;spim_1074_imsdp;Saldos de Deuda Pública;SPIM_1074_IMSDP;D_BO_000000419
+BCB\Resultado Subastas;Resultado de Subastas;S_BOBCB_22_000687;s_bobcb_22_000687;Resultado de Subastas;S_BOBCB_22_000687;D_BO_000000539
+BCB\Resultado Subastas;Resultado de Subastas;S_BOBCB_22_000687;s_bobcb_22_000687;Resultado de Subastas;S_BOBCB_22_000687;D_BO_000000540
+BCB\Resultado Subastas;Resultado de Subastas;S_BOBCB_22_000687;s_bobcb_22_000687;Resultado de Subastas;S_BOBCB_22_000687;D_BO_000000039
+BCB\Resultado Subastas;Resultado de Subastas;S_BOBCB_22_000687;s_bobcb_22_000687;Resultado de Subastas;S_BOBCB_22_000687;D_BO_000000040
+BCB\Resultado Subastas;Resultado de Subastas;S_BOBCB_22_000687;s_bobcb_22_000687;Resultado de Subastas;S_BOBCB_22_000687;D_BO_000000038
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000120
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000116
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000117
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000118
+BCB\Sector Bancario y Financiero;Activos Externos Netos del Sistema Bancario;S_BOBCB_44_000295;s_bobcb_44_000295;Activos Externos Netos del Sistema Bancario;S_BOBCB_44_000295;D_BO_000000093
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000122
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000111
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000112
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000121
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000514
+BCB\Sector Bancario y Financiero;Financiamiento Concedido por el Sistema Financiero al Sector Privado por Actividad Económica;SPIM_1057_FCSFSP;spim_1057_fcsfsp;Financiamiento Concedido por el Sistema Financiero al Sector Privado por Actividad Económica;SPIM_1057_FCSFSP;D_BO_000000127
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000115
+BCB\Sector Bancario y Financiero;Financiamiento Concedido por el Banco Central de Bolivia al Sector Público;SPIM_1060_FCXBCBASP;spim_1060_fcxbcbasp;Financiamiento Concedido por el Banco Central de Bolivia al Sector Público;SPIM_1060_FCXBCBASP;D_BO_000000126
+BCB\Sector Bancario y Financiero;Financiamiento de Corto Plazo Concedido por el BCB al Sistema Financiero Operacion de Reporto;SPIM_1059_FCSBASFCP;spim_1059_fcsbasfcp;Financiamiento de Corto Plazo Concedido por el BCB al Sistema Financiero Operacion de Reporto;SPIM_1059_FCSBASFCP;D_BO_000000100
+BCB\Sector Bancario y Financiero;Financiamiento Concedido por el Sistema Financiero al Sector Privado por Actividad Económica;SPIM_1057_FCSFSP;spim_1057_fcsfsp;Financiamiento Concedido por el Sistema Financiero al Sector Privado por Actividad Económica;SPIM_1057_FCSFSP;D_BO_000000125
+BCB\Sector Bancario y Financiero;Financiamiento Concedido por el Banco Central de Bolivia al Sistema Financiero;SPIM_1056_FCBCSF;spim_1056_fcbcsf;Financiamiento Concedido por el Banco Central de Bolivia al Sistema Financiero;SPIM_1056_FCBCSF;D_BO_000000519
+BCB\Sector Bancario y Financiero;Financiamiento Concedido por Sistema Bancario por Bancos;SPIM_1055_FCXSBXB;spim_1055_fcxsbxb;Financiamiento Concedido por Sistema Bancario por Bancos;SPIM_1055_FCXSBXB;D_BO_000000124
+BCB\Sector Bancario y Financiero;Cuentas Contingentes - Banca Comercial;SPIM_1047_CCBC;spim_1047_ccbc;Cuentas Contingentes - Banca Comercial;SPIM_1047_CCBC;D_BO_000000137
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000113
+BCB\Sector Bancario y Financiero;Financiamiento concedido por Entidad Financiadora;SPIM_1014_FCSF;spim_1014_fcsf;Financiamiento concedido por Entidad Financiadora;SPIM_1014_FCSF;D_BO_000000515
+BCB\Sector Bancario y Financiero;Financiamiento concedido por Entidad Financiadora;SPIM_1014_FCSF;spim_1014_fcsf;Financiamiento concedido por Entidad Financiadora;SPIM_1014_FCSF;D_BO_000000517
+BCB\Sector Bancario y Financiero;Financiamiento concedido por Entidad Financiadora;SPIM_1014_FCSF;spim_1014_fcsf;Financiamiento concedido por Entidad Financiadora;SPIM_1014_FCSF;D_BO_000000518
+BCB\Sector Bancario y Financiero;Financiamiento concedido por Entidad Financiadora;SPIM_1014_FCSF;spim_1014_fcsf;Financiamiento concedido por Entidad Financiadora;SPIM_1014_FCSF;D_BO_000000516
+BCB\Sector Bancario y Financiero;Bonos, Certificados de Depósito y Letras del Tesoro General de la Nación;SPIM_1008_DCDLTGN;spim_1008_dcdltgn;Bonos, Certificados de Depósito y Letras del Tesoro General de la Nación;SPIM_1008_DCDLTGN;D_BO_000000136
+BCB\Sector Bancario y Financiero;Cuentas Contingentes por Origen y Tipo de Moneda;SPIM_1007_CCM;spim_1007_ccm;Cuentas Contingentes por Origen y Tipo de Moneda;SPIM_1007_CCM;D_BO_000000138
+BCB\Sector Bancario y Financiero;Captaciones por Departamento;SPIM_1004_C;spim_1004_c;Captaciones por Departamento;SPIM_1004_C;D_BO_000000081
+BCB\Sector Bancario y Financiero;Captaciones por Departamento;SPIM_1004_C;spim_1004_c;Captaciones por Departamento;SPIM_1004_C;D_BO_000000083
+BCB\Sector Bancario y Financiero;Captaciones por Departamento;SPIM_1004_C;spim_1004_c;Captaciones por Departamento;SPIM_1004_C;D_BO_000000082
+BCB\Sector Bancario y Financiero;Balances Consolidados del BCB;S_BOBCB44_000250;s_bobcb44_000250;Balances Consolidados del BCB;S_BOBCB44_000250;D_BO_000000113
+BCB\Sector Bancario y Financiero;Depósitos de Entidades Bancarias por Departamento y Tipo de Depósito;SPIM_1061_DEFD;spim_1061_defd;Depósitos de Entidades Bancarias por Departamento y Tipo de Depósito;SPIM_1061_DEFD;D_BO_000000130
+BCB\Sector Bancario y Financiero;Depósitos de Entidades Bancarias por Departamento y Tipo de Depósito;SPIM_1061_DEFD;spim_1061_defd;Depósitos de Entidades Bancarias por Departamento y Tipo de Depósito;SPIM_1061_DEFD;D_BO_000000129
+BCB\Sector Bancario y Financiero;Balances Consolidados del BCB;S_BOBCB44_000250;s_bobcb44_000250;Balances Consolidados del BCB;S_BOBCB44_000250;D_BO_000000112
+BCB\Sector Bancario y Financiero;Crédito al Sector Privado por Departamento;SPIM_1066_CSPD;spim_1066_cspd;Crédito al Sector Privado por Departamento;SPIM_1066_CSPD;D_BO_000000091
+BCB\Sector Bancario y Financiero;Depósitos en el Sistema Bancario por Tipo de Cuenta y Departamento;SPIM_1065_DSBCD;spim_1065_dsbcd;Depósitos en el Sistema Bancario por Tipo de Cuenta y Departamento;SPIM_1065_DSBCD;D_BO_000000134
+BCB\Sector Bancario y Financiero;Depósitos de Entidades Financieras por Monedas;SPIM_1063_DEFM;spim_1063_defm;Depósitos de Entidades Financieras por Monedas;SPIM_1063_DEFM;D_BO_000000131
+BCB\Sector Bancario y Financiero;Depósitos de Entidades Financieras por Monedas;SPIM_1063_DEFM;spim_1063_defm;Depósitos de Entidades Financieras por Monedas;SPIM_1063_DEFM;D_BO_000000135
+BCB\Sector Bancario y Financiero;Depósitos de Entidades Financieras por Monedas;SPIM_1063_DEFM;spim_1063_defm;Depósitos de Entidades Financieras por Monedas;SPIM_1063_DEFM;D_BO_000000133
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000123
+BCB\Sector Bancario y Financiero;Financiamiento de Corto Plazo concedido por el Banco Central al Sistema Financiero para Operaciones con Garantía;SPIM_1062_FCSBASFCPOCG;spim_1062_fcsbasfcpocg;Financiamiento de Corto Plazo concedido por el Banco Central al Sistema Financiero para Operaciones con Garantía;SPIM_1062_FCSBASFCPOCG;D_BO_000000100
+BCB\Sector Bancario y Financiero;Depósitos de Entidades Bancarias por Departamento y Tipo de Depósito;SPIM_1061_DEFD;spim_1061_defd;Depósitos de Entidades Bancarias por Departamento y Tipo de Depósito;SPIM_1061_DEFD;D_BO_000000128
+BCB\Sector Bancario y Financiero;Depósitos de Entidades Financieras por Monedas;SPIM_1063_DEFM;spim_1063_defm;Depósitos de Entidades Financieras por Monedas;SPIM_1063_DEFM;D_BO_000000132
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000106
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000107
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000110
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000109
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000108
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000114
+BCB\Sector Bancario y Financiero;Balances Consolidados;SPIM_1067_BC;spim_1067_bc;Balances Consolidados;SPIM_1067_BC;D_BO_000000119
+BCB\Sector Externo;Cotización Oficial de los Principales Minerales;SPIM_1040_COPM;spim_1040_copm;Cotización Oficial de los Principales Minerales;SPIM_1040_COPM;D_BO_000000511
+BCB\Sector Externo;Importación de Bienes según Uso o Destino Económico;SPIM_1039_IDBSUDE;spim_1039_idbsude;Importación de Bienes según Uso o Destino Económico;SPIM_1039_IDBSUDE;D_BO_000000510
+BCB\Sector Externo;Exportaciones por Zonas Económicas;SPIM_1038_EZE;spim_1038_eze;Exportaciones por Zonas Económicas;SPIM_1038_EZE;D_BO_000000509
+BCB\Sector Externo;Volumen y Valor de las Exportaciones (Semestral);SPIM_1037_VVES;spim_1037_vves;Volumen y Valor de las Exportaciones (Semestral);SPIM_1037_VVES;D_BO_000000269
+BCB\Sector Externo;Ingreso y Egreso de Divisas;S_BOBCB_44_000287;s_bobcb_44_000287;Ingreso y Egreso de Divisas;S_BOBCB_44_000287;D_BO_000000513
+BCB\Sector Externo;Exportación de Minerales;SPIM_1033_EDM;spim_1033_edm;Exportación de Minerales;SPIM_1033_EDM;D_BO_000000504
+BCB\Sector Externo;Volumen y Valor de la Exportación de Hidrocarburos;SPIM_1035_EDH;spim_1035_edh;Volumen y Valor de la Exportación de Hidrocarburos;SPIM_1035_EDH;D_BO_000000506
+BCB\Sector Externo;Volumen y Valor de las Exportaciones (Anual);SPIM_1034_VVEA;spim_1034_vvea;Volumen y Valor de las Exportaciones (Anual);SPIM_1034_VVEA;D_BO_000000269
+BCB\Sector Externo;Exportación de Minerales;SPIM_1033_EDM;spim_1033_edm;Exportación de Minerales;SPIM_1033_EDM;D_BO_000000503
+BCB\Sector Externo;Exportación de Minerales;SPIM_1033_EDM;spim_1033_edm;Exportación de Minerales;SPIM_1033_EDM;D_BO_000000505
+BCB\Sector Externo;Reservas Internacionales del Sistema Bancario Consolidado;S_BOBCB_44_000280;s_bobcb_44_000280;Reservas Internacionales Consolidadas del Sistema Bancario Boliviano;S_BOBCB_44_000280;D_BO_000000139
+BCB\Sector Externo;Volumen y Valor de la Exportación de Productos no Tradicionales;SPIM_1036_EDPNT;spim_1036_edpnt;Volumen y Valor de la Exportación de Productos no Tradicionales;SPIM_1036_EDPNT;D_BO_000000508
+BCB\Sector Externo;Deuda Externa Pública a Corto, Mediano y Largo Plazo por Deudor;S_BOBCB_44_000288;s_bobcb_44_000288;Deuda Externa Pública a Corto, Mediano y Largo Plazo por Deudor;S_BOBCB_44_000288;D_BO_000000013
+BCB\Sector Externo;Volumen y Valor de la Exportación de Productos no Tradicionales;SPIM_1036_EDPNT;spim_1036_edpnt;Volumen y Valor de la Exportación de Productos no Tradicionales;SPIM_1036_EDPNT;D_BO_000000507
+BCB\Sector Externo;Deuda Externa Pública a Mediano y Largo Plazo por Acreedor;S_BOBCB_44_000289;s_bobcb_44_000289;Deuda Externa Pública a Mediano y Largo Plazo por Acreedor;S_BOBCB_44_000289;D_BO_000000013
+BCB\Sector Externo;Ingreso y Egreso de Divisas;S_BOBCB_44_000287;s_bobcb_44_000287;Ingreso y Egreso de Divisas;S_BOBCB_44_000287;D_BO_000000512
+BCB\Sector Externo;Balanza Cambiaria;S_BOBCB_44_000588;s_bobcb_44_000588;Balanza Cambiaria;S_BOBCB_44_000588;D_BO_000000094
+BCB\Sector Externo;Operaciones en el Bolsín y Tipos de Cambio;S_BOBCB_44_000699;s_bobcb_44_000699;Operaciones en el Bolsín y Tipos de Cambio;S_BOBCB_44_000699;D_BO_000000078
+BCB\Sector Externo;Reservas Internacionales Disponibles para Inversión (Evolución por Portafolio);S_BOBCB_44_000722;s_bobcb_44_000722;Reservas Internacionales Disponibles para Inversión (Evolución por Portafolio);;
+BCB\Sector Externo;Balanza Comercial;S_BOBCB_66_000643;s_bobcb_66_000643;Balanza Comercial;S_BOBCB_66_000643;D_BO_000000140
+BCB\Sector Externo;Reservas Internacionales del Banco Central de Bolivia;S_BOBCB_44_000281;s_bobcb_44_000281;Reservas Internacionales del Banco Central de Bolivia;S_BOBCB_44_000281;D_BO_000000463
+BCB\Sector Externo;Desembolso Deuda Pública Externa de Mediano y Largo Plazo por Acreedor;S_BOBCB_77_000292;s_bobcb_77_000292;Desembolso Deuda Pública Externa de Mediano y Largo Plazo por Acreedor;S_BOBCB_77_000292;D_BO_000000013
+BCB\Sector Externo;Servicio Debido Deuda Externa Pública de Mediano y Largo Plazo;S_BOBCB_77_000293;s_bobcb_77_000293;Servicio Debido Deuda Externa Pública de Mediano y Largo Plazo;S_BOBCB_77_000293;D_BO_000000266
+BCB\Sector Externo;Servicio Debido Deuda Externa Pública de Mediano y Largo Plazo por Acreedor;S_BOBCB_77_000294;s_bobcb_77_000294;Servicio Debido Deuda Externa Pública de Mediano y Largo Plazo por Acreedor;S_BOBCB_77_000294;D_BO_000000267
+BCB\Sector Externo;Transferencias Unilaterales Oficiales por País Donante, Organización y Naturaleza Contable;S_BOBCB_77_000296;s_bobcb_77_000296;Transferencias Unilaterales Oficiales por País Donante, Organización y Naturaleza Contable;S_BOBCB_77_000296;D_BO_000000268
+BCB\Sector Fiscal;Impuesto a las Transacciones Financieras;SPIM_1021_ITF;spim_1021_itf;Impuesto a las Transacciones Financieras;SPIM_1021_ITF;D_BO_000000144
+BCB\Sector Fiscal;Operaciones Consolidadas;SPIM_1023_OC;spim_1023_oc;Operaciones Consolidadas;SPIM_1023_OC;D_BO_000000142
+BCB\Sector Fiscal;Operaciones Consolidadas;SPIM_1023_OC;spim_1023_oc;Operaciones Consolidadas;SPIM_1023_OC;D_BO_000000141
+BCB\Sector Fiscal;Operaciones Consolidadas;SPIM_1023_OC;spim_1023_oc;Operaciones Consolidadas;SPIM_1023_OC;D_BO_000000143
+BCB\Sector Monetario;Encaje Legal del Sistema Bancario por Monedas;SPIM_1046_ELSBM;spim_1046_elsbm;Encaje Legal del Sistema Bancario por Monedas;SPIM_1046_ELSBM;D_BO_000000090
+BCB\Sector Monetario;Base Monetaria por Determinantes y Componentes;SPIM_1054_BMDC;spim_1054_bmdc;Base Monetaria por Determinantes y Componentes;SPIM_1054_BMDC;D_BO_000000102
+BCB\Sector Monetario;Fuentes y Usos de Fondos;SPIM_1020_FUF;spim_1020_fuf;Fuentes y Usos de Fondos;SPIM_1020_FUF;D_BO_000000096
+BCB\Sector Monetario;Agregados Monetarios;SPIM_1003_AM;spim_1003_am;Agregados Monetarios;SPIM_1003_AM;D_BO_000000095
+BCB\Sector Monetario;Agregados Monetarios por Cuenta Monetaria;SPIM_1001_AMCM;spim_1001_amcm;Agregados Monetarios por Cuenta Monetaria;SPIM_1001_AMCM;D_BO_000000080
+BCB\Sector Monetario;Agregados Monetarios por Cuenta Monetaria;SPIM_1001_AMCM;spim_1001_amcm;Agregados Monetarios por Cuenta Monetaria;SPIM_1001_AMCM;D_BO_000000079
+BCB\Sector Monetario;Base Monetaria por Destino;SPIM_1053_BMXD;spim_1053_bmxd;Base Monetaria por Destino;SPIM_1053_BMXD;D_BO_000000101
+BCB\Sector Monetario;Encaje Legal del Sistema Bancario por Monedas;SPIM_1046_ELSBM;spim_1046_elsbm;Encaje Legal del Sistema Bancario por Monedas;SPIM_1046_ELSBM;D_BO_000000088
+BCB\Sector Monetario;Encaje Legal del Sistema Bancario por Monedas;SPIM_1046_ELSBM;spim_1046_elsbm;Encaje Legal del Sistema Bancario por Monedas;SPIM_1046_ELSBM;D_BO_000000087
+BCB\Sector Monetario;Destino del Medio Circulante y de la Liquidez Total;SPIM_1052_DMCLT;spim_1052_dmclt;Destino del Medio Circulante y de la Liquidez Total;SPIM_1052_DMCLT;D_BO_000000099
+BCB\Sector Monetario;Multiplicadores de la Base Monetaria;SPIM_1022_MBM;spim_1022_mbm;Multiplicadores de la Base Monetaria;SPIM_1022_MBM;D_BO_000000105
+BCB\Sector Monetario;Encaje Legal del Sistema Bancario por Monedas;SPIM_1046_ELSBM;spim_1046_elsbm;Encaje Legal del Sistema Bancario por Monedas;SPIM_1046_ELSBM;D_BO_000000089
+BCB\Sector Monetario;Tasas Libor para Operaciones en Dólares;SPIM_1045_TIL;spim_1045_til;Tasas Libor para Operaciones en Dólares;SPIM_1045_TIL;D_BO_000000098
+BCB\Sector Monetario;Tasas de Interés Reales;SPIM_1043_TIR;spim_1043_tir;Tasas de Interés Reales;SPIM_1043_TIR;D_BO_000000085
+BCB\Sector Monetario;Tasas de Reporto y Fondos RAL (Requerimiento de Activos Líquidos);SPIM_1041_TRFR;spim_1041_trfr;Tasas de Reporto y Fondos RAL (Requerimiento de Activos Líquidos);SPIM_1041_TRFR;D_BO_000000084
+BCB\Sector Monetario;Encaje Legal del Sistema Bancario por Monedas (Diferencias Netas);SPIM_1048_ELSBMDN;spim_1048_elsbmdn;Encaje Legal del Sistema Bancario por Monedas (Diferencias Netas);SPIM_1048_ELSBMDN;D_BO_000000088
+BCB\Sector Monetario;Tasas de Interés de Encaje Legal;SPIM_1042_TIEL;spim_1042_tiel;Tasas de Interés de Encaje Legal;SPIM_1042_TIEL;D_BO_000000097
+BCB\Sector Monetario;Encaje Legal del Sistema Bancario por Monedas (Diferencias Netas);SPIM_1048_ELSBMDN;spim_1048_elsbmdn;Encaje Legal del Sistema Bancario por Monedas (Diferencias Netas);SPIM_1048_ELSBMDN;D_BO_000000087
+BCB\Sector Monetario;Encaje Legal del Sistema Bancario por Monedas (Diferencias Netas);SPIM_1048_ELSBMDN;spim_1048_elsbmdn;Encaje Legal del Sistema Bancario por Monedas (Diferencias Netas);SPIM_1048_ELSBMDN;D_BO_000000090
+BCB\Sector Monetario;Base Monetaria por Origen;SPIM_1049_BMXO;spim_1049_bmxo;Base Monetaria por Origen;SPIM_1049_BMXO;D_BO_000000101
+BCB\Sector Monetario;Origen de la Liquidez Total;SPIM_1050_ODLT;spim_1050_odlt;Origen de la Liquidez Total;SPIM_1050_ODLT;D_BO_000000103
+BCB\Sector Monetario;Origen de la Liquidez Total (Desagregado);SPIM_1051_OLTD;spim_1051_oltd;Origen de la Liquidez Total (Desagregado);SPIM_1051_OLTD;D_BO_000000104
+BCB\Sector Monetario;Encaje Legal del Sistema Bancario por Monedas (Diferencias Netas);SPIM_1048_ELSBMDN;spim_1048_elsbmdn;Encaje Legal del Sistema Bancario por Monedas (Diferencias Netas);SPIM_1048_ELSBMDN;D_BO_000000089
+BCB\Tasas de Interés;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;s_bobcb_22_000338;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;D_BO_000000032
+BCB\Tasas de Interés;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;s_bobcb_22_000338;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;D_BO_000000036
+BCB\Tasas de Interés;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;s_bobcb_22_000338;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;D_BO_000000033
+BCB\Tasas de Interés;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;s_bobcb_22_000338;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;D_BO_000000031
+BCB\Tasas de Interés;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;s_bobcb_22_000338;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;D_BO_000000028
+BCB\Tasas de Interés;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;s_bobcb_22_000338;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;D_BO_000000030
+BCB\Tasas de Interés;Tasas Interbancarias - Promedio Ponderado;S_BOBCB_22_000723;s_bobcb_22_000723;Tasas Interbancarias - Promedio Ponderado;S_BOBCB_22_000723;D_BO_000000418
+BCB\Tasas de Interés;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;s_bobcb_22_000338;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;D_BO_000000035
+BCB\Tasas de Interés;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;s_bobcb_22_000338;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;D_BO_000000029
+BCB\Tasas de Interés;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;s_bobcb_22_000338;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;D_BO_000000027
+BCB\Tasas de Interés;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;s_bobcb_22_000338;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;D_BO_000000034
+BCB\Tasas de Interés;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;s_bobcb_22_000338;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;D_BO_000000026
+BCB\Tasas de Interés;Tasas Nominales Empresas;S_BOBCB_22_000778;s_bobcb_22_000778;Tasas Nominales Empresas;S_BOBCB_22_000778;D_BO_000000041
+BCB\Tasas de Interés;Tasas Interbancarias;S_BOBCB_44_000286;s_bobcb_44_000286;Tasas Interbancarias;S_BOBCB_44_000286;D_BO_000000092
+BCB\Tasas de Interés;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;s_bobcb_22_000338;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;S_BOBCB_22_000338;D_BO_000000037
+BCB\Tasas de Interés;Tasas de Interés Anuales Efectivas - Diario;S_BOBCB_11_000650;s_bobcb_11_000650;Tasas de Interés Anuales Efectivas - Diario;S_BOBCB_11_000650;D_BO_000000484
+BCB\Tasas de Interés;Tasas de Interés Anuales Efectivas;tasa_int_anual;tasa_int_anual;Tasas de Interés Anuales Efectivas;;
+BCB\Tasas de Interés;Evolución de las Tasas de Referencia (TRE);SPIM_1076_ETRE;spim_1076_etre;Evolución de las Tasas de Referencia (TRE);SPIM_1076_ETRE;D_BO_000000487
+BCB\Tasas de Interés;Tasa de Interés para letras de Tesoreria (LTs) y Bonos del Tesoro (BTs);SPIM_1044_TIPLTLTSBT;spim_1044_tipltltsbt;Tasa de Interés para letras de Tesoreria (LTs) y Bonos del Tesoro (BTs);SPIM_1044_TIPLTLTSBT;D_BO_000000086
+BCB\Tipo de Cambio;Tipos de Cambio Dólar Pactados con Clientes;S_BOBCB_11_000321;s_bobcb_11_000321;Tipos de Cambio Dólar Pactados con Clientes;;
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000230
+BCB\Tipo de Cambio;Volumen de Operaciones de Tipos de Cambio por Tipo de Entidad Financiera;S_BOBCB_11_000480;s_bobcb_11_000480;Volumen de Operaciones de Tipos de Cambio por Tipo de Entidad Financiera;;
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000236
+BCB\Tipo de Cambio;Tipo de Cambio del Dólar en el Mercado Paralelo;S_BOBCB_16_000662;s_bobcb_16_000662;Tipo de Cambio del Dólar en el Mercado Paralelo;;
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000233
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000227
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000223
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000221
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000228
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000232
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000229
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000246
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000219
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000231
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000245
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000248
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000220
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000222
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000239
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000241
+BCB\Tipo de Cambio;Cotización de Metales Preciosos;S_BOBCB_11_000320;s_bobcb_11_000320;Cotización de Metales Preciosos;S_BOBCB_11_000320;D_BO_000000485
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000240
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000237
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000226
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000244
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000247
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000224
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000225
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000243
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000238
+BCB\Tipo de Cambio;Valor Referencial de Venta del Dólar;S_BOBCB_11_000829;;;;
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000234
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000242
+BCB\Tipo de Cambio;Tipos de Cambio;SPIM_0014_TTC;spim_0014_ttc;Tipos de Cambio;SPIM_0014_TTC;D_BO_000000235
+BOLCEREALES (ARG)\Mercados de Exportación;Bolsa de Comercio de Rosario;S_ARBCR_11_000698;s_arbcr_11_000698;Bolsa de Comercio de Rosario;S_ARBCR_11_000698;D_BO_000000489
+BOLCEREALES (ARG)\Mercados de Exportación;Precios Índice y FOB Mínimos de Exportación de Granos y Derivados;S_ARBCER11_000609;s_arbcer11_000609;Precios Índice y FOB Mínimos de Exportación de Granos y Derivados;S_ARBCER11_000609;D_BO_000000042
+CADEXCO\Estadísticas;Exportaciones de Productos no Tradicionales de Cochabamba;S_BOCXCO_44_000309;s_bocxco_44_000309;Exportaciones de Productos no Tradicionales de Cochabamba;;
+CADEXCO\Estadísticas;Volumen y Valor de las Exportaciones de Cochabamba por Zona Económica;S_BOCXCO_44_000313;s_bocxco_44_000313;Volumen y Valor de las Exportaciones de Cochabamba por Zona Económica;;
+CADEXCO\Estadísticas;Volumen y Valor de las Exportaciones de Cochabamba por Medio de Transporte;S_BOCXCO_44_000312;s_bocxco_44_000312;Volumen y Valor de las Exportaciones de Cochabamba por Medio de Transporte;;
+CADEXCO\Estadísticas;Volumen y Valor de las Exportaciones de Cochabamba por País;S_BOCXCO_44_000311;s_bocxco_44_000311;Evolución del Volumen y Valor de Exportaciones de Cochabamba por Destino;;
+CADEXCO\Estadísticas;Volumen y Valor de las Exportaciones de Cochabamba por Sector;S_BOCXCO_44_000310;s_bocxco_44_000310;Volumen y Valor de las Exportaciones de Cochabamba por Sector;;
+CEPAL\Estadísticas Sociales\Población;Estructura en Porcentaje de la Población Total por Grupos de Edad de América Latina;S_MUCEPA88_000629;s_mucepa88_000629;Estructura en Porcentaje de la Población Total por Grupos de Edad de América Latina;;
+CEPAL\Estadísticas Sociales\Población;Tasa de Crecimiento Anual Promedio de la Población Total por Quinquenios de América Latina;S_MUCEPA88_000627;s_mucepa88_000627;Tasa de Crecimiento Anual Promedio de la Población Total por Quinquenios de América Latina;S_MUCEPA88_000627;D_BO_000000466
+CEPAL\Estadísticas Sociales\Población;Proyecciones de la Población Total por Quinquenios de América Latina;S_MUCEPA88_000628;s_mucepa88_000628;Proyecciones de la Población Total por Quinquenios de América Latina;S_MUCEPA88_000628;D_BO_000000467
+CEPAL\Estadísticas Sociales\Población;Tasa de Crecimiento Anual Promedio de la Población Total por Grupos de Edad de América Latina;S_MUCEPA88_000630;s_mucepa88_000630;Tasa de Crecimiento Anual Promedio de la Población Total por Grupos de Edad de América Latina;S_MUCEPA88_000630;D_BO_000000468
+CEPAL\Estadísticas Sociales\Trabajo;Tasa de Desempleo Abierto Urbano, según Sexo y Grupos de Edad de América Latina;S_MUCEPA88_000632;s_mucepa88_000632;Tasa de Desempleo Abierto Urbano, según Sexo y Grupos de Edad de América Latina;S_MUCEPA88_000632;D_BO_000000469
+CEPAL\Estadísticas Sociales\Trabajo;Tasa Anual Media de Desempleo de América Latina;S_MUCEPA88_000631;s_mucepa88_000631;Tasa Anual Media de Desempleo de América Latina;S_MUCEPA88_000631;D_BO_000000465
+CEPAL\Estadísticas Sociales\Trabajo;Tasa de Desempleo Abierto Urbano, según Sexo y Años de Estudio;S_MUCEPA88_000633;s_mucepa88_000633;Tasa de Desempleo Abierto Urbano, según Sexo y Años de Estudio;S_MUCEPA88_000633;D_BO_000000472
+CEPAL\Estadísticas económicas\Cuentas Nacionales;Producto Interno Bruto de América Latina y el Caribe;SPIM_7003_ALCPIBPT;spim_7003_alcpibpt;Producto Interno Bruto de América Latina y el Caribe;SPIM_7003_ALCPIBPT;D_BO_000000477
+CEPAL\Estadísticas económicas\Cuentas Nacionales;Producto Interno Bruto de América Latina por Tipo de Gasto;SPIM_7004_ALPIBTG;spim_7004_alpibtg;Producto Interno Bruto de América Latina por Tipo de Gasto;;
+CEPAL\Estadísticas económicas\Cuentas Nacionales;Producto Interno Bruto de América Latina y el Caribe;SPIM_7003_ALCPIBPT;spim_7003_alcpibpt;Producto Interno Bruto de América Latina y el Caribe;SPIM_7003_ALCPIBPT;D_BO_000000479
+CEPAL\Estadísticas económicas\Cuentas Nacionales;Producto Interno Bruto de América Latina y el Caribe;SPIM_7003_ALCPIBPT;spim_7003_alcpibpt;Producto Interno Bruto de América Latina y el Caribe;SPIM_7003_ALCPIBPT;D_BO_000000478
+CEPAL\Estadísticas económicas\Cuentas Nacionales;Producto Interno Bruto, Tasas de Variación;S_MUCEPA88_000642;s_mucepa88_000642;Producto Interno Bruto, Tasas de Variación;S_MUCEPA88_000642;D_BO_000000470
+CEPAL\Estadísticas económicas\Sector Externo;Balanza de Pagos por Región Económica;SPIM_7002_BPR;spim_7002_bpr;Balanza de Pagos por Región Económica;SPIM_7002_BPR;D_BO_000000464
+CEPAL\Estadísticas económicas\Sector Externo;Balanza de Pagos de América del Sur;SPIM_7005_BPPA;spim_7005_bppa;Balanza de Pagos de América del Sur;SPIM_7005_BPPA;D_BO_000000471
+CEPAL\Estadísticas económicas\Sector Externo;Ingresos por Remesas de Trabajadores Emigrados;S_MUCEPA88_000645;s_mucepa88_000645;Ingresos por Remesas de Trabajadores Emigrados;;
+CNDC\Diaria;Balance de Energía por Hora y Áreas;S_BOCNDC11_000437;s_bocndc11_000437;Balance de Energía por Hora y Áreas;S_BOCNDC11_000437;D_BO_000000500
+CNDC\Diaria;Datos Hidrológicos Previstos;S_BOCNDC11_000417;s_bocndc11_000417;Datos Hidrológicos Previstos;S_BOCNDC11_000417;D_BO_000000499
+CNDC\Diaria;Caudales de Aportes, Volumen Embalsado, Energía Disponible por Embalse;S_BOCNDC11_000441;s_bocndc11_000441;Caudales de Aportes, Volumen Embalsado, Energía Disponible por Embalse;S_BOCNDC11_000441;D_BO_000000482
+CNDC\Diaria;Indisponibilidades Previstas;S_BOCNDC11_000416;s_bocndc11_000416;Indisponibilidades Previstas;S_BOCNDC11_000416;D_BO_000000488
+CNDC\Diaria;Predespacho y Despacho de Carga Eléctrica por Tipo de Central, Tipo de Sistema y Tipo de Carga;S_BOCNDC11_000415;s_bocndc11_000415;Predespacho y Despacho de Carga Eléctrica por Tipo de Central, Tipo de Sistema y Tipo de Carga;S_BOCNDC11_000415;D_BO_000000486
+CNDC\Diaria;Caudal Incremental Medio por Sistema según Tiempo Semanal y Tiempo Regular;S_BOCNDC22_000465;s_bocndc22_000465;Caudal Incremental Medio por Sistema según Tiempo Semanal y Tiempo Regular;S_BOCNDC22_000465;D_BO_000000535
+CNDC\Diaria;Predespacho y Despacho de Carga Eléctrica por Tipo de Central, Tipo de Sistema y Tipo de Carga;S_BOCNDC11_000415;s_bocndc11_000415;Predespacho y Despacho de Carga Eléctrica por Tipo de Central, Tipo de Sistema y Tipo de Carga;S_BOCNDC11_000415;D_BO_000000493
+CNDC\Diaria;Inyección y Retiro de Energía por Hora según Área - Nodo de Inicio y Final;S_BOCNDC11_000438;s_bocndc11_000438;Inyección y Retiro de Energía por Hora según Área - Nodo de Inicio y Final;S_BOCNDC11_000438;D_BO_000000500
+CNDC\Diaria;Oferta Diaria de Potencia;S_BOCNDC11_000440;s_bocndc11_000440;Oferta Diaria de Potencia;S_BOCNDC11_000440;D_BO_000000494
+CNDC\Diaria;Inyecciones de Energía al STI por Tipo de Central, Empresa y Sistema;S_BOCNDC11_000442;s_bocndc11_000442;Inyecciones de Energía al STI por Tipo de Central, Empresa y Sistema;S_BOCNDC11_000442;D_BO_000000483
+CNDC\Diaria;Generación Diaria y Generación Máxima;S_BOCNDC11_000445;s_bocndc11_000445;Generación Diaria y Generación Máxima;S_BOCNDC11_000445;D_BO_000000480
+CNDC\Diaria;Demanda de Potencia de Consumidores;S_BOCNDC11_000446;s_bocndc11_000446;Demanda de Potencia de Consumidores;S_BOCNDC11_000446;D_BO_000000492
+CNDC\Diaria;Demanda de Potencia de Consumidores;S_BOCNDC11_000446;s_bocndc11_000446;Demanda de Potencia de Consumidores;S_BOCNDC11_000446;D_BO_000000538
+CNDC\Mensual;Inyecciones de Energía en Nodos del STI;S_BOCNDC14_000448;s_bocndc14_000448;Inyecciones de Energía en Nodos del STI;S_BOCNDC14_000448;D_BO_000000060
+CNDC\Mensual;Retiros y Demandas de Energía en Nodos del STI;S_BOCNDC14_000449;s_bocndc14_000449;Retiros y Demandas de Energía en Nodos del STI;S_BOCNDC14_000449;D_BO_000000061
+CNDC\Mensual;Retiros y Demandas de Energía en Nodos del STI;S_BOCNDC14_000449;s_bocndc14_000449;Retiros y Demandas de Energía en Nodos del STI;S_BOCNDC14_000449;D_BO_000000062
+CNDC\Mensual;Precios del Gas Natural (sin IVA) según Central;S_BOCNDC44_000463;s_bocndc44_000463;Precios del Gas Natural (sin IVA) según Central;S_BOCNDC44_000463;D_BO_000000075
+CNDC\Mensual;Costos Marginales de Generación por Hora;S_BOCNDC44_000461;s_bocndc44_000461;Costos Marginales de Generación por Hora;S_BOCNDC44_000461;D_BO_000000073
+CNDC\Mensual;Demandas Máximas por Nodos y Máximas Coincidentales con el Sistema;S_BOCNDC44_000460;s_bocndc44_000460;Demandas Máximas por Nodos y Máximas Coincidentales con el Sistema;S_BOCNDC44_000460;D_BO_000000072
+CNDC\Mensual;Demandas Máximas por Nodos y Máximas Coincidentales con el Sistema;S_BOCNDC44_000460;s_bocndc44_000460;Demandas Máximas por Nodos y Máximas Coincidentales con el Sistema;S_BOCNDC44_000460;D_BO_000000071
+CNDC\Mensual;Demanda Prevista y Real de Energía y Potencia;S_BOCNDC44_000459;s_bocndc44_000459;Demanda Prevista y Real de Energía y Potencia;S_BOCNDC44_000459;D_BO_000000070
+CNDC\Mensual;Inyecciones y Retiros de Energía por Empresa y Nodo;S_BOCNDC44_000458;s_bocndc44_000458;Inyecciones y Retiros de Energía por Empresa y Nodo;S_BOCNDC44_000458;D_BO_000000069
+CNDC\Mensual;Generación Bruta de Energía por Tipo Central y Central;S_BOCNDC44_000457;s_bocndc44_000457;Generación Bruta de Energía por Tipo Central y Central;S_BOCNDC44_000457;D_BO_000000077
+CNDC\Mensual;Cargos por Retiros Montos;S_BOCNDC44_000454;s_bocndc44_000454;Cargos por Retiros Montos;S_BOCNDC44_000454;D_BO_000000065
+CNDC\Mensual;Cargos por Retiros;S_BOCNDC44_000453;s_bocndc44_000453;Cargos por Retiros;S_BOCNDC44_000453;D_BO_000000065
+CNDC\Mensual;Cargos por Inyecciones según Empresa y Central (Montos);S_BOCNDC44_000452;s_bocndc44_000452;Cargos por Inyecciones según Empresa y Central (Montos);S_BOCNDC44_000452;D_BO_000000064
+CNDC\Mensual;Temperatura en Centrales Térmicas;S_BOCNDC14_000467;s_bocndc14_000467;Temperatura en Centrales Térmicas;S_BOCNDC14_000467;D_BO_000000076
+CNDC\Mensual;Cargos por Inyecciones;S_BOCNDC44_000451;s_bocndc44_000451;Cargos por Inyecciones;S_BOCNDC44_000451;D_BO_000000064
+CNDC\Mensual;Curva de Carga por Hora del Día de Demanda Máxima del Mes;S_BOCNDC44_000450;s_bocndc44_000450;Curva de Carga por Hora del Día de Demanda Máxima del Mes;S_BOCNDC44_000450;D_BO_000000063
+CNDC\Mensual;Generación Bruta por Empresa y Central;S_BOCNDC44_000447;s_bocndc44_000447;Generación Bruta por Empresa y Central;S_BOCNDC44_000447;D_BO_000000066
+CNDC\Mensual;Volumen Útil Embalsado;S_BOCNDC24_000466;s_bocndc24_000466;Volumen Útil Embalsado;S_BOCNDC24_000466;D_BO_000000491
+CNDC\Mensual;Poder Calorífico Empleado y Registrado según Agente;S_BOCNDC44_000439;s_bocndc44_000439;Poder Calorífico Empleado y Registrado según Agente;S_BOCNDC44_000439;D_BO_000000067
+CNDC\Mensual;Costos Marginales en Nodos según Agente;S_BOCNDC44_000462;s_bocndc44_000462;Costos Marginales en Nodos según Agente;S_BOCNDC44_000462;D_BO_000000074
+Dólar Blue Bolivia;Evolución diaria del Tipo de Cambio USDT - BOB;S_BODBB_11_000825;;NaN;;
+FINRURAL\Colocaciones;Distribución de Cartera por Tipo de Crédito;S_BOFINR44_00389;s_bofinr44_00389;Distribución de Cartera por Tipo de Crédito de Instituciones Financieras de Desarrollo;S_BOFINR44_00389;D_BO_000000280
+FINRURAL\Colocaciones;Tasas de Interés de Finrural;S_BOFINR44_000435;s_bofinr44_000435;Tasas de Interés de Finrural;S_BOFINR44_000435;D_BO_000000280
+FINRURAL\Colocaciones;Cobertura de la Red de Agencias y Empleados por Departamento y Área;S_BOFINR44_000434;s_bofinr44_000434;Cobertura de la Red de Agencias y Empleados por Departamento de Instituciones Financieras de Desarrollo;S_BOFINR44_000434;D_BO_000000280
+FINRURAL\Colocaciones;Cobertura de la Red de Agencias y Empleados por Institución y Área;S_BOFINR44_000433;s_bofinr44_000433;Cobertura de la Red de Agencias y Empleados por Institución Financiera de Desarrollo (IFD);S_BOFINR44_000433;D_BO_000000280
+FINRURAL\Colocaciones;Estratificación de Cartera por Monto de Crédito;S_BOFINR44_000396;s_bofinr44_000396;Estratificación de Cartera por Monto de Crédito de Instituciones Financieras de Desarrollo;S_BOFINR44_000396;D_BO_000000280
+FINRURAL\Colocaciones;Clasificación de Cartera por Destino del Credito;S_BOFINR44_000394;s_bofinr44_000394;Clasificación de Cartera por Destino del Credito de Instituciones Financieras de Desarrollo;S_BOFINR44_000394;D_BO_000000280
+FINRURAL\Colocaciones;Número de Clientes por Departamento;SPIM_15004_NCD;spim_15004_ncd;Número de Clientes por Departamento de Instituciones Financieras de Desarrollo;SPIM_15004_NCD;D_BO_000000280
+FINRURAL\Colocaciones;Estado de Cartera por Departamento;SPIM_15003_ECD;spim_15003_ecd;Estado de Cartera por Departamento de Instituciones Financieras de Desarrollo;SPIM_15003_ECD;D_BO_000000280
+FINRURAL\Colocaciones;Número de Clientes por Institución;SPIM_15002_NCI;spim_15002_nci;Número de Clientes por Institución Financiera de Desarrollo;SPIM_15002_NCI;D_BO_000000280
+FINRURAL\Colocaciones;Estado de Cartera por Institución;SPIM_15001_ECI;spim_15001_eci;Estado de Cartera por Institución Financiera de Desarrollo;SPIM_15001_ECI;D_BO_000000280
+FINRURAL\Estados Financieros;Estados Financieros ASFI + IFD;S_BO_ASFI44_000412; s_bo_asfi44_000412;Estados Financieros ASFI + IFD;S_BO_ASFI44_000412;D_BO_000000280
+FINRURAL\Indicadores;Calificación de Cartera por Institución;S_BOFINR44_00388;s_bofinr44_00388;Calificación de Cartera por Institución Financiera de Desarrollo;S_BOFINR44_00388;D_BO_000000280
+FINRURAL\Indicadores;Indicadores Financieros Finrural;S_BOFINR44_00387;s_bofinr44_00387;Indicadores Financieros - Finrural;S_BOFINR44_00387;D_BO_000000280
+FINRURAL\Indicadores;Indicadores Financieros ASFI + IFDs;S_BOFINR44_000432;s_bofinr44_000432;Indicadores Financieros ASFI + IFDs;S_BOFINR44_000432;D_BO_000000280
+FINRURAL\Indicadores;Benchmark Sistema Financiero;S_BOASFI_44_000740;s_boasfi_44_000740;Benchmark Sistema Financiero;S_BOASFI_44_000740;D_BO_000000285
+FINRURAL\Indicadores;Ranking de Mora ASFI+IFDs;S_BOASFI44_000726;s_boasfi44_000726;Ranking de Mora ASFI+IFDs;;
+FINRURAL\Indicadores;Benchmark Sistema Financiero;S_BOASFI_44_000740;s_boasfi_44_000740;Benchmark Sistema Financiero;S_BOASFI_44_000740;D_BO_000000282
+FINRURAL\Indicadores;Benchmark Sistema Financiero;S_BOASFI_44_000740;s_boasfi_44_000740;Benchmark Sistema Financiero;S_BOASFI_44_000740;D_BO_000000281
+FINRURAL\Indicadores;Benchmark Sistema Financiero;S_BOASFI_44_000740;s_boasfi_44_000740;Benchmark Sistema Financiero;S_BOASFI_44_000740;D_BO_000000286
+FINRURAL\Indicadores;Benchmark Sistema Financiero;S_BOASFI_44_000740;s_boasfi_44_000740;Benchmark Sistema Financiero;S_BOASFI_44_000740;D_BO_000000284
+FINRURAL\Indicadores;Benchmark Sistema Financiero;S_BOASFI_44_000740;s_boasfi_44_000740;Benchmark Sistema Financiero;S_BOASFI_44_000740;D_BO_000000283
+FINRURAL\Indicadores;Benchmark Sistema Financiero;S_BOASFI_44_000740;s_boasfi_44_000740;Benchmark Sistema Financiero;S_BOASFI_44_000740;D_BO_000000280
+FMI\Indicadores;Principales Indicadores Fiscales de Países del Hemisferio Occidental;S_MUFMI_99_000636;s_mufmi_99_000636;Principales Indicadores Fiscales de Países del Hemisferio Occidental;;
+FMI\Indicadores;Principales Indicadores Económicos de Países del Hemisferio Occidental;S_MUFMI_99_000635;s_mufmi_99_000635;Principales Indicadores Económicos de Países del Hemisferio Occidental;;
+Guia de Base de Datos;Base de datos SPIM;S_BO_DTX02_000001;;;;
+ICCO;Daily Prices of Cocoa Beans;SPIM_13001_IDPCB;spim_13001_idpcb;Daily Prices of Cocoa Beans;SPIM_13001_IDPCB;D_BO_000000043
+INE\Boletín Estadístico\Actualidad Estadística;Índice de Precios al Consumidor, Variación Mensual e Incidencia según División y Departamento;S_BOINE_44_000323;s_boine_44_000323;Índice de Precios al Consumidor, Variación Mensual e Incidencia según División y Departamento;S_BOINE_44_000323;D_BO_000000020
+INE\Boletín Estadístico\Actualidad Estadística;Variación del IPC por Ciudad;S_BOINE_44_000267;s_boine_44_000267;Variación del IPC por Ciudad;S_BOINE_44_000267;D_BO_000000145
+INE\Censos\Educación;Tasa de Asistencia Escolar de Bolivia según Género, Censo y Departamento de Personas de 6 a 19 Años;S_BOINE_99_000623;s_boine_99_000623;Tasa de Asistencia Escolar de Bolivia según Género, Censo y Departamento de Personas de 6 a 19 Años;;
+INE\Censos\Educación;Población y Tasa de Asistencia Escolar de Bolivia según Género, Censo y Grupo de Edad de Personas de 6 a 19 Años;S_BOINE_99_000622;s_boine_99_000622;Población y Tasa de Asistencia Escolar de Bolivia según Género, Censo y Grupo de Edad de Personas de 6 a 19 Años;;
+INE\Censos\Educación;Población y Tasa de Alfabetismo de Bolivia según Género, Censo y Grupo de Edad de Personas de 15 Años o Más;S_BOINE_99_000618;s_boine_99_000618;Población y Tasa de Alfabetismo de Bolivia según Género, Censo y Grupo de Edad de Personas de 15 Años o Más;;
+INE\Censos\Educación;Tasa de Alfabetismo de Bolivia según Género, Censo y Departamento de Personas de 15 Años o Más;S_BOINE_99_000619;s_boine_99_000619;Tasa de Alfabetismo de Bolivia según Género, Censo y Departamento de Personas de 15 Años o Más;;
+INE\Censos\Población;Indicadores de Crecimiento de la Población Boliviana, Censos 1950-2012;S_BOINE_99_000625;s_boine_99_000625;Indicadores de Crecimiento de la Población Boliviana, Censos 1950-2012;;
+INE\Censos\Población;Tasa Media de Crecimiento Anual de la Población Boliviana, según Departamento, Censos 1992-2012;S_BOINE_99_000626;s_boine_99_000626;Tasa Media de Crecimiento Anual de la Población Boliviana, según Departamento, Censos 1992-2012;;
+INE\Censos\Población;Población de Bolivia según CENSO por Departamento y Municipio;S_BOINE_99_000647;s_boine_99_000647;Población de Bolivia según CENSO por Departamento y Municipio;;
+INE\Censos\Población;PEA-Población Económicamente Activa e Inactiva por  Departamento, Provincia y Tipo de Área;S_BOINE_99_000651;s_boine_99_000651;PEA-Población Económicamente Activa e Inactiva por  Departamento, Provincia y Tipo de Área;;
+INE\Censos\Población;Actividad Económica por Departamento, Provincia y Tipo de Área;S_BOINE_99_000652;s_boine_99_000652;Actividad Económica por Departamento, Provincia y Tipo de Área;;
+INE\Censos\Población;Tasa de Analfabetismo por Sexo, según Censo y Grupo de Edad, Censos 2001 y 2012;S_BOINE_99_000653;s_boine_99_000653;Tasa de Analfabetismo por Sexo, según Censo y Grupo de Edad, Censos 2001 y 2012;;
+INE\Censos\Población;Población por Sexo y Distribución Porcentual por Área, Según Departamento, Provincia, Municipio ó TIOC;S_BOINE_99_000826;;;;
+INE\Censos\Población;Población y Densidad de Bolivia por Departamento según Censo 2012;S_BOINE_99_000616;s_boine_99_000616;Población y Densidad de Bolivia por Departamento según Censo 2012;;
+INE\Censos\Población;Población de Bolivia por Género y Grupo Quinquenal de Edad según Censos 2001 y 2012;S_BOINE_99_000617;s_boine_99_000617;Población de Bolivia por Género y Grupo Quinquenal de Edad según Censos 2001 y 2012;;
+INE\Cuentas Nacionales\IGAE;Índice Global de la Actividad Económica;S_BOINE_44_000603;s_boine_44_000603;Índice Global de la Actividad Económica;S_BOINE_44_000603;D_BO_000000044
+INE\Cuentas Nacionales\IGAE;Índice Global de la Actividad Económica;S_BOINE_44_000603;s_boine_44_000603;Índice Global de la Actividad Económica;S_BOINE_44_000603;D_BO_000000046
+INE\Cuentas Nacionales\IGAE;Índice Global de la Actividad Económica;S_BOINE_44_000603;s_boine_44_000603;Índice Global de la Actividad Económica;S_BOINE_44_000603;D_BO_000000047
+INE\Cuentas Nacionales\IGAE;Índice Global de la Actividad Económica;S_BOINE_44_000603;s_boine_44_000603;Índice Global de la Actividad Económica;S_BOINE_44_000603;D_BO_000000045
+INE\Cuentas Nacionales\Producto Interno Bruto;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;s_boine_88_000641;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;D_BO_000000274
+INE\Cuentas Nacionales\Producto Interno Bruto;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;s_boine_88_000641;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;D_BO_000000278
+INE\Cuentas Nacionales\Producto Interno Bruto;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;s_boine_88_000641;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;D_BO_000000277
+INE\Cuentas Nacionales\Producto Interno Bruto;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;s_boine_88_000641;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;D_BO_000000279
+INE\Cuentas Nacionales\Producto Interno Bruto;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;s_boine_88_000641;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;D_BO_000000276
+INE\Cuentas Nacionales\Producto Interno Bruto;Producto Interno Bruto por Actividad Económica a Precio de Mercado;S_BOINE_66_000314;s_boine_66_000314;Producto Interno Bruto por Actividad Económica a Precio de Mercado;S_BOINE_66_000314;D_BO_000000520
+INE\Cuentas Nacionales\Producto Interno Bruto;Producto Interno Bruto por Actividad Económica a Precio de Mercado;S_BOINE_66_000314;s_boine_66_000314;Producto Interno Bruto por Actividad Económica a Precio de Mercado;S_BOINE_66_000314;D_BO_000000148
+INE\Cuentas Nacionales\Producto Interno Bruto;Variación Acumulada del PIB a Precios Constantes por Actividad Económica;S_BOINE_66_000315;s_boine_66_000315;Variación Acumulada del PIB a Precios Constantes por Actividad Económica;S_BOINE_66_000315;D_BO_000000149
+INE\Cuentas Nacionales\Producto Interno Bruto;Participación en el PIB a Precios de Mercado por Actividad Económica;S_BOINE_66_000316;s_boine_66_000316;Participación en el PIB a Precios de Mercado por Actividad Económica;S_BOINE_66_000316;D_BO_000000151
+INE\Cuentas Nacionales\Producto Interno Bruto;Producto Interno Bruto por Tipo de Gasto;S_BOINE_66_000317;s_boine_66_000317;Producto Interno Bruto por Tipo de Gasto;S_BOINE_66_000317;D_BO_000000152
+INE\Cuentas Nacionales\Producto Interno Bruto;Producto Interno Bruto por Tipo de Gasto;S_BOINE_66_000317;s_boine_66_000317;Producto Interno Bruto por Tipo de Gasto;S_BOINE_66_000317;D_BO_000000153
+INE\Cuentas Nacionales\Producto Interno Bruto;Oferta y Demanda Final. PIB;S_BOINE_66_000318;s_boine_66_000318;Oferta y Demanda Final - PIB ;S_BOINE_66_000318;D_BO_000000154
+INE\Cuentas Nacionales\Producto Interno Bruto;Oferta y Demanda Final. PIB;S_BOINE_66_000318;s_boine_66_000318;Oferta y Demanda Final - PIB ;S_BOINE_66_000318;D_BO_000000155
+INE\Cuentas Nacionales\Producto Interno Bruto;Producto Interno Bruto por Actividad Económica a Precio Básico;S_BOINE_66_000319;s_boine_66_000319;Producto Interno Bruto por Actividad Económica a Precio Básico;S_BOINE_66_000319;D_BO_000000149
+INE\Cuentas Nacionales\Producto Interno Bruto;Producto Interno Bruto por Actividad Económica a Precio Básico;S_BOINE_66_000319;s_boine_66_000319;Producto Interno Bruto por Actividad Económica a Precio Básico;S_BOINE_66_000319;D_BO_000000148
+INE\Cuentas Nacionales\Producto Interno Bruto;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;s_boine_88_000641;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;D_BO_000000273
+INE\Cuentas Nacionales\Producto Interno Bruto;Históricos del Producto Interno Bruto Acumulado por Actividad Económica;S_BOINE_66_000408;s_boine_66_000408;Históricos del Producto Interno Bruto Acumulado por Actividad Económica;S_BOINE_66_000408;D_BO_000000520
+INE\Cuentas Nacionales\Producto Interno Bruto;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;s_boine_88_000641;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;S_BOINE_88_000641;D_BO_000000275
+INE\Cuentas Nacionales\Producto Interno Bruto;Históricos del Producto Interno Bruto Acumulado por Actividad Económica;S_BOINE_66_000408;s_boine_66_000408;Históricos del Producto Interno Bruto Acumulado por Actividad Económica;S_BOINE_66_000408;D_BO_000000148
+INE\Demografía\Población;Población Total Proyectada por Años Calendario y Sexo, según Edades Simples, 2005-2010;SPIM_4041_PTPASED;spim_4041_ptpased;Población Total Proyectada por Años Calendario y Sexo, según Edades Simples, 2005-2010;;
+INE\Demografía\Población;Población Total Proyectada, por Área y Sexo, según Departamento 2005-2010;SPIM_4046_PTPASD;spim_4046_ptpasd;Población Total Proyectada, por Área y Sexo, según Departamento 2005-2010;;
+INE\Demografía\Población;Población Total Proyectada, por Sexo, según Departamento, Provincia y Sección de Provincia 2005-2010;SPIM_4043_PTPSPSP;spim_4043_ptpspsp;Población Total Proyectada, por Sexo, según Departamento, Provincia y Sección de Provincia 2005-2010;SPIM_4043_PTPSPSP;D_BO_000000434
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Construcción;Longitud de Caminos según Departamento y Superficie de Rodadura;SPIM_4065_LCDSR;spim_4065_lcdsr;Longitud de Caminos según Departamento y Superficie de Rodadura;;
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Estadísticas de Precios al Consumidor;Variación Porcentual Mensual del IPC por Mes y Ciudad;SPIM_4067_VPMIPCMC;spim_4067_vpmipcmc;Variación Mensual del Índice de Precios al Consumidor (IPC) por Ciudad y Mes en Bolivia;SPIM_4067_VPMIPCMC;D_BO_000000016
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Producto Interno Bruto;Producto Interno Bruto Per Cápita a Precios de Mercado según Departamento;SPIM_4057_PIBPCPMD;spim_4057_pibpcpmd;Producto Interno Bruto Per Cápita a Precios de Mercado según Departamento;SPIM_4057_PIBPCPMD;D_BO_000000274
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Producto Interno Bruto;Producto Interno Bruto Per Cápita a Precios de Mercado según Departamento;SPIM_4057_PIBPCPMD;spim_4057_pibpcpmd;Producto Interno Bruto Per Cápita a Precios de Mercado según Departamento;SPIM_4057_PIBPCPMD;D_BO_000000277
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Producto Interno Bruto;Producto Interno Bruto Per Cápita a Precios de Mercado según Departamento;SPIM_4057_PIBPCPMD;spim_4057_pibpcpmd;Producto Interno Bruto Per Cápita a Precios de Mercado según Departamento;SPIM_4057_PIBPCPMD;D_BO_000000276
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Producto Interno Bruto;Producto Interno Bruto Per Cápita a Precios de Mercado según Departamento;SPIM_4057_PIBPCPMD;spim_4057_pibpcpmd;Producto Interno Bruto Per Cápita a Precios de Mercado según Departamento;SPIM_4057_PIBPCPMD;D_BO_000000279
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Producto Interno Bruto;Producto Interno Bruto Per Cápita a Precios de Mercado según Departamento;SPIM_4057_PIBPCPMD;spim_4057_pibpcpmd;Producto Interno Bruto Per Cápita a Precios de Mercado según Departamento;SPIM_4057_PIBPCPMD;D_BO_000000278
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Producto Interno Bruto;Producto Interno Bruto Per Cápita a Precios de Mercado según Departamento;SPIM_4057_PIBPCPMD;spim_4057_pibpcpmd;Producto Interno Bruto Per Cápita a Precios de Mercado según Departamento;SPIM_4057_PIBPCPMD;D_BO_000000275
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Transportes y Comunicaciones;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;spim_4064_paatsv;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;D_BO_000000459
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Transportes y Comunicaciones;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;spim_4064_paatsv;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;D_BO_000000456
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Transportes y Comunicaciones;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;spim_4064_paatsv;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;D_BO_000000455
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Transportes y Comunicaciones;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;spim_4064_paatsv;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;D_BO_000000452
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Transportes y Comunicaciones;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;spim_4064_paatsv;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;D_BO_000000453
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Transportes y Comunicaciones;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;spim_4064_paatsv;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;D_BO_000000458
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Transportes y Comunicaciones;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;spim_4064_paatsv;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;D_BO_000000457
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Transportes y Comunicaciones;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;spim_4064_paatsv;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;D_BO_000000454
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Transportes y Comunicaciones;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;spim_4064_paatsv;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;D_BO_000000451
+INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Transportes y Comunicaciones;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;spim_4064_paatsv;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;SPIM_4064_PAATSV;D_BO_000000460
+INE\Estadísticas Económicas (Construcción y Precios)\Precios;Precios Promedio de Productos y Servicios por Departamento;S_BOINE_44_000302;s_boine_44_000302;Precios Promedio de Productos y Servicios por Departamento;S_BOINE_44_000302;D_BO_000000015
+INE\Estadísticas Económicas\Construcción;Producción, Venta y Consumo de Cemento por Departamento;S_BOINE_88_000334;s_boine_88_000334;Producción, Venta y Consumo de Cemento por Departamento;;
+INE\Estadísticas Económicas\Estadísticas de Precios al Consumidor;IPC por Departamento y Actividad Económica;S_BOINE_44_000673;s_boine_44_000673;Índice de Precios al Consumidor (IPC) por Departamento y Actividad Económica;S_BOINE_44_000673;D_BO_000000021
+INE\Estadísticas Económicas\Hidrocarburos;Índice del Volumen y Extracción del Petróleo;S_BOINE_66_000482;s_boine_66_000482;Índice del Volumen y Extracción del Petróleo;S_BOINE_66_000482;D_BO_000000022
+INE\Estadísticas Económicas\Minería;Índice de la Cantidad de Producción de Minerales;S_BOINE_66_000485;s_boine_66_000485;Índice de la Cantidad de Producción de Minerales;S_BOINE_66_000485;D_BO_000000146
+INE\Estadísticas de Comercio Exterior\Exportación;Exportación según Clasificación de Productos Tradicionales y No Tradicionales;S_BOINE_44_000561;s_boine_44_000561;Exportación según Clasificación de Productos Tradicionales y No Tradicionales;;
+INE\Estadísticas de Comercio Exterior\Exportación;Exportación según Clasificación Nandina;S_BOINE_44_000604;s_boine_44_000604;Exportación según Clasificación Nandina;;
+INE\Estadísticas de Comercio Exterior\Exportación;Exportación según Clasificación Actividad Económica y Principales Productos;S_BOINE_44_000564;s_boine_44_000564;Exportación según Clasificación Actividad Económica y Principales Productos;;
+INE\Estadísticas de Comercio Exterior\Exportación;Exportación según CUCI por Departamento y País Destino;SPIM_4044_ESPGCUCIPD;spim_4044_espgcucipd;Exportación según CUCI por Departamento y País Destino;;
+INE\Estadísticas de Comercio Exterior\Exportación;Exportación según Clasificación CUCI;S_BOINE_44_000567;s_boine_44_000567;Exportación según Clasificación CUCI;;
+INE\Estadísticas de Comercio Exterior\Exportación;Exportación según Clasificación de Grandes Categorías Económicas;S_BOINE_44_000563;s_boine_44_000563;Exportación según Clasificación de Grandes Categorías Económicas;;
+INE\Estadísticas de Comercio Exterior\Exportación;Exportación según Principales Productos por Departamento y Actividad Económica;SPIM_4050_ESPPDAE;spim_4050_esppdae;Exportación según Principales Productos por Departamento y Actividad Económica;;
+INE\Estadísticas de Comercio Exterior\Exportación;Exportación a Estados Unidos según Clasificación Nandina;S_BOINE_44_000604_USA;s_boine_44_000604_usa;Exportación a Estados Unidos según Clasificación Nandina;;
+INE\Estadísticas de Comercio Exterior\Exportación;Exportación según Clasificación Internacional Industrial Uniforme (CIIU);S_BOINE_44_000648;;;;
+INE\Estadísticas de Comercio Exterior\Exportación;Exportación, por Departamento según Zona Geoeconómica y País de Destino;SPIM_4054_EDZGPD;spim_4054_edzgpd;Exportación, por Departamento según Zona Geoeconómica y País de Destino;;
+INE\Estadísticas de Comercio Exterior\Importación;Importación según Clasificación Internacional Industrial Uniforme;S_BOINE_44_000637;;;;
+INE\Estadísticas de Comercio Exterior\Importación;Importación según Clasificación de Grandes Categorías Económicas;S_BOINE_44_000596;s_boine_44_000596;Importación según Clasificación de Grandes Categorías Económicas;;
+INE\Estadísticas de Comercio Exterior\Importación;Importación según Clasificación Uso o Destino Económico(CUODE);S_BOINE_44_000591;s_boine_44_000591;Importación según Clasificación Uso o Destino Económico(CUODE);;
+INE\Estadísticas de Comercio Exterior\Importación;Importación, según CUCI por Departamento y País Origen;SPIM_4047_ISPGCUCIPD;spim_4047_ispgcucipd;Importación, según CUCI por Departamento y País Origen;;
+INE\Estadísticas de Comercio Exterior\Importación;Comercio Exterior NANDINA;S_BOINE_44_000741;s_boine_44_000741;Comercio Exterior NANDINA;;
+INE\Estadísticas de Comercio Exterior\Importación;Importación según Clasificación NANDINA por Departamento y País Origen;S_BOINE_44_000649;s_boine_44_000649;Importaciones de Bolivia por Clasificación NANDINA, Departamento y País de Origen;;
+INE\Estadísticas de Comercio Exterior\Importación;Importación, por Departamento según Zona Geoeconómica y País de Origen;SPIM_4070_IDZGPO;spim_4070_idzgpo;Importación, por Departamento según Zona Geoeconómica y País de Origen;;
+INE\Estadísticas de Comercio Exterior\Precios Internacionales;Precios Internacionales Mensuales de los Principales Productos del Comercio Mundial;S_BOINE_44_000828;;;;
+INE\Estadísticas de Comercio Exterior\Reexportación;Reexportación según Clasificación de Productos Tradicionales y No Tradicionales;S_BOINE_44_000565;s_boine_44_000565;Reexportación según Clasificación de Productos Tradicionales y No Tradicionales;;
+INE\Estadísticas de Comercio Exterior\Reexportación;Reexportación según Clasificación Grandes Categorías Económicas;S_BOINE_44_000566;s_boine_44_000566;Reexportación según Clasificación Grandes Categorías Económicas;;
+INE\Estadísticas de Comercio Exterior\Reexportación;Reexportación según Clasificación Internacional Industrial Uniforme (CIIU);S_BOINE_44_000568;s_boine_44_000568;Reexportación según Clasificación Internacional Industrial Uniforme (CIIU);;
+INE\Estadísticas de Comercio Exterior\Reexportación;Reexportación según Clasificación Actividad Económica y Principales Productos;S_BOINE_44_000569;s_boine_44_000569;Reexportación según Clasificación Actividad Económica y Principales Productos;;
+INE\Estadísticas de Comercio Exterior\Reexportación;Reexportación según Clasificación CUCI;S_BOINE_44_000615;s_boine_44_000615;Reexportación según Clasificación CUCI;;
+INE\Estadísticas de Comercio Exterior\Saldo Comercial;Saldo Comercial de la Clasificación CUCI;S_BOINE_44_000559;s_boine_44_000559;Saldo Comercial de la Clasificación CUCI;;
+INE\Estadísticas de Comercio Exterior\Saldo Comercial;Saldo Comercial de la Clasificación NANDINA;S_BOINE_44_000562;s_boine_44_000562;Saldo Comercial de la Clasificación NANDINA;;
+INE\Estadísticas de Comercio Exterior\Saldo Comercial;Saldo Comercial de la Clasificación Grandes Categorías Económicas;S_BOINE_44_000560;s_boine_44_000560;Saldo Comercial de la Clasificación Grandes Categorías Económicas;;
+INE\Estadísticas de Comercio Exterior\Saldo Comercial;Saldo Comercial de la Clasificación Intern. Industrial Uniforme (CIIU);S_BOINE_44_000570;s_boine_44_000570;Saldo Comercial de la Clasificación Intern. Industrial Uniforme (CIIU);;
+INE\Estadísticas de Comercio Exterior\Saldo Comercial;Exportación, Importación y Saldo Comercial por Año y Mes;S_BOINE_44_000827;;NaN;;
+INE\Estadísticas de Trabajo;Condición de la Actividad del Eje Troncal;S_BOINE_66_000396;s_boine_66_000396;Condición de la Actividad del Eje Troncal;S_BOINE_66_000396;D_BO_000000157
+INE\Estadísticas de Trabajo;Condición de la Actividad del Eje Troncal;S_BOINE_66_000396;s_boine_66_000396;Condición de la Actividad del Eje Troncal;S_BOINE_66_000396;D_BO_000000156
+INE\Estadísticas de Trabajo;Condición de la Actividad por Género;S_BOINE_66_000398;s_boine_66_000398;Condición de Actividad Económica por Género en Bolivia;S_BOINE_66_000398;D_BO_000000160
+INE\Estadísticas de Trabajo;Condición de la Actividad del Eje Troncal;S_BOINE_66_000396;s_boine_66_000396;Condición de la Actividad del Eje Troncal;S_BOINE_66_000396;D_BO_000000159
+INE\Estadísticas de Trabajo;Condición de la Actividad del Eje Troncal;S_BOINE_66_000396;s_boine_66_000396;Condición de la Actividad del Eje Troncal;S_BOINE_66_000396;D_BO_000000158
+INE\Estadísticas de la Actividad de Construcción\Construcción de Caminos;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;s_boine_88_000357;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;D_BO_000000425
+INE\Estadísticas de la Actividad de Construcción\Construcción de Caminos;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;s_boine_88_000357;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;D_BO_000000428
+INE\Estadísticas de la Actividad de Construcción\Construcción de Caminos;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;s_boine_88_000357;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;D_BO_000000423
+INE\Estadísticas de la Actividad de Construcción\Construcción de Caminos;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;s_boine_88_000357;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;D_BO_000000426
+INE\Estadísticas de la Actividad de Construcción\Construcción de Caminos;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;s_boine_88_000357;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;D_BO_000000427
+INE\Estadísticas de la Actividad de Construcción\Construcción de Caminos;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;s_boine_88_000357;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;D_BO_000000408
+INE\Estadísticas de la Actividad de Construcción\Construcción de Caminos;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;s_boine_88_000357;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;D_BO_000000422
+INE\Estadísticas de la Actividad de Construcción\Construcción de Caminos;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;s_boine_88_000357;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;D_BO_000000429
+INE\Estadísticas de la Actividad de Construcción\Construcción de Caminos;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;s_boine_88_000357;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;D_BO_000000424
+INE\Estadísticas de la Actividad de Construcción\Construcción de Caminos;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;s_boine_88_000357;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;D_BO_000000254
+INE\Estadísticas de la Actividad de Construcción\Construcción de Caminos;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;s_boine_88_000357;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;D_BO_000000421
+INE\Estadísticas de la Actividad de Construcción\Construcción de Caminos;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;s_boine_88_000357;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;S_BOINE_88_000357;D_BO_000000430
+INE\Estadísticas de la Actividad de Construcción\Permisos de Construcción;Permisos en Superficie de Construcción Aprobados y Variación según Ciudades Capitales;S_BOINE_88_000356;s_boine_88_000356;Permisos en Superficie de Construcción Aprobados y Variación según Ciudades Capitales;;
+INE\Resumen Estadístico Mensual;Índice de Precios al Consumidor;SPIM_4029_IPC;spim_4029_ipc;Índice de Precios al Consumidor;;
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;spim_4045_sllvisvistv;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;D_BO_000000442
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;spim_4045_sllvisvistv;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;D_BO_000000435
+INE\Sector Externo\Turismo;Tarifas Hoteleras Promedio, según Categoría Hotelera;SPIM_4052_THPCH;spim_4052_thpch;Tarifas Hoteleras Promedio, según Categoría Hotelera;SPIM_4052_THPCH;D_BO_000000449
+INE\Sector Externo\Turismo;Gasto Turístico, según Tipo de Gasto;SPIM_4053_GTTG;spim_4053_gttg;Gasto Turístico, según Tipo de Gasto;SPIM_4053_GTTG;D_BO_000000450
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;spim_4045_sllvisvistv;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;D_BO_000000445
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Modo de Transporte y Tipo de Viajero;SPIM_4040_SLLVISMTTV;spim_4040_sllvismttv;Salida y Llegada de Viajeros Internacionales, según Modo de Transporte y Tipo de Viajero;SPIM_4040_SLLVISMTTV;D_BO_000000549
+INE\Sector Externo\Turismo;Pernoctación de Viajeros en Establecimientos de Hospedaje, según Departamento, Ciudad y Tipo de Viajero;SPIM_4051_PVEHDTV;spim_4051_pvehdtv;Pernoctación de Viajeros en Establecimientos de Hospedaje, según Departamento, Ciudad y Tipo de Viajero;;
+INE\Sector Externo\Turismo;Llegada de Viajeros a Establecimientos de Hospedaje, según Departamento por Tipo de Viajero;SPIM_4049_LLVEHSDTP;spim_4049_llvehsdtp;Llegada de Viajeros a Establecimientos de Hospedaje, según Departamento por Tipo de Viajero;SPIM_4049_LLVEHSDTP;D_BO_000000551
+INE\Sector Externo\Turismo;Oferta Hotelera, según Categoría Hotelera;SPIM_4048_OHSCH;spim_4048_ohsch;Oferta Hotelera, según Categoría Hotelera;SPIM_4048_OHSCH;D_BO_000000448
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;spim_4045_sllvisvistv;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;D_BO_000000439
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;spim_4045_sllvisvistv;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;D_BO_000000438
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;spim_4045_sllvisvistv;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;D_BO_000000446
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;spim_4045_sllvisvistv;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;D_BO_000000437
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;spim_4045_sllvisvistv;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;D_BO_000000436
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;spim_4045_sllvisvistv;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;D_BO_000000440
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;spim_4045_sllvisvistv;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;D_BO_000000443
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;spim_4045_sllvisvistv;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;D_BO_000000441
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Modo de Transporte y Tipo de Viajero;SPIM_4040_SLLVISMTTV;spim_4040_sllvismttv;Salida y Llegada de Viajeros Internacionales, según Modo de Transporte y Tipo de Viajero;SPIM_4040_SLLVISMTTV;D_BO_000000550
+INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;spim_4045_sllvisvistv;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;SPIM_4045_SLLVISVISTV;D_BO_000000444
+INE\Sector Real\Agricultura y Ganadería;Superficie Cultivada, Producción, Rendimiento, por Año Agrícola, Según Cultivo;SPIM_4004_BSCRPPAASC;spim_4004_bscrppaasc;Superficie Cultivada, Producción, Rendimiento, por año Agrícola, según Cultivo;SPIM_4004_BSCRPPAASC;D_BO_000000414
+INE\Sector Real\Agricultura y Ganadería;Superficie Cultivada, Producción, Rendimiento, por Año Agrícola, Según Cultivo;SPIM_4004_BSCRPPAASC;spim_4004_bscrppaasc;Superficie Cultivada, Producción, Rendimiento, por año Agrícola, según Cultivo;SPIM_4004_BSCRPPAASC;D_BO_000000415
+INE\Sector Real\Agricultura y Ganadería;Superficie Cultivada, Producción, Rendimiento, por Año Agrícola, Según Cultivo;SPIM_4004_BSCRPPAASC;spim_4004_bscrppaasc;Superficie Cultivada, Producción, Rendimiento, por año Agrícola, según Cultivo;SPIM_4004_BSCRPPAASC;D_BO_000000413
+INE\Sector Real\Construcción;Precio de los Principales Materiales de la Construcción por Trimestre y Ciudad;SPIM_4014_PPPMCXM;spim_4014_pppmcxm;Precio de los Principales Materiales de la Construcción por Trimestre y Ciudad;;
+INE\Sector Real\Construcción;Producción, Venta, Consumo de Cemento según Departamento;SPIM_4015_PVCDCSD;spim_4015_pvcdcsd;Producción, Venta, Consumo de Cemento según Departamento;SPIM_4015_PVCDCSD;D_BO_000000017
+INE\Sector Real\Construcción;Producción, Venta, Consumo de Cemento según Departamento;SPIM_4015_PVCDCSD;spim_4015_pvcdcsd;Producción, Venta, Consumo de Cemento según Departamento;SPIM_4015_PVCDCSD;D_BO_000000019
+INE\Sector Real\Construcción;Producción, Venta, Consumo de Cemento según Departamento;SPIM_4015_PVCDCSD;spim_4015_pvcdcsd;Producción, Venta, Consumo de Cemento según Departamento;SPIM_4015_PVCDCSD;D_BO_000000018
+INE\Sector Real\Estadística de Precios al Consumidor;Índice y Variación del IPC;SPIM_4024_EIPC;spim_4024_eipc;Índice y Variación del IPC;SPIM_4024_EIPC;D_BO_000000020
+INE\Sector Real\Hidrocarburos;Producción Bruta de Gas Natural y Petróleo Condensado según Departamento y Campo;SPIM_4006_PPGNDC;spim_4006_ppgndc;Producción Bruta de Gas Natural y Petróleo Condensado según Departamento y Campo;SPIM_4006_PPGNDC;D_BO_000000432
+INE\Sector Real\Hidrocarburos;Producción Bruta de Gas Natural y Petróleo Condensado según Departamento y Campo;SPIM_4006_PPGNDC;spim_4006_ppgndc;Producción Bruta de Gas Natural y Petróleo Condensado según Departamento y Campo;SPIM_4006_PPGNDC;D_BO_000000431
+INE\Sector Real\Hidrocarburos;Producción de Petróleo y Gas natural según Subsector;SPIM_4005_PPGNS;spim_4005_ppgns;Producción de Petróleo y Gas natural según Subsector;;
+INE\Sector Real\Hidrocarburos;Volumen de Ventas de Carburantes en el Mercado Interno - según Producto;SPIM_4007_VVCMIP;spim_4007_vvcmip;Volumen de Ventas de Carburantes en el Mercado Interno - según Producto;SPIM_4007_VVCMIP;D_BO_000000147
+INE\Sector Real\Mineria;Índice de Extracción y Producción de Minerales;SPIM_4009_PMSP;spim_4009_pmsp;Índice de Extracción y Producción de Minerales;;
+INE\Sector Real\Mineria;Cotización Oficial de Minerales;SPIM_4010_COM;spim_4010_com;Cotización Oficial de Minerales;SPIM_4010_COM;D_BO_000000552
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000390
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000401
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000406
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000392
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000402
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000393
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000397
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000404
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000399
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000407
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000394
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000395
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto según Actividad Económica;SPIM_4001_PIBAC;spim_4001_pibac;Producto Interno Bruto según Actividad Económica;;
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000398
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000403
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000405
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto según Tipo de Gasto;SPIM_4002_PIBTG;spim_4002_pibtg;Producto Interno Bruto según Tipo de Gasto;SPIM_4002_PIBTG;D_BO_000000385
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000391
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto según Tipo de Gasto;SPIM_4002_PIBTG;spim_4002_pibtg;Producto Interno Bruto según Tipo de Gasto;SPIM_4002_PIBTG;D_BO_000000389
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto según Tipo de Gasto;SPIM_4002_PIBTG;spim_4002_pibtg;Producto Interno Bruto según Tipo de Gasto;SPIM_4002_PIBTG;D_BO_000000387
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto según Tipo de Gasto;SPIM_4002_PIBTG;spim_4002_pibtg;Producto Interno Bruto según Tipo de Gasto;SPIM_4002_PIBTG;D_BO_000000388
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000396
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;spim_4003_pibaed;Producto Interno Bruto Según Actividad Economica por Departamento;SPIM_4003_PIBAED;D_BO_000000400
+INE\Sector Real\Producto Interno Bruto;Producto Interno Bruto según Tipo de Gasto;SPIM_4002_PIBTG;spim_4002_pibtg;Producto Interno Bruto según Tipo de Gasto;SPIM_4002_PIBTG;D_BO_000000386
+INE\Sector Real\Producto Interno Bruto;IPC General, Variación Mensual, Acumulada y a 12 Meses;S_BOINE_44_000822;;;;
+INE\Sector Real\Salarios y Remuneraciones;Salario y Remuneraciones Medio Nominal del Sector Privado según Actividad Economica;SPIM_4026_SRSPSAE;spim_4026_srspsae;Salario y Remuneraciones Medio Nominal del Sector Privado según Actividad Economica;SPIM_4026_SRSPSAE;D_BO_000000164
+INE\Sector Real\Salarios y Remuneraciones;Salario y Remuneraciones Medio Nominal del Sector Privado según Actividad Economica;SPIM_4026_SRSPSAE;spim_4026_srspsae;Salario y Remuneraciones Medio Nominal del Sector Privado según Actividad Economica;SPIM_4026_SRSPSAE;D_BO_000000162
+INE\Sector Real\Salarios y Remuneraciones;Salario y Remuneraciones Medio Nominal del Sector Privado según Actividad Economica;SPIM_4026_SRSPSAE;spim_4026_srspsae;Salario y Remuneraciones Medio Nominal del Sector Privado según Actividad Economica;SPIM_4026_SRSPSAE;D_BO_000000165
+INE\Sector Real\Salarios y Remuneraciones;Salario y Remuneraciones Medio Nominal del Sector Privado según Actividad Economica;SPIM_4026_SRSPSAE;spim_4026_srspsae;Salario y Remuneraciones Medio Nominal del Sector Privado según Actividad Economica;SPIM_4026_SRSPSAE;D_BO_000000163
+INE\Sector Real\Salarios y Remuneraciones;Salario y Renumeraciones del Sector Privado, Según Grupo Ocupacional;SPIM_4027_SRSPSGO;spim_4027_srspsgo;Salario y Renumeraciones del Sector Privado, Según Grupo Ocupacional;SPIM_4027_SRSPSGO;D_BO_000000168
+INE\Sector Real\Salarios y Remuneraciones;Salario y Renumeraciones del Sector Privado, Según Grupo Ocupacional;SPIM_4027_SRSPSGO;spim_4027_srspsgo;Salario y Renumeraciones del Sector Privado, Según Grupo Ocupacional;SPIM_4027_SRSPSGO;D_BO_000000169
+INE\Sector Real\Salarios y Remuneraciones;Salario y Renumeraciones del Sector Privado, Según Grupo Ocupacional;SPIM_4027_SRSPSGO;spim_4027_srspsgo;Salario y Renumeraciones del Sector Privado, Según Grupo Ocupacional;SPIM_4027_SRSPSGO;D_BO_000000166
+INE\Sector Real\Salarios y Remuneraciones;Salario y Renumeraciones del Sector Privado, Según Grupo Ocupacional;SPIM_4027_SRSPSGO;spim_4027_srspsgo;Salario y Renumeraciones del Sector Privado, Según Grupo Ocupacional;SPIM_4027_SRSPSGO;D_BO_000000167
+INE\Sector Real\Servicios Básicos;Índice de Consumo de Energía Eléctrica, Agua Potable y Gas Licuado de Petróleo;SPIM_4017_ICEEAPGL;spim_4017_iceeapgl;Índice de Consumo de Energía Eléctrica, Agua Potable y Gas Licuado de Petróleo;SPIM_4017_ICEEAPGL;D_BO_000000410
+INE\Sector Real\Servicios Básicos;Índice de Consumo de Energía Eléctrica, Agua Potable y Gas Licuado de Petróleo;SPIM_4017_ICEEAPGL;spim_4017_iceeapgl;Índice de Consumo de Energía Eléctrica, Agua Potable y Gas Licuado de Petróleo;SPIM_4017_ICEEAPGL;D_BO_000000409
+INE\Sector Real\Servicios Básicos;Índice de Consumo de Servicios Básicos;SPIM_4016_ICSB;spim_4016_icsb;Índice de Consumo de Servicios Básicos;SPIM_4016_ICSB;D_BO_000000023
+INE\Sector Real\Servicios Básicos;Índice de Consumo de Energía Eléctrica, Agua Potable y Gas Licuado de Petróleo;SPIM_4017_ICEEAPGL;spim_4017_iceeapgl;Índice de Consumo de Energía Eléctrica, Agua Potable y Gas Licuado de Petróleo;SPIM_4017_ICEEAPGL;D_BO_000000023
+INE\Sector Real\Transportes y Comunicaciones;Índice de Cantidad del Transporte Carretero Interdepartamental, según Flujo y Tipo de Servicio;SPIM_4021_ICTCISFTS;spim_4021_ictcisfts;Índice de Cantidad del Transporte Carretero Interdepartamental, según Flujo y Tipo de Servicio;SPIM_4021_ICTCISFTS;D_BO_000000554
+INE\Sector Real\Transportes y Comunicaciones;Distribución de Líneas Telefónicas Fijas y Móviles por Departamento;SPIM_4023_DLTFSSD;spim_4023_dltfssd;Distribución de Líneas Telefónicas Fijas y Móviles por Departamento;SPIM_4023_DLTFSSD;D_BO_000000411
+INE\Sector Real\Transportes y Comunicaciones;Distribución de Líneas Telefónicas Fijas y Móviles por Departamento;SPIM_4023_DLTFSSD;spim_4023_dltfssd;Distribución de Líneas Telefónicas Fijas y Móviles por Departamento;SPIM_4023_DLTFSSD;D_BO_000000412
+INE\Sector Real\Transportes y Comunicaciones;Índice de Cantidad del Transporte Ferroviario, según Red y Tipo de Servicio;SPIM_4020_ICTFSRTS;spim_4020_ictfsrts;Índice de Cantidad del Transporte Ferroviario, según Red y Tipo de Servicio;;
+INE\Sector Real\Transportes y Comunicaciones;Índice de Cantidad del Transporte Aéreo Nacional, según Tipo de Servicio y Ruta;SPIM_4019_ICTANSTR;spim_4019_ictanstr;Índice de Cantidad del Transporte Aéreo Nacional, según Tipo de Servicio y Ruta;SPIM_4019_ICTANSTR;D_BO_000000553
+INE\Sector Real\Transportes y Comunicaciones;Índice de Cantidad del Transporte Aéreo Nacional e Internacional, según Tipo de Servicio;SPIM_4018_ICTANISTS;spim_4018_ictanists;Índice de Cantidad del Transporte Aéreo Nacional e Internacional, según Tipo de Servicio;SPIM_4018_ICTANISTS;D_BO_000000433
+INE\Sector Real\Transportes y Comunicaciones;Índice de Cantidad de Telecomunicaciones, según Tipo de Servicio;SPIM_4022_ICTSTS;spim_4022_ictsts;Índice de Cantidad de Telecomunicaciones, según Tipo de Servicio;SPIM_4022_ICTSTS;D_BO_000000161
+ITU;Porcentaje de Personas que usan Internet por País;S_MUITU_88_000670;s_muitu_88_000670;Porcentaje de Personas que usan Internet por País;;
+ITU;Suscripciones Telefonicas y Telefonía movil-celular por País;S_MUITU_88_000669;s_muitu_88_000669;Suscripciones Telefonicas y Telefonía movil-celular por País;;
+ITU;Suscripciones de Banda Ancha por País;S_MUITU_88_000668;s_muitu_88_000668;Suscripciones de Banda Ancha por País;;
+MDRyT\Estadisticas Agropecuarias;Superficie, Producción y Rendimiento por Departamento y Campañas Agrícolas según cultivos;S_BOMDRT88_000510;s_bomdrt88_000510;Superficie, Producción y Rendimiento por Departamento y Campañas Agrícolas según cultivos;S_BOMDRT88_000510;D_BO_000000150
+MDRyT\Estadisticas Agropecuarias;Producción por Año Civil Según Cultivo y Departamento;S_BOMDRT88_000511;s_bomdrt88_000511;Producción por Año Civil Según Cultivo y Departamento;S_BOMDRT88_000511;D_BO_000000566
+MDRyT\Estadisticas Agropecuarias;Población de Pecuarios por Año y Departamento según Sexo y Edad;S_BOMDRT88_000512;s_bomdrt88_000512;Población de Pecuarios por Año y Departamento según Sexo y Edad;S_BOMDRT88_000512;D_BO_000000252
+MDRyT\OAP;Precios de Productos Agropecuarios y Agroindustriales por Ciudad;S_BOMDRT12_000770;s_bomdrt12_000770;Precios de Productos Agropecuarios y Agroindustriales por Ciudad;S_BOMDRT12_000770;D_BO_000000501
+MDRyT\OAP;Precios Mayoristas de Azúcar y Carne de Pollo por Departamento y Empresa;S_BOSISP11_000601;s_bosisp11_000601;Precios Mayoristas de Azúcar y Carne de Pollo por Departamento y Empresa;S_BOSISP11_000601;D_BO_000000569
+MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS\Deuda Pública;Saldo de la Deuda Interna Pública del Tesoro General de la Nación;S_BOMEFP44_000666;s_bomefp44_000666;Saldo de la Deuda Interna Pública del Tesoro General de la Nación;S_BOMEFP44_000666;D_BO_000000270
+MINISTERIO DE HIDROCARBUROS Y ENERGIA;Precios Internacionales de Hidrocarburos;S_BOMHE_12_000469;s_bomhe_12_000469;Precios Internacionales de Hidrocarburos;S_BOMHE_12_000469;D_BO_000000025
+MINISTERIO DE HIDROCARBUROS Y ENERGIA;Precios de Gas Natural por Tipo de Mercado;S_BOMHE_44_000470;s_bomhe_44_000470;Precios de Gas Natural por Tipo de Mercado;S_BOMHE_44_000470;D_BO_000000025
+MINISTERIO DE HIDROCARBUROS Y ENERGIA;Precios de Gas Natural en el Mercado Interno;S_BOMHE_44_000714;s_bomhe_44_000714;Precios de Gas Natural en el Mercado Interno;S_BOMHE_44_000714;D_BO_000000025
+MULTIPLES\Bonos;Bonos Soberanos Mundiales Diarios;S_MUMUL_11_000683;s_mumul_11_000683;Bonos Soberanos Mundiales Diarios;;
+MULTIPLES\Commodities;Commodities Price Forecast;S_MUMUL_84_000679;s_mumul_84_000679;Commodities Price Forecast;;
+MULTIPLES\Commodities;Precios de Commodities Diarios del Último Año;S_MUMUL_11_000678;s_mumul_11_000678;Precios Internacionales Diarios de Commodities en el Último Año;;
+MULTIPLES\Tasas;Tasas de Interes diarios del Libor, Euribor y Prime;S_MUMUL_11_000684;s_mumul_11_000684;Tasas de Interes diarios del Libor, Euribor y Prime;S_MUMUL_11_000684;D_BO_000000496
+MULTIPLES\Tasas;Tasas de Interes diarios del Libor, Euribor y Prime;S_MUMUL_11_000684;s_mumul_11_000684;Tasas de Interes diarios del Libor, Euribor y Prime;S_MUMUL_11_000684;D_BO_000000497
+MULTIPLES\Tasas;Tasas de Interes diarios del Libor, Euribor y Prime;S_MUMUL_11_000684;s_mumul_11_000684;Tasas de Interes diarios del Libor, Euribor y Prime;S_MUMUL_11_000684;D_BO_000000495
+MULTIPLES\Tasas;Tasas de Interes diarios del Libor, Euribor y Prime;S_MUMUL_11_000684;s_mumul_11_000684;Tasas de Interes diarios del Libor, Euribor y Prime;S_MUMUL_11_000684;D_BO_000000541
+MULTIPLES\Tipos de Cambio;Tipo de Cambio de Monedas - Diario;S_MUMUL_11_000681;s_mumul_11_000681;Tipo de Cambio de Monedas - Diario;S_MUMUL_11_000681;D_BO_000000498
+MULTIPLES\Índices;Índices de Bolsa de Valores de Sectores Primarios Clasificado por Continente y País;S_MUMUL_11_000675;s_mumul_11_000675;Índices de Bolsa de Valores de Sectores Primarios Clasificado por Continente y País;;
+Ministerio de Minería y Metalurgia\Cotizacion;Cotización de Minerales;S_BOMMYM44_000667;s_bommym44_000667;Cotización de Minerales;S_BOMMYM44_000667;D_BO_000000490
+NIH;Trends in Prevalence of Various Drugs by Ages;S_USNIH_99_000717;;;;
+OMC\Exportaciones e Importaciones;Importación y Exportación por País y Tipo de Producto;SPIM_11000_IEPTP;spim_11000_ieptp;Importación y Exportación por País y Tipo de Producto;;
+OMC\Exportaciones e Importaciones;Importación y Exportación por Tipo de Comercio y por Grupos Determinados de Economías;SPIM_11001_IEGDE;spim_11001_iegde;Importación y Exportación por Tipo de Comercio y por Grupos Determinados de Economías;;
+OTROS HISTÓRICOS\ADA\Cochabamba;Evolucion del Precio del Maiz puesto en Cochabamba;S_BOADA_48_000739;s_boada_48_000739;Evolución del Precio del Maíz en Cochabamba (Precio Puesto);;
+OTROS HISTÓRICOS\ADA\Cochabamba;Producción Anual de Pollo Parrillero por Departamento;S_BOADA_88_000738;s_boada_88_000738;Producción Anual de Pollo Parrillero por Departamento en Bolivia;;
+OTROS HISTÓRICOS\ADA\Cochabamba;Precios Promedios de Insumos Alimentos para Pollo Mensual - Cochabamba;S_BOADA_44_000732;;;;
+OTROS HISTÓRICOS\ADA\Cochabamba;Consumo Nacional Percapita del Consumo de Pollo - Anual;S_BOADA_88_000736;;;;
+OTROS HISTÓRICOS\ADA\Cochabamba;Precios Promedios de Insumos Alimentos para Pollo Semanal - Cochabamba;S_BOADA_24_000733;;;;
+OTROS HISTÓRICOS\ADA\Cochabamba;Precio Promedio Pollo Entero La Paz - Cochabamba Mensual;S_BOADA_24_000735;;;;
+OTROS HISTÓRICOS\ADA\Cochabamba;Precio Promedio Pollo Entero La Paz - Cochabamba Semanal;S_BOADA_44_000734;;;;
+OTROS HISTÓRICOS\ADA\Cochabamba;Evolución del Precio del Pollo Parrillero - Cochabamba;S_BOADA_48_000737;;;;
+OTROS HISTÓRICOS\ADA\Produccion y Precios;Precio Promedio del Pollo y Huevo;S_BOADA_11_000393;s_boada_11_000393;Evolución del Precio Diario Promedio del Pollo y Huevo;;
+OTROS HISTÓRICOS\ANAPO;Precios de Soya Trigo Girasol y Maíz según Referencias;S_BOANAP11_000405;s_boanap11_000405;Precios de Soya Trigo Girasol y Maíz según Referencias;;
+OTROS HISTÓRICOS\APS\Seguros;Indicadores de Eficiencia por Compañías de Seguros;S_BOSPVS66_000257;s_bospvs66_000257;Indicadores de Eficiencia por Compañías de Seguros;;
+OTROS HISTÓRICOS\APS\Seguros;Valor de Cartera a Precio de Mercado por Emisor;S_BOSPVS66_000264;s_bospvs66_000264;Valor de Cartera a Precio de Mercado por Emisor;;
+OTROS HISTÓRICOS\APS\Seguros\Seguros-Herramientas;SHAA - Estados Financieros Empresas de Seguros;S_BOEIF_99_00039;;;;
+OTROS HISTÓRICOS\APS\Seguros\Seguros-Herramientas;Producción Directa Neta de Anulación y Siniestros Directos por Entidad;S_BOEIF_99_00040;;;;
+OTROS HISTÓRICOS\APS\Seguros\Seguros-Herramientas;Intermediación de Corredores de Seguros por Modalidad y Ramo;S_BOEIF_99_00041;;;;
+OTROS HISTÓRICOS\APS\Seguros\Seguros-Herramientas;Intermediación de Corredores de Seguros por Tipo y Compañía de Seguros;S_BOEIF_99_00042;;;;
+OTROS HISTÓRICOS\APS\Seguros\Seguros-Herramientas;SIC - Estados Financieros Empresas de Seguros;S_BOEIF_99_00038;;;;
+OTROS HISTÓRICOS\APS\Seguros\Seguros-Herramientas;SHAM Seguros - EV - EEFF;T_BOAPS_44_00022;;;;
+OTROS HISTÓRICOS\APS\Seguros\Seguros-Herramientas;SHAM Seguros - ByD - PNA y Siniestros Directos;T_BOAPS_44_00023;;;;
+OTROS HISTÓRICOS\APS\Seguros\Seguros-Herramientas;SHAM Seguros - ByD - Brokers por Ramo;T_BOAPS_44_00024;;;;
+OTROS HISTÓRICOS\APS\Seguros\Seguros-Herramientas;SHAM Seguros - ByD - Brokers por Empresa;T_BOAPS_44_00025;;;;
+OTROS HISTÓRICOS\APS\Seguros\Seguros-Herramientas;SHAM Seguros - ByD - EEFF;T_BOAPS_44_00021;;;;
+OTROS HISTÓRICOS\ASFI - Valores\Fondo de Renta Universal de Vejez;Diversificación de la Cartera del Fondo Universal de Renta de Vejez por Emisor;S_BOASFI44_000488;s_boasfi44_000488;Diversificación de la Cartera del Fondo Universal de Renta de Vejez por Emisor;;
+OTROS HISTÓRICOS\ASFI - Valores\Fondo de Renta Universal de Vejez;Diversificación de la Cartera del Fondo Universal de Renta de Vejez por Instrumento;S_BOASFI44_000489;s_boasfi44_000489;Composición del Portafolio del Fondo de Renta Universal de Vejez por Tipo de Instrumento;;
+OTROS HISTÓRICOS\ASFI - Valores\Fondos de Inversión;Información de Fondos de Inversión;S_BOASFI22_000529;s_boasfi22_000529;Información de Fondos de Inversión;S_BOASFI22_000529;D_BO_000000057
+OTROS HISTÓRICOS\ASFI\Colocaciones;Estratificación de Cartera por Departamento, Tipo de Crédito, Monto, Moneda y Actividad Económica del Sistema Bancario;S_BOASOB44_000404;s_boasob44_000404;Estratificación de Cartera del Sistema Bancario por Actividad, Departamento y Monto del Crédito;;
+OTROS HISTÓRICOS\ASFI\Colocaciones;Estratificación de Cartera y Contingente por Departamento, Tipo de Crédito, Monto, Moneda y Destino del Crédito;S_BOASFI44_000646;s_boasfi44_000646;Cartera y Contingente del Sistema Financiero por Departamento, Tipo y Destino del Crédito;;
+OTROS HISTÓRICOS\ASFI\Indicadores;Sucursales y Agencias por Entidad Financiera;S_BOASFI_66_000364;s_boasfi_66_000364;Sucursales y Agencias por Entidad Financiera;S_BOASFI_66_000364;D_BO_000000327
+OTROS HISTÓRICOS\ASFI\Indicadores;SIC - Ponderacion de Activos y CAP;S_BOEIF_99_00036;;;;
+OTROS HISTÓRICOS\ASFI\Indicadores;Sucursales y Agencias por Entidad Financiera;S_BOASFI_66_000364;s_boasfi_66_000364;Sucursales y Agencias por Entidad Financiera;S_BOASFI_66_000364;D_BO_000000325
+OTROS HISTÓRICOS\ASFI\Indicadores;Sucursales y Agencias por Entidad Financiera;S_BOASFI_66_000364;s_boasfi_66_000364;Sucursales y Agencias por Entidad Financiera;S_BOASFI_66_000364;D_BO_000000328
+OTROS HISTÓRICOS\ASFI\Indicadores;Sucursales y Agencias por Entidad Financiera;S_BOASFI_66_000364;s_boasfi_66_000364;Sucursales y Agencias por Entidad Financiera;S_BOASFI_66_000364;D_BO_000000329
+OTROS HISTÓRICOS\ASFI\Indicadores;Sucursales y Agencias por Entidad Financiera;S_BOASFI_66_000364;s_boasfi_66_000364;Sucursales y Agencias por Entidad Financiera;S_BOASFI_66_000364;D_BO_000000326
+OTROS HISTÓRICOS\ASFI\Información Financiera;Cartera por Fuentes de Recursos;SPIM_5005_CXFR;spim_5005_cxfr;Cartera por Fuentes de Recursos;;
+OTROS HISTÓRICOS\ASFI\Información Financiera;Encaje Legal por Factores del Sistema Bancario;SPIM_5004_ELSB;spim_5004_elsb;Encaje Legal por Factores del Sistema Bancario;;
+OTROS HISTÓRICOS\ASFI\Información Financiera;Obligaciones del Sistema Bancario (Captaciones por Tipo de Moneda);SPIM_5002_CTM;spim_5002_ctm;Obligaciones del Sistema Bancario (Captaciones por Tipo de Moneda);;
+OTROS HISTÓRICOS\ASFI\Información Financiera;Obligaciones del Sistema Bancario(Captaciones);SPIM_5001_CIS;spim_5001_cis;Obligaciones del Sistema Bancario(Captaciones);;
+OTROS HISTÓRICOS\ASOFIN;Información de Cartera de Créditos por Departamento;SPIM_16000_ICCD;spim_16000_iccd;Información de Cartera de Créditos por Departamento;;
+OTROS HISTÓRICOS\ASOFIN;Indicadores Financieros ASOFIN;SPIM_16005_I;spim_16005_i;Indicadores Financieros ASOFIN;SPIM_16005_I;D_BO_000000416
+OTROS HISTÓRICOS\ASOFIN;Evolución por Entidad;SPIM_16004_EXE;spim_16004_exe;Evolución por Entidad;SPIM_16004_EXE;D_BO_000000416
+OTROS HISTÓRICOS\ASOFIN;Estratificación de la Relación Cartera - Castigados por Monto Desembolsado y Número de Clientes;SPIM_16002_ERCCMNC;spim_16002_erccmnc;Estratificación de la Relación Cartera - Castigados por Monto Desembolsado y Número de Clientes;;
+OTROS HISTÓRICOS\ASOFIN;Cartera por Tipo de Crédito;S_BOASOF44_000246;s_boasof44_000246;Evolución de la Cartera por Tipo de Crédito en Instituciones Afiliadas a ASOFIN;;
+OTROS HISTÓRICOS\ASOFIN;Evolución Consolidada de la Cartera de Créditos de los Asociados a ASOFIN;SPIM_16003_ECCCAA;spim_16003_ecccaa;Evolución Consolidada de la Cartera de Créditos de los Asociados a ASOFIN;;
+OTROS HISTÓRICOS\ASOFIN;Cartera Bruta y Número de Clientes por Actividad Económica;S_BOASOF44_000245;s_boasof44_000245;Cartera Bruta y Número de Clientes por Actividad Económica;;
+OTROS HISTÓRICOS\ASOFIN;Cartera y Contingente por Tipo de Calificación;S_BOASOF44_000244;s_boasof44_000244;Cartera y Contingente por Tipo de Calificación;;
+OTROS HISTÓRICOS\ASOFIN;Caja de Ahorro y DPF por Tipo de Persona y Género;S_BOASOF44_000243;s_boasof44_000243;Caja de Ahorro y DPF por Tipo de Persona y Género;;
+OTROS HISTÓRICOS\ASOFIN;Cartera Bruta, Mora y Clientes por Tipo de Persona y Género;S_BOASOF44_000242;s_boasof44_000242;Cartera Bruta, Mora y Clientes por Tipo de Persona y Género;;
+OTROS HISTÓRICOS\ASOFIN;Estratificación de Cartera por Monto Desembolsado y Número de Clientes;SPIM_16001_ECMNC;spim_16001_ecmnc;Estratificación de Cartera por Monto del Crédito y Número de Clientes – ASOFIN;;
+OTROS HISTÓRICOS\ATC;Red de Cajeros Automáticos;S_BOATC_77_000411;;;;
+OTROS HISTÓRICOS\ATT\Internet;Evolución de Acceso a Internet;SPIM_8001_EAAI;spim_8001_eaai;Evolución de Acceso a Internet;;
+OTROS HISTÓRICOS\ATT\Telefonía;Densidad Telefónica Fija y Móvil por Departamento;SPIM_8002_DTMFD;spim_8002_dtmfd;Densidad Telefónica Fija y Móvil por Departamento;;
+OTROS HISTÓRICOS\ATT\Telefonía;Tráfico Total en Minutos Originado en Red Fija Local y Red Móvil;S_BOATT_99_000656;s_boatt_99_000656;Tráfico Total en Minutos Originado en Red Fija Local y Red Móvil;;
+OTROS HISTÓRICOS\ATT\Telefonía;Evolución Nacional de la Cantidad de Líneas en Servicio;SPIM_8005_ECLS;spim_8005_ecls;Evolución Nacional de la Cantidad de Líneas en Servicio;;
+OTROS HISTÓRICOS\ATT\Telefonía;Estado de Resultados de los Operadores de Servicios Básicos de Telecomunicaciones;SPIM_8006_EROSBT;spim_8006_erosbt;Estado de Resultados de los Operadores de Servicios Básicos de Telecomunicaciones;;
+OTROS HISTÓRICOS\ATT\Telefonía;Balance General de los Operadores de Servicios Básicos de Telecomunicaciones;SPIM_8007_BGOSBT;spim_8007_bgosbt;Balance General de los Operadores de Servicios Básicos de Telecomunicaciones;;
+OTROS HISTÓRICOS\ATT\Telefonía;Tarifas por Minuto del Servicio de Larga Distancia Internacional;S_BOSITT44_000265;s_bositt44_000265;Tarifas por Minuto del Servicio de Larga Distancia Internacional;;
+OTROS HISTÓRICOS\ATT\Telefonía;Tarifas de Servicio de Larga Distancia Nacional;S_BOSITT44_000266;s_bositt44_000266;Tarifas de Servicio de Larga Distancia Nacional;;
+OTROS HISTÓRICOS\ATT\Telefonía;Líneas Móviles en Servicio según Modalidad de Pago;SPIM_8004_LMSSTP;spim_8004_lmsstp;Líneas Móviles en Servicio según Modalidad de Pago;;
+OTROS HISTÓRICOS\ATT\Telefonía;Líneas Telefónicas del Servicio de Acceso Público por Departamento;S_BOATT_88_000657;s_boatt_88_000657;Cantidad de líneas telefónicas de servicio de acceso público por departamento - Información descontinuada;;
+OTROS HISTÓRICOS\ATT\Telefonía;Tarifas de Internet por Operador;S_BOATT_88_000613;s_boatt_88_000613;Tarifas de Internet por Operador;;
+OTROS HISTÓRICOS\ATT\Telefonía;Trafico de Mensajería, Telefonía móvil y Telefonía Fija;S_BOATT_88_000607;s_boatt_88_000607;Trafico de Mensajería, Telefonía móvil y Telefonía Fija;;
+OTROS HISTÓRICOS\AZURE\DATA.GOV;United States Crime Statistics;S_USDATG88_000418;;;;
+OTROS HISTÓRICOS\AZURE\UNDATA;National Accounts Official Country Data;S_UNUNDA88_000420;;;;
+OTROS HISTÓRICOS\Autoridad de Electricidad;Distribución de Electricidad por empresa - Anual;S_BO_AE_88_000725;s_bo_ae_88_000725;Distribución de Electricidad por Empresa - Anual;;
+OTROS HISTÓRICOS\Autoridad de Electricidad;Distribución de Electricidad por empresa - Mensual;S_BO_AE_44_000724;s_bo_ae_44_000724;Distribución de Electricidad por Empresa - Mensual;;
+OTROS HISTÓRICOS\BANCO MUNDIAL\DOING BUSINESS;Indicadores para la Gestión de Negocios en el Mundo;S_US_DB_88_000472;;;;
+OTROS HISTÓRICOS\BANCO MUNDIAL\Economía;Perfil de Datos Económicos por Países;SPIM_9000_PDEP;spim_9000_pdep;Perfil Económico Anual de Países Sudamericanos – Datos del Banco Mundial;;
+OTROS HISTÓRICOS\BCB\Activos Virtuales;Activos Virtuales;S_BOBCB_11_000821;;;;
+OTROS HISTÓRICOS\BCB\Sector Bancario y Financiero;Promedio de Operaciones del Sistema de Pagos Nacional;S_BOBCB_44_000476;s_bobcb_44_000476;Promedio de Operaciones del Sistema de Pagos Nacional;S_BOBCB_44_000476;D_BO_000000420
+OTROS HISTÓRICOS\BCB\Sector Bancario y Financiero;Financiamiento Concedido por el Sistema Bancario al Sector Privado por Departamento y Banco;SPIM_1058_FCSBASPXD;spim_1058_fcsbaspxd;Financiamiento Concedido por el Sistema Bancario al Sector Privado por Departamento y Banco;;
+OTROS HISTÓRICOS\BCB\Sector Bancario y Financiero;Operaciones del Sistema de Pagos Nacional;S_BOBCB_44_000475;s_bobcb_44_000475;Operaciones del Sistema de Pagos Nacional;;
+OTROS HISTÓRICOS\BCB\Sector Externo;Desembolso Deuda Pública Externa de Mediano y Largo Plazo de por Tipo Sector y Deudor;S_BOBCB_77_000291;s_bobcb_77_000291;Desembolso Deuda Pública Externa de Mediano y Largo Plazo de por Tipo Sector y Deudor;;
+OTROS HISTÓRICOS\BCB\Sector Externo;Movimiento de Capital de Crédito;S_BOBCB_77_000298;s_bobcb_77_000298;Movimiento de Capital de Crédito;;
+OTROS HISTÓRICOS\BCB\Sector Externo;Movimiento de Capital de Débito;S_BOBCB_77_000299;s_bobcb_77_000299;Movimiento de Capital de Débito;;
+OTROS HISTÓRICOS\BCB\Sector Externo;Balanza de Pagos;S_BOBCB_44_000297;s_bobcb_44_000297;Balanza de Pagos;;
+OTROS HISTÓRICOS\BCB\Tasas de Interés;SIC - Tasas de Interes Anuales Efectivas;S_BOEIF_99_00037;;;;
+OTROS HISTÓRICOS\CADECO;Precios Referenciales de Materiales de Construcción;S_BOCADE55_000400;s_bocade55_000400;Precios Referenciales de Materiales de Construcción;;
+OTROS HISTÓRICOS\CADEXCO\Estadísticas;Volumen y Valor de las Exportaciones de Productos no Tradicionales de Cochabamba;S_BOCXCO_44_000308;;;;
+OTROS HISTÓRICOS\CEPAL\Estadísticas Económicas\Cuentas Nacionales;Producto Interno Bruto por Tipo de Gasto a Precio de Mercado;SPIM_7001_PIBTGPM;spim_7001_pibtgpm;Producto Interno Bruto por Tipo de Gasto a Precio de Mercado;SPIM_7001_PIBTGPM;D_BO_000000473
+OTROS HISTÓRICOS\CEPAL\Estadísticas Económicas\Cuentas Nacionales;Producto Interno Bruto por Tipo de Gasto a Precio de Mercado;SPIM_7001_PIBTGPM;spim_7001_pibtgpm;Producto Interno Bruto por Tipo de Gasto a Precio de Mercado;SPIM_7001_PIBTGPM;D_BO_000000476
+OTROS HISTÓRICOS\CEPAL\Estadísticas Económicas\Cuentas Nacionales;Producto Interno Bruto por Tipo de Gasto a Precio de Mercado;SPIM_7001_PIBTGPM;spim_7001_pibtgpm;Producto Interno Bruto por Tipo de Gasto a Precio de Mercado;SPIM_7001_PIBTGPM;D_BO_000000474
+OTROS HISTÓRICOS\CEPAL\Estadísticas Económicas\Cuentas Nacionales;Producto Interno Bruto por Tipo de Gasto a Precio de Mercado;SPIM_7001_PIBTGPM;spim_7001_pibtgpm;Producto Interno Bruto por Tipo de Gasto a Precio de Mercado;SPIM_7001_PIBTGPM;D_BO_000000475
+OTROS HISTÓRICOS\CEPROBOL;Exportaciones por Zonas Económicas y Países;SPIM_5003_EPPZE;;;;
+OTROS HISTÓRICOS\CEPROBOL;Exportaciones Bolivianas según NANDINA;SPIM_5002_EBOL;;;;
+OTROS HISTÓRICOS\CEPROBOL;Exportaciones Bolivianas según CUCI;SPIM_5001_ECUCI;;;;
+OTROS HISTÓRICOS\CNDC\Anual;Indisponibilidad Forzada INDO de Unidades Térmicas;S_BOCNDC88_000468;s_bocndc88_000468;Indisponibilidad Forzada INDO de Unidades Térmicas;S_BOCNDC88_000468;D_BO_000000068
+OTROS HISTÓRICOS\CNDC\Diaria;Costos Marginales en Nodos del STI;S_BOCNDC11_000443;s_bocndc11_000443;Costos Marginales en Nodos del STI;;
+OTROS HISTÓRICOS\CNDC\Diaria;Inyecciones y Retiros de Carga en Nodos del STI;S_BOCNDC11_000444;s_bocndc11_000444;Inyecciones y Retiros de Carga en Nodos del STI;;
+OTROS HISTÓRICOS\DENMARK STATISTICS\Yearbook;Average Personal Income in Municipalities of Denmark;S_DK_SD_88_000355;;;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Tráfico de Pasajeros, Carga y Correo de Empresas Aéreas por Origen y Destino;S_BODGAC_88_00370;s_bodgac_88_00370;Tráfico de Pasajeros, Carga y Correo de Empresas Aéreas por Origen y Destino;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Tráfico de Pasajeros - Carga por Ruta, Empresa Aérea, Servicio y Tipo de Aeronave;S_BODGAC_88_00369;s_bodgac_88_00369;Tráfico de Pasajeros - Carga por Ruta, Empresa Aérea, Servicio y Tipo de Aeronave;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Servicio Exclusivo de Carga y Correo (Origen-Destino) según Empresa y Tráfico Nacional e Internacional;S_BODGAC_88_00376;;;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Tráfico de Pasajeros - Carga - Correo por Línea Aérea, Nacional e Internacional;S_BODGAC_88_00372;s_bodgac_88_00372;Tráfico de Pasajeros - Carga - Correo por Línea Aérea, Nacional e Internacional;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Cuadro Comparativo - Tráfico de Pasajeros, Carga y Correo según Empresa Aérea;S_BODGAC_88_00377;;;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Número de Vuelos, Horas Voladas y Pasajeros por Empresa;S_BODGAC_88_00378;;;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Tráfico de Pasajeros, Carga y Correo por Empresa Aérea (Operadores Extranjeros);S_BODGAC_88_00373;;;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Tráfico Embarcado y Desembarcado de Pasajeros, Carga y Correo en Bolivia por Línea Aérea;S_BODGAC_88_00374;s_bodgac_88_00374;Tráfico Aéreo de Pasajeros, Carga y Correo por Línea Aérea;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Movimiento de Pasajeros, Carga y Correo en Bolivia por Ruta y Línea Aérea;S_BODGAC_88_00371;s_bodgac_88_00371;Movimiento de Pasajeros, Carga y Correo en Bolivia por Ruta y Línea Aérea;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Tráfico de Pasajeros, Carga y Correo según Empresa Aérea, Tipo de Vuelo, Tipo de Transporte y Tipo de Servicio;S_BODGAC_88_00382;s_bodgac_88_00382;Tráfico de Pasajeros, Carga y Correo según Empresa Aérea, Tipo de Vuelo, Tipo de Transporte y Tipo de Servicio;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Autorizaciones de Vuelo Operaciones no Regulares según Tipo de Autorización y Estado;S_BODGAC_88_00383;s_bodgac_88_00383;Autorizaciones de Vuelo Operaciones no Regulares según Tipo de Autorización y Estado;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Tráfico Embarcado y Desembarcado de Pasajeros, Carga, Correo en el Exterior por Empresa Aérea (Servicio Internacional);S_BODGAC_88_00381;s_bodgac_88_00381;Tráfico Embarcado y Desembarcado de Pasajeros, Carga, Correo en el Exterior por Empresa Aérea (Servicio Internacional);;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Aeronaves Registradas según Ciudad Base y Especialidad;S_BODGAC_88_00380;s_bodgac_88_00380;Aeronaves Registradas según Ciudad Base y Especialidad;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Resultados Obtenidos según Ruta Nacional por Empresa y Tipo de Transporte Aéreo;S_BODGAC_88_00375;s_bodgac_88_00375;Resultados Obtenidos según Ruta Nacional por Empresa y Tipo de Transporte Aéreo;;
+OTROS HISTÓRICOS\DGAC\Anuario Estadístico;Resultados Obtenidos según Tipo de Ruta, Tipo de Servicio, Tipo de Transporte Aéreo, Empresa y Modelo de Avión;S_BODGAC_88_00379;s_bodgac_88_00379;Resultados Obtenidos según Tipo de Ruta, Tipo de Servicio, Tipo de Transporte Aéreo, Empresa y Modelo de Avión;;
+OTROS HISTÓRICOS\Deportes\FIFA;Clasificación Mundial FIFA;S_MUFIFA44_000530;s_mufifa44_000530;Clasificación Mundial FIFA;S_MUFIFA44_000530;D_BO_000000272
+OTROS HISTÓRICOS\Deportes\FIFA;Clasificación Mundial FIFA;S_MUFIFA44_000530;s_mufifa44_000530;Clasificación Mundial FIFA;S_MUFIFA44_000530;D_BO_000000271
+OTROS HISTÓRICOS\FAM\Población;Población de Bolivia por Municipios según Censo 2001;S_BOFAM_00_000324;;;;
+OTROS HISTÓRICOS\FAM\SIAM\Información Estadística;Ingresos y Gastos de Bolivia por Municipio;S_BOFAM_44_000325;s_bofam_44_000325;Ingresos y Gastos de Bolivia por Municipio;;
+OTROS HISTÓRICOS\FDTA-VALLES;Precios Diarios de Productos Agrícolas en Mercados de Bolivia;S_BOFVAL11_000249;s_bofval11_000249;Precios Diarios de Productos Agrícolas en Mercados de Bolivia;;
+OTROS HISTÓRICOS\FDTA-VALLES;Precios de Productos Agropecuarios en Mercados de Bolivia;S_BOFVAL18_00386;;;;
+OTROS HISTÓRICOS\FDTA-VALLES;Precios actuales en Mercados Mayoristas y en Ferias Rurales;S_BOFVAL11_000611;s_bofval11_000611;Precios actuales en Mercados Mayoristas y en Ferias Rurales;;
+OTROS HISTÓRICOS\FEGASACRUZ\Boletín Informativo;Peso y Precio de Ganado Vivo;S_BOFGSC_44_000304;;;;
+OTROS HISTÓRICOS\FEGASACRUZ\Boletín Informativo;Precios de Carne Vacuna;S_BOFGSC_44_000305;;;;
+OTROS HISTÓRICOS\FINRURAL;Estado de Cartera por Departamento e Institución (en Sus);SPIM_15005_ECDIS;spim_15005_ecdis;Estado de Cartera en $us. por Departamento e Institución Financiera de Desarrollo;;
+OTROS HISTÓRICOS\FINRURAL;Estado de Cartera por Departamento e Institución (en Bs.);SPIM_15000_ECDIB;spim_15000_ecdib;Estado de Cartera en Bolivianos por Departamento e Institución Financiera de Desarrollo;;
+OTROS HISTÓRICOS\FINRURAL;Cartera por Tecnología Financiera y Área;S_BOFINR44_000436;s_bofinr44_000436;Cartera por Tecnología Financiera de Instituciones Financieras de Desarrollo;;
+OTROS HISTÓRICOS\FUNDEMPRESA;Empresas Inscritas y Canceladas;S_BOFUNDE_44_000473;s_bofunde_44_000473;Empresas Inscritas y Canceladas;;
+OTROS HISTÓRICOS\FUNDEMPRESA;Base Empresarial, Cantidad de Empresas Inscritas y Canceladas según Tipo Societario por Departamento;S_BOFUNDE_44_000282;s_bofunde_44_000282;Base Empresarial, Cantidad de Empresas Inscritas y Canceladas según Tipo Societario por Departamento;;
+OTROS HISTÓRICOS\FUNDEMPRESA;Base Empresarial, Cantidad de Empresas Inscritas y Canceladas según Actividad Económica por Departamento;S_BOFUNDE_44_000283;s_bofunde_44_000283;Base Empresarial, Cantidad de Empresas Inscritas y Canceladas según Actividad Económica por Departamento;;
+OTROS HISTÓRICOS\FUNDEMPRESA\Directorio Empresarial;Directorio de Empresas Bolivianas;S_BOFUNDE_00_000363;s_bofunde_00_000363;Directorio Empresarial;;
+OTROS HISTÓRICOS\IBCE-CAO\Precios y Mercados;Precios de Productos Agropecuarios en el Mercado Abasto de Santa Cruz;S_BOIBCE_22_000362;s_boibce_22_000362;Precios de Productos Agropecuarios en el Mercado Abasto de Santa Cruz;;
+OTROS HISTÓRICOS\IBCH\Producción y Venta;Producción, Venta y Variación del Cemento por Departamento, Empresa y Fábrica;S_BOIBCH44_00390;s_boibch44_00390;Producción, Venta y Variación del Cemento por Departamento, Empresa y Fábrica;;
+OTROS HISTÓRICOS\IMPUESTOS NACIONALES\Cifras y Estadisticas;Recaudación por Sector Económico e Impuesto;S_BO_IN_88_000353;s_bo_in_88_000353;Recaudación por Sector Económico e Impuesto;;
+OTROS HISTÓRICOS\IMPUESTOS NACIONALES\Cifras y Estadisticas;Recaudación por Sector Económico y Dependencia Departamental;S_BO_IN_88_000354;s_bo_in_88_000354;Recaudación por Sector Económico y Dependencia Departamental;;
+OTROS HISTÓRICOS\IMPUESTOS NACIONALES\Cifras y Estadisticas;Recaudación por Impuesto y Dependencias Departamentales;S_BO_IN_88_000352;s_bo_in_88_000352;Recaudación por Impuesto y Dependencias Departamentales;;
+OTROS HISTÓRICOS\INE\Boletín Estadístico\Estadísticas Internacionales;Indicadores Sociales por País;S_BOINE_88_000276;;;;
+OTROS HISTÓRICOS\INE\Boletín Estadístico\Estadísticas Internacionales;Importaciones por País según Grandes Categorías Económicas;S_BOINE_88_000269;;;;
+OTROS HISTÓRICOS\INE\Boletín Estadístico\Estadísticas Internacionales;Inversión Extranjera Directa Proveniente por País, según Actividad Económica;S_BOINE_88_000273;;;;
+OTROS HISTÓRICOS\INE\Boletín Estadístico\Estadísticas Internacionales;Exportación por País según Vía de Salida;S_BOINE_88_000272;;;;
+OTROS HISTÓRICOS\INE\Boletín Estadístico\Estadísticas Internacionales;Importación por País según Modo de Transporte;S_BOINE_88_000271;;;;
+OTROS HISTÓRICOS\INE\Boletín Estadístico\Estadísticas Internacionales;Indicadores Demográficos seleccionados por País;S_BOINE_88_000278;;;;
+OTROS HISTÓRICOS\INE\Boletín Estadístico\Estadísticas Internacionales;Exportación por País según Modo de Transporte;S_BOINE_88_000270;;;;
+OTROS HISTÓRICOS\INE\Boletín Estadístico\Estadísticas Internacionales;Llegada y Pernoctación de Viajeros a Establecimientos de Hospedaje según Categoría Hotelera por País;S_BOINE_88_000275;;;;
+OTROS HISTÓRICOS\INE\Boletín Estadístico\Estadísticas Internacionales;Exportaciones por País según Principales Productos;S_BOINE_88_000268;;;;
+OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;Unidades de Producción Agropecuaria (UPA) que Ordeñaron día anterior al Censo según Tipo de Ordeño;S_BOINE_89_000708;s_boine_89_000708;Unidades de Producción Agropecuaria (UPA) que Ordeñaron día anterior al Censo según Tipo de Ordeño;;
+OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;Unidades de Producción Agropecuaria (UPA) que Ordeñaron día anterior al Censo según Tipo y Nùmero de Ordeñas;S_BOINE_89_000706;s_boine_89_000706;Unidades de Producción Agropecuaria (UPA) que Ordeñaron día anterior al Censo según Tipo y Nùmero de Ordeñas;;
+OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;Bovinos con Especialidad en Leche según Venta y Consumo del Hogar;S_BOINE_89_000709;s_boine_89_000709;Bovinos con Especialidad en Leche según Venta y Consumo del Hogar;;
+OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;Reporte General - Estadisticas del Sector Lechero;S_BOINE_89_000710;s_boine_89_000710;Reporte General - Estadisticas del Sector Lechero;;
+OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;Número de Cabezas de Ganado Bovino por Especialidad y Sexo según Departamento;S_BOINE_89_000711;s_boine_89_000711;Número de Cabezas de Ganado Bovino por Especialidad y Sexo según Departamento;;
+OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;Producción de Leche según el Número de Vacas Ordeñas el Día Anterior al Censo;S_BOINE_89_000712;s_boine_89_000712;Producción de Leche según el Número de Vacas Ordeñas el Día Anterior al Censo;;
+OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;Bovinos con Especialidad en Leche según Tipo de Ordeño del día anterior al Censo;S_BOINE_89_000713;s_boine_89_000713;Bovinos con Especialidad en Leche Según Tipo de Ordeño del Día Anterior al Censo;;
+OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;Unidades de Producción Agropecuaria (UPA) que Ordeñaron dia anterior al Censo según Venta y Consumo del Hogar;S_BOINE_89_000707;s_boine_89_000707;Unidades de Producción Agropecuaria (UPA) que Ordeñaron dia anterior al Censo según Venta y Consumo del Hogar;;
+OTROS HISTÓRICOS\INE\Demografía\Población;Indicadores Demográficos por Departamento de Bolivia 2010 - 2015;S_BOINE_88_000634;s_boine_88_000634;Indicadores Demográficos por Departamento de Bolivia 2010 - 2015;;
+OTROS HISTÓRICOS\INE\Estadísticas Departamentales\Capítulo 04: Sector Real\Actividad Extractiva;Producción de Minerales según Departamento, Unidad y Mineral;SPIM_4059_PMAD;spim_4059_pmad;Producción de Minerales según Departamento, Unidad y Mineral;;
+OTROS HISTÓRICOS\INE\Estadísticas Departamentales\Capítulo 04: Sector Real\Actividad Extractiva;Volumen de Producción de Refinados del Petróleo según Departamento, Unidad y Producto;SPIM_4058_VPRPADP;spim_4058_vprpadp;Volumen de Producción de Refinados del Petróleo según Departamento, Unidad y Producto;;
+OTROS HISTÓRICOS\INE\Estadísticas Departamentales\Capítulo 04: Sector Real\Servicios Básicos;Consumo y Número de Conexiones de Energía Eléctrica según Departamento y Tipo de Usuario;SPIM_4061_CNCEEDTU;spim_4061_cnceedtu;Consumo y Número de Conexiones de Energía Eléctrica según Departamento y Tipo de Usuario;;
+OTROS HISTÓRICOS\INE\Estadísticas Departamentales\Capítulo 04: Sector Real\Servicios Básicos;Consumo y Número de Conexiones de Agua Potable según Departamento y Tipo de Servicio;SPIM_4060_CNCAPDTS;spim_4060_cncapdts;Consumo y Número de Conexiones de Agua Potable según Departamento y Tipo de Servicio;;
+OTROS HISTÓRICOS\INE\Estadísticas Departamentales\Capítulo 04: Sector Real\Transportes y Comunicaciones;Tráfico de Telecomunicación por Departamento y Tipo de Servicio;SPIM_4066_TTDTS;spim_4066_ttdts;Tráfico de Telecomunicación por Departamento y Tipo de Servicio;;
+OTROS HISTÓRICOS\INE\Estadísticas Departamentales\Capítulo 04: Sector Real\Transportes y Comunicaciones;Cantidad y Volumen de Transporte Carretero Interdepartamental según Flujo y Tipo de Ruta;SPIM_4062_CTCIFTRTS;spim_4062_ctciftrts;Cantidad y Volumen de Transporte Carretero Interdepartamental según Flujo y Tipo de Ruta;;
+OTROS HISTÓRICOS\INE\Estadísticas Departamentales\Estadísticas Demográficas;Proyecciones de Población por Departamento, Provincia y Sección de Provincia;SPIM_4056_PPD;;;;
+OTROS HISTÓRICOS\INE\Estadísticas Departamentales\Estadísticas de Precios al Consumidor;Variación Porcentual Acumulada Anual del IPC por Año según Divisón;SPIM_4068_VPAPAIPCAC;;;;
+OTROS HISTÓRICOS\INE\Estadísticas Departamentales\Estadísticas de Precios al Consumidor;Precio Promedio Anual al Consumidor, según Artículo, Ciudad y Año;SPIM_4069_PPACACA;;;;
+OTROS HISTÓRICOS\INE\Estadísticas Departamentales\Transportes y Comunicaciones;Volumen de Transporte por Ductos de Hidrocarburos según Mercado de Destino;SPIM_4063_VTDHMD;;;;
+OTROS HISTÓRICOS\INE\Estadísticas Económicas (Construcción y Precios)\Construcción;Índice del Costo de la Construccion, según Tipo de Construcción;S_BOINE_66_000331;s_boine_66_000331;Índice del Costo de la Construccion, según Tipo de Construcción;;
+OTROS HISTÓRICOS\INE\Estadísticas Económicas (Construcción y Precios)\Construcción;Índice del Costo de la Construcción, según Actividad de la Construcción e Insumos;S_BOINE_66_000332;s_boine_66_000332;Índice del costo de la construcción según actividad de la construcción;;
+OTROS HISTÓRICOS\INE\Estadísticas Económicas (Construcción y Precios)\Construcción;Precio Promedio según Materiales de Construcción y Maquinaria por Región;S_BOINE_66_000330;s_boine_66_000330;Precio Promedio según Materiales de Construcción y Maquinaria por Región;;
+OTROS HISTÓRICOS\INE\Estadísticas Económicas\Construcción;Remuneración Promedio según Categorías Ocupacionales de la Construcción por Ciudad;S_BOINE_66_000333;s_boine_66_000333;Remuneración Promedio según Categorías Ocupacionales de la Construcción por Ciudad;;
+OTROS HISTÓRICOS\INE\Estadísticas Económicas\Energía Eléctrica;Índice de la Cantidad de Energía Eléctrica por Categoría;S_BOINE_66_000481;;;;
+OTROS HISTÓRICOS\INE\Estadísticas Económicas\Gobierno;Coparticipación Tributaria por Departamento, Institución y Municipio;S_BOINE_88_000335;s_boine_88_000335;Coparticipación Tributaria por Departamento, Institución y Municipio;;
+OTROS HISTÓRICOS\INE\Estadísticas Económicas\Hidrocarburos;Precios Internacional del Petróleo y de Exportación del Gas Natural;S_BOINE_66_000483;;;;
+OTROS HISTÓRICOS\INE\Estadísticas Económicas\Telecomunicaciones;Índice de Cantidad, Precio y Valores de Telecomunicaciones;S_BOINE_66_000484;s_boine_66_000484;Índice de Cantidad, Precio y Valores de Telecomunicaciones;;
+OTROS HISTÓRICOS\INE\Estadísticas de Trabajo;Ingreso Promedio por Quintiles y Género de la Población Ocupada;S_BOINE_66_000410;;;;
+OTROS HISTÓRICOS\INE\Estadísticas de Trabajo;Distribución de la Población según su Estado Ocupacional y Género;S_BOINE_66_000403;s_boine_66_000403;Distribución de la Población por Estado Ocupacional y Género;;
+OTROS HISTÓRICOS\INE\Estadísticas de Trabajo;Proyección de la Población Económicamente Activa por Departamento, Género, Área Poblacional y Rango de Edad;S_BOINE_88_000402;;;;
+OTROS HISTÓRICOS\INE\Estadísticas de la Actividad de la Construcción\Inversión Pública;Inversión Pública Ejecutada según Sector y Actividad;S_BOINE_88_000358;s_boine_88_000358;Inversión Pública Ejecutada según Sector y Actividad;;
+OTROS HISTÓRICOS\INE\Estadísticas de la Actividad de la Construcción\Permisos de Construcción;Superficie de Construcción Aprobada según Ciudades Capitales (Mensual);S_BOINE_46_000414;s_boine_46_000414;Superficie de Construcción Aprobada según Ciudades Capitales (Mensual);;
+OTROS HISTÓRICOS\INE\Resumen Estadístico Mensual   ;Unidad de Fomento a la Vivienda;SPIM_4039_UFV;;;;
+OTROS HISTÓRICOS\INE\Resumen Estadístico Mensual   ;Ingresos y Gastos del Sector Público No Financiero;SPIM_4031_IGSPNF;;;;
+OTROS HISTÓRICOS\INE\Resumen Estadístico Mensual   ;Renta Interna;SPIM_4032_RI;;;;
+OTROS HISTÓRICOS\INE\Resumen Estadístico Mensual   ;Impuesto Especial a Hidrocarburos;SPIM_4033_IEH;;;;
+OTROS HISTÓRICOS\INE\Resumen Estadístico Mensual   ;Renta Aduanera;SPIM_4034_RA;;;;
+OTROS HISTÓRICOS\INE\Resumen Estadístico Mensual   ;Obligaciones del Sistema Bancario;SPIM_4035_OSB;;;;
+OTROS HISTÓRICOS\INE\Resumen Estadístico Mensual   ;Cartera del Sistema Bancario;SPIM_4036_CSB;;;;
+OTROS HISTÓRICOS\INE\Resumen Estadístico Mensual   ;Cartera en Mora del Sistema Bancario;SPIM_4037_CMSB;;;;
+OTROS HISTÓRICOS\INE\Resumen Estadístico Mensual   ;Tasa de Interés Efectiva en Moneda Extranjera y Nacional del Sistema Bancario;SPIM_4038_TIEMEMNSB;;;;
+OTROS HISTÓRICOS\INE\Resumen Estadístico Mensual   ;Exportación, Importación y Saldo Comercial de Bolivia;SPIM_4030_EISCB;;;;
+OTROS HISTÓRICOS\INE\Resumen Estadístico Mensual   ;Indicadores Económicos;SPIM_4071_IE;;;;
+OTROS HISTÓRICOS\INE\Sector Externo\Turismo;Índice de Precios del Turista, según Mes(La Paz);SPIM_4055_IPTL;spim_4055_iptl;Índice de Precios del Turista, según Mes(La Paz);;
+OTROS HISTÓRICOS\INE\Sector Externo\Turismo;Salida y Llegada de Viajeros Internacionales Vía Aérea, según País Origen de la Empresa Transportadora y Tipo de Viajero;SPIM_4042_SLLPVAPOETTV;spim_4042_sllpvapoettv;Salida y Llegada de Viajeros Internacionales Vía Aérea, según País Origen de la Empresa Transportadora y Tipo de Viajero;;
+OTROS HISTÓRICOS\INE\Sector Real\Estadísticas de Precios al Consumidor;Índice de Precios al Consumidor, Promedio Anual Según Capitulo y Grupo;SPIM_4025_IPCPASCG;;;;
+OTROS HISTÓRICOS\INE\Sector Real\Estadísticas de Precios al Consumidor;Índice de Precios al Consumidor, Según Criterio de Transabilidad;SPIM_4028_IPCSCTM;;;;
+OTROS HISTÓRICOS\INE\Sector Real\Hidrocarburos;Reservas de Petróleo y Gas Natural;SPIM_4008_RPGN;spim_4008_rpgn;Reservas de Petróleo y Gas Natural;;
+OTROS HISTÓRICOS\INE\Sector Real\Industria Manufacturera;Precios al Productor Industrial Manufacturero según Principales Productos;SPIM_2400_PPIMSPP;spim_2400_ppimspp;Precios al Productor Industrial Manufacturero según Principales Productos;;
+OTROS HISTÓRICOS\INE\Sector Real\Industria Manufacturera;Índice de Volumen de Ventas de la Industria Manufacturera, según Grupo de Actividad;SPIM_4012_IVVIMSGA;spim_4012_ivvimsga;Índice de Volumen de Ventas de la Industria Manufacturera, según Grupo de Actividad;;
+OTROS HISTÓRICOS\INE\Sector Real\Industria Manufacturera;Índice de Volumen Físico de la Industria Manufacturera, según Grupo de Actividad;SPIM_4011_IVFIMSGA;spim_4011_ivfimsga;Índice de Volumen Físico de la Industria Manufacturera, según Grupo de Actividad;;
+OTROS HISTÓRICOS\INE\Sector Real\Industria Manufacturera;Índice de Precios al Productor Industrial, Según Grupo de Actividad;SPIM_4013_IPPISGA;spim_4013_ippisga;Índice de Precios al Productor Industrial, Según Grupo de Actividad;;
+OTROS HISTÓRICOS\MDRyT\Estadisticas Agropecuarias;Importaciones Agricolas, Pecuarias y Agroforestales por Año Según Producto;S_BOMDRT88_000523;;;S_BOMDRT88_000523;D_BO_000000568
+OTROS HISTÓRICOS\MDRyT\Estadisticas Agropecuarias;Costos de Producción de Cultivos por Departamento;S_BOMDRT55_000522;s_bomdrt55_000522;Costos de Producción de Cultivos por Departamento;;
+OTROS HISTÓRICOS\MDRyT\Estadisticas Agropecuarias;Exportaciones Agricolas, Pecuarias y Agroforestales por Año Según Producto;S_BOMDRT88_000524;;;S_BOMDRT88_000524;D_BO_000000567
+OTROS HISTÓRICOS\MDRyT\OAP;Precios de Producto Agropecuarios por Departamento según Origen;S_BOMDRT11_000610;s_bomdrt11_000610;Precios de Producto Agropecuarios por Departamento según Origen;S_BOMDRT11_000610;D_BO_000000014
+OTROS HISTÓRICOS\MDRyT\OAP;Precios de Producto Agropecuarios por Departamento;S_BOMDRT11_000525;;;;
+OTROS HISTÓRICOS\MULTIPLES\Bonos;Bonos Soberanos Mundiales Mensuales;S_MUMUL_41_000682;s_mumul_41_000682;Bonos Soberanos Mundiales Mensuales;;
+OTROS HISTÓRICOS\MULTIPLES\Commodities;Precios de Commodities al Cierre de Cada Mes;S_MUMUL_44_000677;s_mumul_44_000677;;;
+OTROS HISTÓRICOS\MULTIPLES\Tipos de Cambio;Tipo de Cambio de Monedas - Mensual;S_MUMUL_44_000680;s_mumul_44_000680;Tipo de Cambio de Monedas - Mensual;;
+OTROS HISTÓRICOS\MULTIPLES\Índices;Índices Mensuales de Bolsas de Valores Clasificado por Continente y País;S_MUMUL_41_000674;s_mumul_41_000674;Índices Mensuales de Bolsas de Valores Clasificado por Continente y País;;
+OTROS HISTÓRICOS\MULTIPLES\Índices;Índice de Precios al Consumidor por Países;S_MUMUL_44_000685;s_mumul_44_000685;Índice de Precios al Consumidor por Países;;
+OTROS HISTÓRICOS\MULTIPLES\Índices;Principales Índices Diarios de las Bolsas de Valores por Continente y País;S_MUMUL_11_000676;s_mumul_11_000676;Principales Índices Diarios de las Bolsas de Valores por Continente y País;;
+OTROS HISTÓRICOS\MULTIPLES\Índices;Índices Principales de Bolsas de Valores por Continente y País;S_MUMUL_11_000660;s_mumul_11_000660;Índices Principales de Bolsas de Valores por Continente y País;;
+OTROS HISTÓRICOS\Ministerio de Educación;Locales Educativos por Departamento, Municipio, Tipo y Nivel;S_BOEDU88_000593;s_boedu88_000593;Locales Educativos por Departamento, Municipio, Tipo y Nivel;;
+OTROS HISTÓRICOS\Ministerio de Educación;Población Estudiantil Segundaria y Primaria;S_BOEDU88_000592;s_boedu88_000592;Población Estudiantil Segundaria y Primaria;;
+OTROS HISTÓRICOS\Ministerio de Educación;Unidades Educativas por Departamento, Municipio, Tipo y Nivel;S_BOEDU88_000594;s_boedu88_000594;Unidades Educativas por Departamento, Municipio, Tipo y Nivel;;
+OTROS HISTÓRICOS\Ministerio de Hidrocarburos y Energía;Reporte Diario de Producción;S_BOMHE_11_000303;s_bomhe_11_000303;Reporte Diario de Producción;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Composición Política Municipal;S_BOOBA_88_000534;;;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Población Municipal;S_BOOBA_88_000535;;;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Recursos Humanos en Salud y Educación Municipal;S_BOOBA_88_000538;s_booba_88_000538;;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Alumnos Inscritos por Nivel en cada Municipio;S_BOOBA_88_000541;s_booba_88_000541;Alumnos Inscritos por Nivel en cada Municipio;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Vivienda y Servicios Básicos Municipales;S_BOOBA_88_000542;s_booba_88_000542;;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Idiomas hablados por Municipios;S_BOOBA_88_000544;s_booba_88_000544;Idiomas hablados por Municipios;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Indicadores de Salud y Educación por Municipios;S_BOOBA_88_000539;s_booba_88_000539;Indicadores de Salud y Educación por Municipios;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Indicadores de Pobreza por Municipio;S_BOOBA_88_000545;s_booba_88_000545;Indicadores de Pobreza por Municipio;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Superficie, Rendimiento y Volumen Agrícola por Municipio;S_BOOBA_88_000546;s_booba_88_000546;Producción Agrícola por Municipio: Superficie, Rendimiento y Volumen;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Producción Agrícola Municipal;S_BOOBA_88_000547;s_booba_88_000547;Producción Agrícola Municipal;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Número de Empresas Registradas Municipales por Actividad Económica;S_BOOBA_88_000549;s_booba_88_000549;Número de Empresas Registradas Municipales por Actividad Económica;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Superficie y Volumen Forestal por Municipios;S_BOOBA_88_000550;s_booba_88_000550;Superficie y Volumen Forestal por Municipios;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Áreas Protegidas por Municipios;S_BOOBA_88_000551;s_booba_88_000551;Áreas Protegidas por Municipios;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Consultas en Salud por Municipio;S_BOOBA_88_000540;s_booba_88_000540;Consultas en Salud por Municipio;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Humedad y Precipitación Pluvial por Municipio;S_BOOBA_88_000552;;;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Índices Municipales;S_BOOBA_88_000554;;;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Desastres Naturales por Municipio;S_BOOBA_88_000553;s_booba_88_000553;Registro de Desastres Naturales por Municipio y Año;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Infraestructura en Salud y Educación Municipal;S_BOOBA_88_000537;s_booba_88_000537;;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Población Estratificada por Edades (Proyección 2010);S_BOOBA_88_000556;s_booba_88_000556;Población Estratificada por Edades (Proyección 2010);;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Indicadores Demográficos Municipales;S_BOOBA_88_000536;s_booba_88_000536;;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Gastos Municipales en Salud y Educación;S_BOOBA_88_000533;s_booba_88_000533;Gastos Municipales en Salud y Educación;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Datos Generales de Municipio y de Gobierno Autónomo Municipal;S_BOOBA_88_000555;s_booba_88_000555;Información General de Municipios y Gobiernos Autónomos Municipales;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Ingresos y Gastos Municipales;S_BOOBA_88_000532;s_booba_88_000532;Ingresos y Gastos Municipales;;
+OTROS HISTÓRICOS\OBA\Ficha Municipal;Indicadores Fiscal Financieros Municipales;S_BOOBA_88_000531;s_booba_88_000531;Indicadores Fiscal Financieros Municipales;;
+OTROS HISTÓRICOS\OMC\Exportaciones e Importaciones;Importación y Exportación Mundial de Mercancías y Servicios Comerciales por Región Económica;SPIM_11002_IEMSCRDE;spim_11002_iemscrde;Importación y Exportación Mundial de Mercancías y Servicios comerciales por Región Económica;;
+OTROS HISTÓRICOS\OMC\Exportaciones e Importaciones;Matriz del Comercio Mundial de Mercancías por Productos y por Regiones de Origen y Destino;SPIM_11003_MCM;spim_11003_mcm;Matriz del Comercio Mundial de Mercancías por Productos y por Regiones de Origen y Destino;;
+OTROS HISTÓRICOS\SABSA\Estadísticas de Pasajeros;Estadísticas de la Cantidad de Pasajeros según Tipo de Administración;S_EUSABS48_00385;;;;
+OTROS HISTÓRICOS\SENAMHI\Pronóstico;Pronóstico del Clima por Ciudad;S_BOSNMH11_000558;s_bosnmh11_000558;Pronóstico del Clima por Ciudad;S_BOSNMH11_000558;D_BO_000000250
+OTROS HISTÓRICOS\SENAMHI\SISMET;Fenómenos Climatológicos por Estaciones;S_BOSNMH14_000520;s_bosnmh14_000520;Fenómenos Climatológicos por Estaciones;;
+OTROS HISTÓRICOS\SENAMHI\SISMET;Insolación Diaria por Estaciones;S_BOSNMH14_000517;s_bosnmh14_000517;Insolación Diaria por Estaciones;;
+OTROS HISTÓRICOS\SICOES\Estadisticas de Contrataciones;Procesos de Contratación por Tipo de Administración;S_BOSICO44_000401;s_bosico44_000401;Procesos de Contratación por Tipo de Administración;;
+OTROS HISTÓRICOS\SIGMA\Estadísticas del Presupuesto;Presupuesto y Ejecución por Entidad Pública Boliviana;S_BOSIGM_44_000366;s_bosigm_44_000366;;;
+OTROS HISTÓRICOS\SNIS\Demografía;Estimaciones de Población Femenina en Edad Fértil, Embarazos, Partos, Abortos y Nacimientos por Departamento;S_BOSNIS88_000456;s_bosnis88_000456;Estimaciones de Población Femenina en Edad Fértil, Embarazos, Partos, Abortos y Nacimientos por Departamento;;
+OTROS HISTÓRICOS\SNIS\Demografía;Población  por Rangos de Edad y Municipio;S_BOSNIS88_000455;s_bosnis88_000455;Población  por Rangos de Edad y Municipio;;
+OTROS HISTÓRICOS\SNIS\Producción de Servicios;Número de Pacientes Referidos y Retornados;S_BOSNIS44_000579;s_bosnis44_000579;Pacientes Referidos y Retornados por Institución de Salud;;
+OTROS HISTÓRICOS\SNIS\Producción de Servicios;Anticoncepción, Prevención de ITS y de Cáncer de Cuello Uterino;S_BOSNIS44_000597;s_bosnis44_000597;Anticoncepción, Prevención de ITS y de Cáncer de Cuello Uterino;;
+OTROS HISTÓRICOS\SNIS\Producción de Servicios;Atención Odontológica por Género y Tipo;S_BOSNIS44_000589;s_bosnis44_000589;Atención Odontológica por Género y Tipo;;
+OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;Registro de Eventos de Notificaciones Inmediata por Establecimientos;S_BOSNIS22_000528;s_bosnis22_000528;Eventos de Notificación Inmediata por Establecimientos de Salud;;
+OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;Salud Sexual y Reproductiva Número de Casos;S_BOSNIS22_000527;s_bosnis22_000527;Salud Sexual y Reproductiva Número de Casos;;
+OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;Mortalidad Registrada Dentro y Fuera de Establecimientos;S_BOSNIS22_000526;s_bosnis22_000526;Casos de Mortalidad Registrados en Establecimientos de Salud y en la Comunidad;;
+OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;Vigilancia Epidemiológica Semanal;S_BOSNIS22_431;s_bosnis22_431;Vigilancia Epidemiológica Semanal;S_BOSNIS22_431;D_BO_000000173
+OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;Vigilancia Epidemiológica Semanal;S_BOSNIS22_431;s_bosnis22_431;Vigilancia Epidemiológica Semanal;S_BOSNIS22_431;D_BO_000000172
+OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;Vigilancia Epidemiológica Semanal;S_BOSNIS22_431;s_bosnis22_431;Vigilancia Epidemiológica Semanal;S_BOSNIS22_431;D_BO_000000170
+OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;Vigilancia Epidemiológica Semanal;S_BOSNIS22_431;s_bosnis22_431;Vigilancia Epidemiológica Semanal;S_BOSNIS22_431;D_BO_000000171
+OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;Vigilancia Epidemiológica Semanal;S_BOSNIS22_431;s_bosnis22_431;Vigilancia Epidemiológica Semanal;S_BOSNIS22_431;D_BO_000000174
+OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;Vigilancia Epidemiológica por Institución y Establecimiento;S_BOSNIS22_000661;s_bosnis22_000661;Vigilancia Epidemiológica por Establecimiento de Salud;;
+OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;Vigilancia Epidemiológica Semanal;S_BOSNIS22_431;s_bosnis22_431;Vigilancia Epidemiológica Semanal;S_BOSNIS22_431;D_BO_000000181
+OTROS HISTÓRICOS\SPVS\Pensiones;Fondo de Capitalización Individual;SPIM_0022_FCI;spim_0022_fci;Rentabilidad y Valor de Cuotas del Fondo de Capitalización Individual (FCI);;
+OTROS HISTÓRICOS\SPVS\Pensiones;Pagos del Bonosol por Departamento y Género;SPIM_0020_B;spim_0020_b;Pagos del Bonosol por Departamento y Género;;
+OTROS HISTÓRICOS\SPVS\Pensiones;Beneficios del Seguro Social Obligatorio por Tipo de Riesgo;SPIM_0019_BSSO;spim_0019_bsso;Evolución de los Beneficios del Seguro Social Obligatorio por Tipo de Riesgo;;
+OTROS HISTÓRICOS\SPVS\Pensiones;Cantidad de Afiliados Registrados del Seguro Social Obligatorio;SPIM_0018_ARSSO;;;;
+OTROS HISTÓRICOS\SPVS\Pensiones;Estado de Resultados de las Administradoras de Fondos de Pensiones;SPIM_0067_ERAP;spim_0067_erap;Estado de Resultados de las Administradoras de Fondos de Pensiones;;
+OTROS HISTÓRICOS\SPVS\Pensiones;Balance General de las Administradoras de Fondos de Pensiones;SPIM_0066_BGAP;spim_0066_bgap;Balance General de las Administradoras de Fondos de Pensiones;;
+OTROS HISTÓRICOS\SPVS\Pensiones;Inversiones del Fondo de Capitalización Individual (FCI);SPIM_0025_IFCI;spim_0025_ifci;Evolución de las Inversiones del Fondo de Capitalización Individual (FCI);;
+OTROS HISTÓRICOS\SPVS\Pensiones;Número de Casos e Importe por Tipo de Riesgo, Entidad y Departamento;SPIM_0036_NCITRESD;spim_0036_ncitresd;Número de Casos e Importe por Tipo de Riesgo, Entidad y Departamento;;
+OTROS HISTÓRICOS\SPVS\Pensiones;Evolución de la Distribución de las Recaudaciones Globales Acumuladas al Seguro Social Obligatorio por Tipo de Cuenta y AFP;SPIM_0033_EDRGSSO;spim_0033_edrgsso;Evolución de la Distribución de las Recaudaciones Globales Acumuladas al Seguro Social Obligatorio por Tipo de Cuenta y AFP;;
+OTROS HISTÓRICOS\SPVS\Pensiones;Recaudaciones Globales al Seguro Social Obligatorio por AFP y Departamento;SPIM_0031_RGSSOADPD;spim_0031_rgssoadpd;Recaudaciones Globales al Seguro Social Obligatorio por AFP y Departamento;;
+OTROS HISTÓRICOS\SPVS\Pensiones;Número de Afiliados Registrados en el Seguro Social Obligatorio por AFP y Departamento, según Tipo de Dependencia;SPIM_0028_ARSSOAFPD;spim_0028_arssoafpd;Número de Afiliados Registrados en el Seguro Social Obligatorio por AFP y Departamento, según Tipo de Dependencia;;
+OTROS HISTÓRICOS\SPVS\Seguros;Entidades de Seguros Previsionales;SPIM_0021_ESP;;;;
+OTROS HISTÓRICOS\SPVS\Seguros;Producción y Siniestros por Departamento;SPIM_0168_PSD;;;;
+OTROS HISTÓRICOS\SPVS\Seguros;Inversiones Admisibles por Tipo de Seguro;SPIM_0024_IA;spim_0024_ia;Distribución de Inversiones Admisibles por Tipo de Seguro en Bolivia;;
+OTROS HISTÓRICOS\SPVS\Seguros;Producción y Siniestros Directos Acumulados por Modalidad, Ramos y Departamentos;S_BOSPVS66_000255;;;;
+OTROS HISTÓRICOS\SPVS\Seguros;Producción y Siniestros Netos Retenidos Acumulados por Modalidad, Ramos y Departamentos;S_BOSPVS66_000256;;;;
+OTROS HISTÓRICOS\SPVS\Seguros;Recursos de Inversión Requeridos e Inversiones Admisibles por Compañías de Seguros;S_BOSPVS66_000259;;;;
+OTROS HISTÓRICOS\SUPERTRANS\Aéreas;Aterrizajes en Aeropuertos de Bolivia según Empresa Aérea y Tipo de Vuelo;SPIM_10000_AAB;;;;
+OTROS HISTÓRICOS\SUPERTRANS\Aéreas;Información Operacional por Empresa Aeronáutica y Tipo de Servicio;SPIM_10001_IOPEA;;;;
+OTROS HISTÓRICOS\TRANSTATS\Cuenta Financiera;Estados Financieros de Aerolíneas Nivel 3 según Transportador, Código, Grupo de Transporte y Región;S_EUTRAN_68_00384;s_eutran_68_00384;Estados Financieros de Aerolíneas Nivel 3 por Transportador, Código y Región (TRANSTATS);S_EUTRAN_68_00384;D_BO_000000502
+OTROS HISTÓRICOS\VIPFE\Inversión Pública;Distribución Departamental-Regional de la Inversión Pública;S_BOVIPF_88_000284;s_bovipf_88_000284;Distribución Departamental-Regional de la Inversión Pública;;
+OTROS HISTÓRICOS\VIPFE\Inversión Pública;Distribución Sectorial de la Inversión Pública;S_BOVIPF_88_000285;s_bovipf_88_000285;Distribución Sectorial de la Inversión Pública;;
+SENAMHI\Pronóstico;Datos Oficiales de Temperatura por Estación Meteorológica;S_BOSNMH11_000557;;;S_BOSNMH11_000557;D_BO_000000251
+SENAMHI\SISMET;Présion Atmosférica y Tensión de Vapor Registradas por Estación;S_BOSNMH14_000516;s_bosnmh14_000516;Présion Atmosférica y Tensión de Vapor Registradas por Estación;;
+SENAMHI\SISMET;Nubosidad Diaria por Estaciones;S_BOSNMH14_000518;s_bosnmh14_000518;Nubosidad Diaria por Estación Meteorológica en Bolivia;;
+SENAMHI\SISMET;Temperaturas Registradas por Estación;S_BOSNMH14_000515;s_bosnmh14_000515;Temperaturas Registradas por Estación;;
+SENAMHI\SISMET;Reporte de Porcentaje de Humedad por Estaciones;S_BOSNMH14_000514;s_bosnmh14_000514;Reporte de Porcentaje de Humedad por Estaciones;;
+SENAMHI\SISMET;Precipitación, Evaporación y Evapotranspiración por Estaciones;S_BOSNMH14_000513;s_bosnmh14_000513;Precipitación, Evaporación y Evapotranspiración por Estaciones;;
+SEPREC;Directorio de empresas;S_BOSEP_44_000783;;;;
+SICSANTACRUZ\Precios;Precios Diarios Productos Agropecuarios en Mercados de Bolivia;S_BOSICS11_000602;s_bosics11_000602;Precios Diarios Productos Agropecuarios en Mercados de Bolivia;S_BOSICS11_000602;D_BO_000000249
+SNIS\Producción de Servicios II y III Nivel;Servicios Complementarios;S_BOSNIS44_000791;s_bosnis44_000791;Servicios Complementarios Prestados en Establecimientos de Salud;S_BOSNIS44_000791;D_BO_000000215
+SNIS\Producción de Servicios II y III Nivel;Cirugias y Anestesias;S_BOSNIS44_000790;s_bosnis44_000790;Procedimientos Quirúrgicos y Uso de Anestesia en Establecimientos de Salud;S_BOSNIS44_000790;D_BO_000000214
+SNIS\Producción de Servicios II y III Nivel;Ingresos y Egresos por Servicio de Internacion;S_BOSNIS44_000789;s_bosnis44_000789;Internaciones en Establecimientos de Salud: Ingresos y Altas por Servicio;S_BOSNIS44_000789;D_BO_000000213
+SNIS\Producción de Servicios II y III Nivel;Gestion de Calidad;S_BOSNIS44_000793;s_bosnis44_000793;Indicadores de Gestión de Calidad en Servicios de Salud;S_BOSNIS44_000793;D_BO_000000217
+SNIS\Producción de Servicios II y III Nivel;Consulta Externa por Especialidad;S_BOSNIS44_000787;s_bosnis44_000787;Consultas Externas por Especialidad Médica en Establecimientos de Salud;S_BOSNIS44_000787;D_BO_000000211
+SNIS\Producción de Servicios II y III Nivel;Referencias y Contrareferencias Hospitalarias;S_BOSNIS44_000794;s_bosnis44_000794;Referencias y Contrarreferencias en el Sistema de Salud Boliviano;S_BOSNIS44_000794;D_BO_000000218
+SNIS\Producción de Servicios II y III Nivel;Tratamientos Complementarios;S_BOSNIS44_000792;s_bosnis44_000792;Tratamientos Complementarios en Establecimientos de Salud;S_BOSNIS44_000792;D_BO_000000216
+SNIS\Producción de Servicios II y III Nivel;Emergencia;S_BOSNIS44_000788;s_bosnis44_000788;Atenciones de Emergencia Médica en Establecimientos de Salud;S_BOSNIS44_000788;D_BO_000000212
+UNDATA;Commodity Trade Statistics;S_UNUNDA_88_000300;s_ununda_88_000300;Commodity Trade Statistics;S_UNUNDA_88_000300;D_BO_000000056
+UNDATA\Productos, Artículos ó Insumos;Soya-Intercambio Comercial Mundial por Tipo de Producto;S_UNUNDA88_000391;s_ununda88_000391;Soya-Intercambio Comercial Mundial por Tipo de Producto;;
+;Total;;;903;;651

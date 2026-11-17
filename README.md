@@ -1,8 +1,8 @@
 # PortalScrapper DataX
 
-Aplicación para consultar los datasets publicados en DataX Bolivia, comparar
-snapshots históricos y supervisar su estado de actualización desde un dashboard
-React.
+Aplicación para consultar la consolidación SPIM de DataX Bolivia desde un
+dashboard React. Permite buscar por código SPIM, revisar la información de
+origen y abrir el producto del portal o copiar su ruta de descarga interna.
 
 ## Arquitectura
 
@@ -10,6 +10,8 @@ React.
 PortalScrapper/
 ├── server.py                  # API local y servidor del dashboard compilado
 ├── frontend/                  # Aplicación React + Vite
+├── diccionary/
+│   └── DATAX_Consolidacion_Tabla_Web.csv
 ├── v2/
 │   ├── PortalScrapper.py      # Scraper y comparación histórica
 │   ├── productos_datax_dataset.csv
@@ -87,15 +89,12 @@ ejecutándose en `http://localhost:8000`, porque Vite redirige allí las rutas
 
 ## Funcionalidades del dashboard
 
-- Ejecutar el scraper v2.
-- Consultar el CSV principal sin importar manualmente los datos.
-- Ver el total de datasets y el estado de cada uno.
-- Filtrar por estado de actualización.
-- Buscar por nombre del dataset o institución.
-- Descargar el CSV principal.
-- Descargar snapshots históricos.
-- Descargar el último reporte comparativo.
-- Convertir el CSV actual a un archivo Excel descargable.
+- Consultar la consolidación CSV sin importar manualmente los datos.
+- Buscar por código SPIM, nombre o ID de producto del portal.
+- Filtrar por fuente de origen.
+- Abrir el producto Datax en un botón.
+- Copiar la ruta de descarga en servidor.
+- Descargar el CSV de consolidación.
 
 ## Reglas de monitoreo
 
@@ -119,10 +118,11 @@ El servidor definido en `server.py` expone:
 
 | Método | Ruta | Descripción |
 |---|---|---|
-| `GET` | `/api/status` | Estado, métricas, filas del CSV y archivos disponibles |
+| `GET` | `/api/status` | Filas y metadatos de la consolidación SPIM |
 | `POST` | `/api/run-v2` | Ejecuta `v2/PortalScrapper.py` |
-| `POST` | `/api/convert-excel` | Convierte el CSV actual a Excel |
-| `GET` | `/downloads/<archivo>` | Descarga un archivo generado |
+| `POST` | `/api/convert-excel` | Convierte el CSV de consolidación a Excel |
+| `GET` | `/downloads/consolidacion/<archivo>` | Descarga el CSV de consolidación |
+| `GET` | `/downloads/<archivo>` | Descarga archivos generados por v2 |
 
 Ejemplo:
 
