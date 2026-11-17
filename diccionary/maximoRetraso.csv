@@ -1,0 +1,585 @@
+﻿;Lista de fuentes Analyze;;;;
+;Fecha de actualizacion: 12/08/2026;;;;
+;;;;;
+;;;;;
+Fuente;Path;Codigo cubo;Cubo / Dataset;maximo_retraso;Frecuencia
+ATT;ATT\Internet;;Conexiones de Internet por Departamento;0,5 año;Anual
+ATT;ATT\Telefonía;;Distribución de Líneas Telefónicas por Departamento;0,5 año;Anual
+BM;BANCO MUNDIAL\Indicadores;;World Development Indicators;1 año;Anual
+BM;BANCO MUNDIAL\Indicadores;;Indicadores del Desarrollo Mundial;1 año;Anual
+BCB;BCB\Sector Externo;;Volumen y Valor de las Exportaciones (Anual);0,33 año;Anual
+CEPAL;CEPAL\Estadísticas económicas\Cuentas Nacionales;;Tasas de Variación del PIB;1 año;Anual
+CEPAL;CEPAL\Estadísticas económicas\Cuentas Nacionales;;Producto Interno Bruto de América Latina por Tipo de Gasto - General;1 año;Anual
+CEPAL;CEPAL\Estadísticas económicas\Cuentas Nacionales;;Producto Interno Bruto de América Latina y el Caribe;1 año;Anual
+CEPAL;CEPAL\Estadísticas económicas\Sector Externo;;Balanza de Pagos por Región Económica;1 año;Anual
+CEPAL;CEPAL\Estadísticas económicas\Sector Externo;;Ingresos por Remesas de Trabajadores Emigrados (millones de dólares);1 año;Anual
+CEPAL;CEPAL\Estadísticas económicas\Sector Externo;;Balanza de Pagos de América del Sur;1 año;Anual
+CEPAL;CEPAL\Estadísticas Sociales\Trabajo;;Tasa de Desempleo Abierto Urbano, según Sexo y Años de Estudio;1 año;Anual
+CEPAL;CEPAL\Estadísticas Sociales\Trabajo;;Tasa Anual Media de Desempleo de América Latina;1 año;Anual
+CEPAL;CEPAL\Estadísticas Sociales\Trabajo;;Tasa de Desempleo Abierto Urbano, según Sexo y Grupos de Edad de América Latina;1 año;Anual
+FMI;FMI\Indicadores;;Principales Indicadores Económicos de Países del Hemisferio Occidental;1 año;Anual
+FMI;FMI\Indicadores;;Principales Indicadores Fiscales de Países del Hemisferio Occidental;1 año;Anual
+INE;INE\Censos\Población;;Población por Sexo y Distribución Porcentual por Área, Según Departamento, Provincia, Municipio  o TIOC;;Anual
+INE;INE\Censos\Población;;Actividad Económica por Departamento, Provincia y Tipo de Área;;Anual
+INE;INE\Cuentas Nacionales\Producto Interno Bruto;;Producto Interno Bruto Per Cápita, Crecimiento, Deflactor y Participación  por Departamento;1 mes;Anual
+INE;INE\Demografía\Población;;Población Total Proyectada por Área y Sexo según Departamento 2005-2015;1 mes;Anual
+INE;INE\Demografía\Población;;Población Total Proyectada por Sexo según Departamento, Provincia y Sección de Provincia 2005-2011;1 año;Anual
+INE;INE\Demografía\Población;;Población Total Proyectada por Años Calendario y Sexo según Edades Simples, 2005-2011;1 año;Anual
+INE;INE\Estadísticas de la Actividad de Construcción\Construcción de Caminos;;Longitud de Caminos según Red, Departamento y Superficie de Rodadura;2 mes;Anual
+INE;INE\Estadísticas de la Actividad de Construcción\Permisos de Construcción;;Superficie de Construcción Aprobada y Variación según Ciudades Capitales (Anual);2 mes;Anual
+INE;INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Producto Interno Bruto;;Producto Interno Bruto Per Cápita a Precios de Mercado según Departamento;1 mes;Anual
+INE;INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Transportes y Comunicaciones;;Parque Automotor por Departamento, Tipo de Servicio y Vehículo;1 mes;Anual
+INE;INE\Estadísticas Económicas\Construcción;;Producción, Venta y Consumo de Cemento por Departamento;1 mes;Anual
+INE;INE\Sector Externo\Turismo;;Gasto Turístico según Tipo de Gasto;2 mes;Anual
+INE;INE\Sector Externo\Turismo;;Salida y Llegada de Viajeros Internacionales según Modo de Transporte y Tipo de Viajero;2 mes;Anual
+INE;INE\Sector Externo\Turismo;;Salida y Llegada de Viajeros Internacionales, según Vía de Ingreso, Salida y Tipo de Viajero;2 mes;Anual
+INE;INE\Sector Externo\Turismo;;Pernoctación de Viajeros en Establecimientos de Hospedaje, según Departamento, Ciudad y Tipo de Viajero;2 mes;Anual
+INE;INE\Sector Externo\Turismo;;Oferta Hotelera según Categoría Hotelera;2 mes;Anual
+INE;INE\Sector Externo\Turismo;;Tarifas Hoteleras Promedio según Categoría Hotelera;2 mes;Anual
+INE;INE\Sector Real\Agricultura y Ganadería;;Superficie Cultivada, Producción, Rendimiento, por año Agrícola, según Cultivo;2 mes;Anual
+INE;INE\Sector Real\Construcción;;Producción, Venta y Consumo de Cemento según Departamento;2 mes;Anual
+INE;INE\Sector Real\Hidrocarburos;;Volumen de Ventas de Carburantes en el Mercado Interno según Producto;2 mes;Anual
+INE;INE\Sector Real\Hidrocarburos;;Producción de Petróleo y Gas Natural según Subsector;2 mes;Anual
+INE;INE\Sector Real\Hidrocarburos;;Producción Bruta de Gas Natural y Petróleo Condensado según Departamento y Campo;2 mes;Anual
+INE;INE\Sector Real\Mineria;;Índice de Extracción y Producción de Minerales;2 mes;Anual
+INE;INE\Sector Real\Mineria;;Cotización Oficial de Minerales;2 mes;Anual
+INE;INE\Sector Real\Producto Interno Bruto;;Producto Interno Bruto según Actividad Económica;2 mes;Anual
+INE;INE\Sector Real\Producto Interno Bruto;;Producto Interno Bruto según Actividad Económica por Departamento;2 mes;Anual
+INE;INE\Sector Real\Producto Interno Bruto;;Producto Interno Bruto según Tipo de Gasto;2 mes;Anual
+INE;INE\Sector Real\Salarios y Remuneraciones;;Salario y Remuneraciones Medio Nominal del Sector Privado según Actividad Económica;2 mes;Anual
+INE;INE\Sector Real\Salarios y Remuneraciones;;Salario y Remuneraciónes del Sector Privado según Grupo Ocupacional;2 mes;Anual
+INE;INE\Sector Real\Servicios Básicos;;Índice de Consumo de Servicios Básicos;2 mes;Anual
+INE;INE\Sector Real\Servicios Básicos;;Índice de Consumo de Energía Eléctrica, Agua Potable y Gas Licuado de Petróleo;2 mes;Anual
+INE;INE\Sector Real\Transportes y Comunicaciones;;Índice de Cantidad de Telecomunicaciones, según Tipo de Servicio;2 mes;Anual
+INE;INE\Sector Real\Transportes y Comunicaciones;;Índice de Cantidad del Transporte Aéreo Nacional, según Tipo de Servicio y Ruta;2 mes;Anual
+INE;INE\Sector Real\Transportes y Comunicaciones;;Índice de Cantidad del Transporte Ferroviario según Red y Tipo de Servicio;2 mes;Anual
+INE;INE\Sector Real\Transportes y Comunicaciones;;Índice de Cantidad del Transporte Aéreo Nacional e Internacional según Tipo de Servicio;2 mes;Anual
+INE;INE\Sector Real\Transportes y Comunicaciones;;Distribución de Líneas Telefónicas Fijas y Móviles por Departamento;2 mes;Anual
+ITU;ITU;;Suscripciones a Telefonía Movil y Fija por País;1 año;Anual
+ITU;ITU;;Suscripciones de Banda Ancha por País;1 año;Anual
+ITU;ITU;;Porcentaje de Personas que usan Internet  por País;1 año;Anual
+MDRyT;MDRyT\Estadisticas Agropecuarias;;Producción por Año Civil según Cultivo y Departamento;1 año;Anual
+MDRyT;MDRyT\Estadisticas Agropecuarias;;Población de Pecuarios por Año y Departamento según Sexo y Edad;1 año;Anual
+MDRyT;MDRyT\Estadisticas Agropecuarias;;Superficie, Producción y Rendimiento por Departamento y Campañas Agrícolas según cultivos;1 año;Anual
+BM;MULTIPLES\Commodities;;Commodities Price Forecast;5 dias;Anual
+OMC;OMC\Exportaciones e Importaciones;;Importación y Exportación por Tipo de Comercio y por Grupos Determinados de Economías;1 año;Anual
+OMC;OMC\Exportaciones e Importaciones;;Importación y Exportación por País y Tipo de Producto;1 año;Anual
+ADA;OTROS HISTÓRICOS\ADA\Cochabamba;;Producción Anual de Pollo Parrillero por Departamento;;Anual
+ATT;OTROS HISTÓRICOS\ATT\Internet;;Evolución de Acceso a Internet;1 año;Anual
+ATT;OTROS HISTÓRICOS\ATT\Telefonía;;Líneas Móviles en Servicio según Modalidad de Pago;1 año;Anual
+ATT;OTROS HISTÓRICOS\ATT\Telefonía;;Tráfico de Telefonía Total en Minutos Originado en Red Fija Local y Red Móvil por Departamento;1 año;Anual
+ATT;OTROS HISTÓRICOS\ATT\Telefonía;;Tarifas de Internet por Operador;1 año;Anual
+ATT;OTROS HISTÓRICOS\ATT\Telefonía;;Densidad Telefónica Fija y Móvil por Departamento;1 año;Anual
+ATT;OTROS HISTÓRICOS\ATT\Telefonía;;Evolución Nacional de la Cantidad de Líneas en Servicio;1 año;Anual
+ATT;OTROS HISTÓRICOS\ATT\Telefonía;;Líneas Telefónicas del Servicio de Acceso Público por Departamento;1 año;Anual
+ATT;OTROS HISTÓRICOS\ATT\Telefonía;;Tráfico de Telefonía móvil y Telefonía Fija;1 año;Anual
+AE;OTROS HISTÓRICOS\Autoridad de Electricidad;;Distribución de Electricidad por empresa - Anual;2 mes;Anual
+BM;OTROS HISTÓRICOS\BANCO MUNDIAL\Economía;;Perfil de Datos Económicos por Países;1 año;Anual
+CEPAL;OTROS HISTÓRICOS\CEPAL\Estadísticas Económicas\Cuentas Nacionales;;Producto Interno Bruto por Tipo de Gasto a Precios de Mercado - Por País;1 año;Anual
+CNDC;OTROS HISTÓRICOS\CNDC\Anual;;Indisponibilidad Forzada INDO de Unidades Térmicas;9 mes;Anual
+DGAC;OTROS HISTÓRICOS\DGAC\Anuario Estadístico;;Tráfico de Pasajeros - Carga-Correo por Línea Aérea, Nacional e Internacional;1 año;Anual
+DGAC;OTROS HISTÓRICOS\DGAC\Anuario Estadístico;;Tráfico de Pasajeros, Carga y Correo de Empresas Aéreas por Origen y Destino;1 año;Anual
+DGAC;OTROS HISTÓRICOS\DGAC\Anuario Estadístico;;Movimiento de Pasajeros, Carga y Correo en Bolivia por Ruta y Línea Aérea;1 año;Anual
+DGAC;OTROS HISTÓRICOS\DGAC\Anuario Estadístico;;Tráfico de Pasajeros, Carga y Correo según Empresa Aérea, Tipo de Vuelo, Tipo de Transporte y Tipo de Servicio;1 año;Anual
+DGAC;OTROS HISTÓRICOS\DGAC\Anuario Estadístico;;Tráfico de Embarcado y Desembarcado de Pasajeros, Correo y Carga en el Exterior por Empresa Aérea (Servicio Internacional);1 año;Anual
+DGAC;OTROS HISTÓRICOS\DGAC\Anuario Estadístico;;Tráfico de Pasajeros - Carga por Ruta, Empresa Aérea, Servicio y Tipo de Aeronave;1 año;Anual
+IN;OTROS HISTÓRICOS\IMPUESTOS NACIONALES\Cifras y Estadisticas;;Recaudación por Sector Económico e Impuesto;1 año;Anual
+IN;OTROS HISTÓRICOS\IMPUESTOS NACIONALES\Cifras y Estadisticas;;Recaudación por Sector Económico y Dependencias Departamentales;2 año;Anual
+IN;OTROS HISTÓRICOS\IMPUESTOS NACIONALES\Cifras y Estadisticas;;Recaudación por Impuesto y Dependencias Departamentales;3 año;Anual
+INE;OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;;Reporte General - Estadisticas del Sector Lechero;;Anual
+INE;OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;;Unidades de Producción Agropecuaria (UPA) que Ordeñaron día anterior al Censo según Tipo y Nùmero de Ordeñas;;Anual
+INE;OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;;Producción de Leche según el Número de Vacas Ordeñas el Día Anterior al Censo;;Anual
+INE;OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;;Bovinos con Especialidad en Leche según Tipo de Ordeño del día anterior al Censo;;Anual
+INE;OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;;Unidades de Producción Agropecuaria (UPA) que Ordeñaron día anterior al Censo según Tipo de Ordeño;;Anual
+INE;OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;;Número de Cabezas de Ganado Bovino por Especialidad y Sexo según Departamento;;Anual
+INE;OTROS HISTÓRICOS\INE\Demografía\Población;;Indicadores Demográficos por Departamento de Bolivia 2010 - 2015;1 año;Anual
+INE;OTROS HISTÓRICOS\INE\Estadísticas de la Actividad de la Construcción\Inversión Pública;;Inversión Pública Ejecutada según Sector y Actividad;1 año;Anual
+INE;OTROS HISTÓRICOS\INE\Estadísticas Departamentales\Capítulo 04: Sector Real\Actividad Extractiva;;Volumen de Producción de Refinados del Petróleo según Departamento, Unidad y Producto;1 año;Anual
+INE;OTROS HISTÓRICOS\INE\Estadísticas Departamentales\Capítulo 04: Sector Real\Servicios Básicos;;Consumo y Número de Conexiones de Energía Eléctrica según Departamento y Tipo de Usuario;1 año;Anual
+INE;OTROS HISTÓRICOS\INE\Estadísticas Departamentales\Capítulo 04: Sector Real\Servicios Básicos;;Consumo y Número de Conexiones de Agua Potable según Departamento y Tipo de Servicio;1 año;Anual
+INE;OTROS HISTÓRICOS\INE\Estadísticas Económicas\Gobierno;;Coparticipación Tributaria por Departamento, Institución y Municipio;1 año;Anual
+INE;OTROS HISTÓRICOS\INE\Sector Real\Hidrocarburos;;Reservas de Petróleo y Gas Natural;1 año;Anual
+INE;OTROS HISTÓRICOS\INE\Sector Real\Industria Manufacturera;;Índice de Precios al Productor Industrial, según Grupo de Actividad;1 año;Anual
+INE;OTROS HISTÓRICOS\INE\Sector Real\Industria Manufacturera;;Índice de Volumen Físico de la Industria Manufacturera según la Actividad Industrial;1 año;Anual
+INE;OTROS HISTÓRICOS\INE\Sector Real\Industria Manufacturera;;Índice de Volumen de Ventas de la Industria Manufacturera según Grupo de Actividad;1 año;Anual
+INE;OTROS HISTÓRICOS\INE\Sector Real\Industria Manufacturera;;Precios al Productor Industrial Manufacturero según Principales Productos;1 año;Anual
+Min. Educación;OTROS HISTÓRICOS\Ministerio de Educación;;Población Estudiantil Segundaria y Primaria;1 mes;Anual
+Min. Educación;OTROS HISTÓRICOS\Ministerio de Educación;;Unidades Educativas por Departamento, Municipio, Tipo y Nivel;1 mes;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Consultas en Salud por Municipio;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Producción Agrícola Municipal;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Superficie, Rendimiento y Volumen Agrícola por Municipio;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Gastos Municipales en Salud y Educación;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Desastres Naturales por Municipio;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Indicadores de Salud y Educación por Municipios;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Recursos Humanos en Salud y Educación Municipal;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Indicadores de Pobreza por Municipio;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Número de Empresas Registradas Municipales por Actividad Económica;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Indicadores Demográficos Municipales;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Indicadores Fiscal Financieros Municipales;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Superficie y Volumen Forestal por Municipios;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Población Estratificada por Edades (Proyección 2010);2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Infraestructura en Salud y Educación Municipal;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Datos Generales de Municipio y de Gobierno Autónomo Municipal;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Ingresos y Gastos Municipales;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Idiomas hablados por Municipios;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Alumnos Inscritos por Nivel en cada Municipio;2 año;Anual
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Vivienda y Servicios Básicos Municipales;2 año;Anual
+OMC;OTROS HISTÓRICOS\OMC\Exportaciones e Importaciones;;Matriz del Comercio Mundial de Mercancías por Productos y por Regiones de Origen y Destino;1 año;Anual
+OMC;OTROS HISTÓRICOS\OMC\Exportaciones e Importaciones;;Importación y Exportación Mundial de Mercancías y Servicios Comerciales por Región Económica;1 año;Anual
+SIGMA;OTROS HISTÓRICOS\SIGMA\Estadísticas del Presupuesto;;Presupuesto y Ejecución por Entidad Pública Boliviana;1 mes;Anual
+SNIS;OTROS HISTÓRICOS\SNIS\Demografía;;Estimaciones de Población Femenina en Edad Fértil, Embarazos, Partos, Abortos y Nacimientos por Departamento;1 año;Anual
+SNIS;OTROS HISTÓRICOS\SNIS\Demografía;;Población  por Rangos de Edad y Municipio;1 año;Anual
+UNDATA;UNDATA;;Commodity Trade Statistics;1 año;Anual
+UNDATA;UNDATA\Productos, Artículos ó Insumos;;Soya-Intercambio Comercial Mundial por Tipo de Producto;1 año;Anual
+CADECO;OTROS HISTÓRICOS\CADECO;;Precios Referenciales de Materiales de Construcción;1 mes;Bimestral
+CEPAL;CEPAL\Estadísticas Sociales\Población;;Tasa de Crecimiento Anual Promedio de la Población Total por Quinquenios de América Latina;1 año;Desconocida
+CEPAL;CEPAL\Estadísticas Sociales\Población;;Proyecciones de la Población Total por Quinquenios de América Latina;1 año;Desconocida
+CEPAL;CEPAL\Estadísticas Sociales\Población;;Tasa de Crecimiento Anual Promedio de la Población Total por Grupos de Edad de América Latina;1 año;Desconocida
+CEPAL;CEPAL\Estadísticas Sociales\Población;;Estructura en Porcentaje de la Población Total por Grupos de Edad de América Latina;1 año;Desconocida
+INE;INE\Censos\Educación;;Tasa de Asistencia Escolar de Bolivia según Género, Censo y Departamento de Personasde Personas de 4 a 17 Años;;Desconocida
+INE;INE\Censos\Educación;;Población y Tasa de Asistencia Escolar de Bolivia por Género, Censo y Grupo de Edad en Edad Escolar;;Desconocida
+INE;INE\Censos\Educación;;Tasa de Alfabetismo de Bolivia según Género, Censo y Departamento de Personas de 15 Años o Más;;Desconocida
+INE;INE\Censos\Educación;;Población y Tasa de Alfabetismo de Bolivia según Género, Censo y Grupo de Edad de Personas de 15 Años o Más;;Desconocida
+INE;INE\Censos\Población;;Indicadores de Crecimiento de la Población Boliviana;;Desconocida
+INE;INE\Censos\Población;;Tasa Media de Crecimiento Anual de la Población Boliviana, según Departamento;;Desconocida
+INE;INE\Censos\Población;;PEA-Población Económicamente Activa e Inactiva por  Departamento, Provincia y Tipo de Área;;Desconocida
+INE;INE\Censos\Población;;Población de Bolivia por Género y Grupo Quinquenal de Edad;;Desconocida
+INE;INE\Censos\Población;;Población de Bolivia por Departamento y Municipio;;Desconocida
+INE;INE\Censos\Población;;Población y Densidad de Bolivia por Departamento;;Desconocida
+INE;INE\Censos\Población;;Tasa de Analfabetismo por Sexo, según Censo y Grupo de Edad;;Desconocida
+DGAC;OTROS HISTÓRICOS\DGAC\Anuario Estadístico;;Aeronaves Registradas según Ciudad Base y Especialidad;1 año;Desconocida
+FUNDEMPRESA;OTROS HISTÓRICOS\FUNDEMPRESA\Directorio Empresarial;;Directorio Empresarial;1 mes;Desconocida
+INE;OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;;Unidades de Producción Agropecuaria (UPA) que Ordeñaron dia anterior al Censo según Venta y Consumo del Hogar;;Desconocida
+INE;OTROS HISTÓRICOS\INE\Censo Agropecuario\Ganadería;;Bovinos con Especialidad en Leche según Venta y Consumo del Hogar;;Desconocida
+MDRyT;OTROS HISTÓRICOS\MDRyT\Estadisticas Agropecuarias;;Costos de Producción de Cultivos por Departamento;;Desconocida
+Min. Educación;OTROS HISTÓRICOS\Ministerio de Educación;;Locales Educativos por Departamento, Municipio, Tipo y Nivel;1 mes;Desconocida
+OBA;OTROS HISTÓRICOS\OBA\Ficha Municipal;;Áreas Protegidas por Municipios;2 año;Desconocida
+SEPREC;SEPREC;;Directorio de Empresas;1 mes;Desconocida
+ADA;ADA\Santa Cruz;;Evolucion del Precio del Pollo  - Santa Cruz;7 dias;Diaria
+ADA;ADA\Santa Cruz;;Precios de Pollo y Huevo para Productores;7 dias;Diaria
+ADA;ADA\Santa Cruz;;Precios de Insumos Alimentos para Pollo - Santa Cruz;7 dias;Diaria
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Evolución Diaria de Fondos de Inversión;3 mes;Diaria
+ASFI-Valores;ASFI - Valores\Operaciones en Mercado de Valores;;Operaciones en Ruedo de Bolsa - Diario;3 mes;Diaria
+BBV;BBV\Estadísticas de Mercado;;Evolución Diaria de Operaciones de la Bolsa Boliviana de Valores;3 dias;Diaria
+BBV;BBV\Estadísticas de Mercado;;Acciones Inscritas en Bolsa;3 dias;Diaria
+BBV;BBV\Estadísticas de Mercado;;Tasas de Rendimiento;3 dias;Diaria
+BBV;BBV\Estadísticas de Mercado;;Fondos de Inversión Administrados por SAFI;3 dias;Diaria
+BBV;BBV\Estadísticas de Mercado;;Operaciones Acumuladas de la Bolsa Boliviana de Valores;3 dias;Diaria
+BCB;BCB\Indicadores Macroecómicos;;Información Monetaria;3 semanas;Diaria
+BCB;BCB\Indicadores Macroecómicos;;Tipos de Cambio  y Valor de la UFV;3 semanas;Diaria
+BCB;BCB\Indicadores Macroecómicos;;Operaciones de Mercado Abierto y Financiamiento del BCB;3 semanas;Diaria
+BCB;BCB\Indicadores Macroecómicos;;Operaciones con el Exterior (Indicadores Macroeconómicos);3 semanas;Diaria
+BCB;BCB\Indicadores Macroecómicos;;Índices de Información Monetaria;3 semanas;Diaria
+BCB;BCB\Indicadores Macroecómicos;;Operaciones del Sistema Financiero;3 semanas;Diaria
+BCB;BCB\Indicadores Macroecómicos;;Saldos de Deuda Pública Externa (Indicadores Macroeconómicos);3 semanas;Diaria
+BCB;BCB\Tasas de Interés;;Tasas de Interés Anuales Efectivas - Diario;7 dias;Diaria
+BCB;BCB\Tipo de Cambio;;Cotización de Metales Preciosos;4 dias;Diaria
+BCB;BCB\Tipo de Cambio;;Volumen de Operaciones de Tipos de Cambio por Tipo de Entidad Financiera;4 dias;Diaria
+BCB;BCB\Tipo de Cambio;;Tipos de Cambio Dólar Pactados con Clientes;1 dia;Diaria
+BCB;BCB\Tipo de Cambio;;Tipos de Cambio;1 mes;Diaria
+BCB;BCB\Tipo de Cambio;;Tipo de Cambio del Dólar en el Mercado Paralelo;1 mes;Diaria
+BCB;BCB\Tipo de Cambio;;Valor Referencial de Venta del Dólar;1 dia;Diaria
+BOLCEREALES;BOLCEREALES (ARG)\Mercados de Exportación;;Precios Índice y FOB Mínimos de Exportación de Granos y Derivados;3 dias;Diaria
+BOLCEREALES;BOLCEREALES (ARG)\Mercados de Exportación;;Bolsa de Comercio de Rosario;3 dias;Diaria
+CNDC;CNDC\Diaria;;Demanda de Potencia de Consumidores;;Diaria
+CNDC;CNDC\Diaria;;Balance de Energía por Hora y Área Objeto y Sujeto según Tipo de Operación;;Diaria
+CNDC;CNDC\Diaria;;Predespacho y Despacho de Carga Eléctrica por Tipo de Central, Tipo de Sistema y Tipo de Carga;;Diaria
+CNDC;CNDC\Diaria;;Indisponibilidades Previstas;;Diaria
+CNDC;CNDC\Diaria;;Datos Hidrológicos Previstos según Sistema y Subsistema;;Diaria
+CNDC;CNDC\Diaria;;Inyección y Retiro de Energía por Hora según Área - Nodo de Inicio y Final;;Diaria
+CNDC;CNDC\Diaria;;Inyecciones de Energía al STI por Tipo de Central, Empresa y Sistema;;Diaria
+CNDC;CNDC\Diaria;;Generación Diaria y Generación Máxima;;Diaria
+CNDC;CNDC\Diaria;;Oferta Diaria de Potencia;;Diaria
+CNDC;CNDC\Mensual;;Inyecciones de Energía por Central y Nodos del STI;;Diaria
+CNDC;CNDC\Mensual;;Generación Bruta de Energía por Empresa y Central;;Diaria
+CNDC;CNDC\Mensual;;Temperatura por Hora en Centrales Térmicas;;Diaria
+CNDC;CNDC\Mensual;;Retiros y Demandas de Energía en Nodos del STI;;Diaria
+BCB;Dólar Blue Bolivia;;Evolución diaria del tipo de cambio USDT - BOB;7 dias;Diaria
+ICCO;ICCO;;Daily Prices of Cocoa Beans;2 dias;Diaria
+MDRyT;MDRyT\OAP;;Precios de Productos Agropecuarios y Agroindustriales por Ciudad;2 dias;Diaria
+SISPAM;MDRyT\OAP;;Precios Mayoristas de Azúcar y Carne de Pollo por Departamento y Empresa;2 dias;Diaria
+MHE;MINISTERIO DE HIDROCARBUROS Y ENERGIA;;Precios Internacionales de Hidrocarburos;7 dias;Diaria
+MMYM;Ministerio de Minería y Metalurgia\Cotizacion;;Cotización de Minerales;1 mes;Diaria
+MUL;MULTIPLES\Bonos;;Bonos Soberanos Mundiales Diarios;5 dias;Diaria
+MUL;MULTIPLES\Commodities;;Precios de Commodities Diarios del Último Año;5 dias;Diaria
+MUL;MULTIPLES\Tasas;;Tasas de Interes diarios del Libor, Euribor y Prime;5 dias;Diaria
+MUL;MULTIPLES\Tipos de Cambio;;Tipo de Cambio de Monedas - Diario;5 dias;Diaria
+ANAPO;OTROS HISTÓRICOS\ANAPO;;Precios de Soya Trigo Girasol y Maíz según Referencias;2 dias;Diaria
+ASFI-Valores;OTROS HISTÓRICOS\ASFI - Valores\Fondos de Inversión;;Información de Fondos de Inversión - Diario;1 mes;Diaria
+BCB;OTROS HISTÓRICOS\BCB\Activos Virtuales;;Activos Virtuales;7 dias;Diaria
+CNDC;OTROS HISTÓRICOS\CNDC\Diaria;;Costos Marginales en Nodos del STI;2 - 3 dias;Diaria
+CNDC;OTROS HISTÓRICOS\CNDC\Diaria;;Inyecciones y Retiros de Carga en Nodos del STI;2 - 3 dias;Diaria
+FDTA-Valles;OTROS HISTÓRICOS\FDTA-VALLES;;Precios Agropecuarios en Mercados Mayoristas y en Ferias Rurales - Desactualizado;2 dias;Diaria
+FDTA-Valles;OTROS HISTÓRICOS\FDTA-VALLES;;Precios Diarios de Productos Agrícolas en Mercados de Bolivia - Desactualizado;2 dias;Diaria
+IBCE - CAO;OTROS HISTÓRICOS\IBCE-CAO\Precios y Mercados;;Precios de Productos Agropecuarios en el Mercado Abasto de Santa Cruz;3 dias;Diaria
+MDRyT;OTROS HISTÓRICOS\MDRyT\OAP;;Precios de Producto Agropecuarios por Departamento según Origen;7 dias;Diaria
+Ministerio de Hidrocarburos y Energía;OTROS HISTÓRICOS\Ministerio de Hidrocarburos y Energía;;Reporte Diario de Volumenes de Producción;7 dias;Diaria
+MUL;OTROS HISTÓRICOS\MULTIPLES\Índices;;Principales Índices Diarios de las Bolsas de Valores por Continente y País;1 mes;Diaria
+MUL;OTROS HISTÓRICOS\MULTIPLES\Índices;;Índices Principales de Bolsas de Valores por Continente y País;1 mes;Diaria
+SENAMHI;OTROS HISTÓRICOS\SENAMHI\Pronóstico;;Pronóstico del Clima por Ciudad;3 dias;Diaria
+SENAMHI;OTROS HISTÓRICOS\SENAMHI\SISMET;;Insolación Diaria por Estaciones;1 mes;Diaria
+SENAMHI;OTROS HISTÓRICOS\SENAMHI\SISMET;;Fenómenos Climatológicos por Estaciones;1 mes;Diaria
+SENAMHI;SENAMHI\Pronóstico;;Datos Oficiales de Temperatura por Estación Meteorológica;1 dia;Diaria
+SENAMHI;SENAMHI\SISMET;;Reporte de Porcentaje de Humedad por Estaciones;7 dias;Diaria
+SENAMHI;SENAMHI\SISMET;;Precipitación Diaria por Estaciones;7 dias;Diaria
+SENAMHI;SENAMHI\SISMET;;Tensión de Vapor Registradas por Estación;7 dias;Diaria
+SENAMHI;SENAMHI\SISMET;;Nubosidad Diaria por Estaciones;7 dias;Diaria
+SENAMHI;SENAMHI\SISMET;;Temperaturas Registradas por Estación;7 dias;Diaria
+SICSANTACRUZ;SICSANTACRUZ\Precios;;Precios Diarios Productos Agropecuarios en Mercados de Bolivia;7 dias;Diaria
+AN;ADUANA NACIONAL\Difusión y Publicaciones;;Recaudación Ordinaria según Departamento;2 mes;Mensual
+AN;ADUANA NACIONAL\Difusión y Publicaciones;;Recaudación Ordinaria según Tipo de Pago;2 mes;Mensual
+AN;ADUANA NACIONAL\Difusión y Publicaciones;;Recaudación Ordinaria según Principal Capítulo NANDINA;2 mes;Mensual
+AN;ADUANA NACIONAL\Difusión y Publicaciones;;Recaudación Liberada según Acuerdo Preferencial y Disposición Liberatoria;2 mes;Mensual
+AN;ADUANA NACIONAL\Difusión y Publicaciones;;Recaudación Ordinaria según Tipo de Impuesto;2 mes;Mensual
+AN;ADUANA NACIONAL\Difusión y Publicaciones;;Recaudación Ordinaria según Tipo de Administración Aduanera;2 mes;Mensual
+AN;ADUANA NACIONAL\Difusión y Publicaciones;;Recaudación Ordinaria según Gerencia Regional y Administración Aduanera por Departamento;2 mes;Mensual
+AN;ADUANA NACIONAL\Difusión y Publicaciones;;Recaudación Liberada según Tipo de Impuesto;2 mes;Mensual
+APS;APS\Pensiones;;Pensiones de Jubilacion por Sexo, AFP y Entidad Aseguradora;2 mes;Mensual
+APS;APS\Pensiones;;Inversiones Acumuladas de Fondos de Pensiones en el Fondo de Ahorro Provisional (FAP);2 mes;Mensual
+APS;APS\Pensiones;;Patrimonio Acumulado de Fondos de Pensiones en el Fondo de Ahorro Provisional (FAP);2 mes;Mensual
+APS;APS\Pensiones;;Pensiones de Jubilación por Pension Minima y Pension Solidaria de Vejez por Sexo;2 mes;Mensual
+APS;APS\Pensiones;;Pago de Pensiones de Invalidez y Muerte derivada de Riesgos del SIP y SSO;2 mes;Mensual
+APS;APS\Pensiones;;Asegurados del Sistema Integral de Pensiones por AFP, Grupos Quinquenales de Edad y Sexo;2 mes;Mensual
+APS;APS\Seguros;;Producción y Siniestros Netos Retenidos por Modalidad, Ramos y Compañía de Seguros (Acumulados);2 mes;Mensual
+APS;APS\Seguros;;Intermediación de Corredores de Seguros por Modalidad y Ramo;2 mes;Mensual
+APS;APS\Seguros;;Intermediación de Corredores de Seguros por Tipo y Compañía de Seguros;2 mes;Mensual
+APS;APS\Seguros;;Estado de Resultados de Compañías de Seguros de Personas;2 mes;Mensual
+APS;APS\Seguros;;Producción y Siniestros por Tipo de Seguros y Compañía de Seguros - Detallado (Acumulados);2 mes;Mensual
+APS;APS\Seguros;;Estados Financieros Empresas de Seguros;1 mes;Mensual
+APS;APS\Seguros;;Producción Directa Neta de Anulaciones y Siniestros Directos por  Compañia Aseguradora y Ramos (Acumulados);2 mes;Mensual
+APS;APS\Seguros;;Valor de Cartera a Precio de Mercado por Instrumento;2 mes;Mensual
+APS;APS\Seguros;;Producción Directa Neta de Anulación y Siniestros Directos por Entidad Aseguradora y Departamento;2 mes;Mensual
+APS;APS\Seguros;;Producción y Siniestros Netos Acumulados por Tipo de Componente y Ramos - General;2 mes;Mensual
+APS;APS\Seguros;;Intermediación Acumulada de Corredora de Reaseguro, por Modalidad y Ramos;2 mes;Mensual
+APS;APS\Seguros;;Intermediación de Corredores de Seguros por Tipo y Compañia de Seguros;2 mes;Mensual
+APS;APS\Seguros;;Inversiones Admisibles por Compañías de Seguros;2 mes;Mensual
+APS;APS\Seguros;;Estado de Resultados de Compañías de Seguros Generales y Fianzas;2 mes;Mensual
+APS;APS\Seguros;;Balance General de Compañías de Seguros Generales y Fianzas;2 mes;Mensual
+APS;APS\Seguros;;Estados Financieros de Corredoras de Seguros;1 mes;Mensual
+APS;APS\Seguros;;Producción y Siniestros por Modalidad y Ramos;2 mes;Mensual
+APS;APS\Seguros;;Balance General de Compañías de Seguros de Personas;2 mes;Mensual
+ASFI-Valores;ASFI - Valores\Agencias de Bolsa;;Patrimonio, Número de Clientes, Resultados Netos, Operativos y Financieros de las Agencias de  Bolsa;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Agencias de Bolsa;;Cartera Propia y de Clientes de Agencias de Bolsa (no incluyen FI, Comp. de Seguros ni AFP's);3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Agencias de Bolsa;;Estados Financieros de las Agencias de Bolsa;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Emisores en Bolsa;;Emisiones de Depósitos a Plazo Fijo;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Emisores en Bolsa;;Emisiones Vigentes;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Evolución del Número de Participantes de los Fondos de Inversión Abiertos;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Cartera, Crecimiento y Número de Participantes de la Industria de Fondos de Inversión Abiertos - General;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Cartera, Participantes y Tasa de Rendimiento de los Fondos de Inversión en Dólares Americanos;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Evolución de la Cartera de los Fondos de Inversión (Abiertos y Cerrados ) - Completo;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Fondos de Inversión por Empresa Emisora;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Cartera, Cuota, Participantes y Tasa de Rendimiento de los Fondos de Inversión por Tipo de Moneda (Abiertos y Cerrados);3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Estados Financieros de las Administradoras de Fondos de Inversión;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Tasas de Rendimiento de la Industria de Fondos de Inversión Abiertos - General;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Diversificación por Instrumento Industria Fondos de Inversión - General;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Evolución de la Tasa de Rendimiento Promedio Ponderada a 30 días de los Fondos de Inversión;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Cartera, Participantes y Tasa de Rendimiento de los Fondos de Inversión en Bolivianos;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Operaciones en Mercado de Valores;;Volumen de Operaciones por Agencia de Bolsa Compradora, Vendedora  y Tipo de Operación;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Operaciones en Mercado de Valores;;Volumen de Operaciones en el Mercado de Valores por Instrumento;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Operaciones en Mercado de Valores;;Cartera de Clientes por Agencias de Bolsa e Instrumento;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Operaciones en Mercado de Valores;;Composición de la Cartera de Inversiones de las Agencias de Bolsa  (Clientes y Propia);3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Operaciones en Mercado de Valores;;Tasa Promedio Ponderada por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija. Operaciones en Bolsa: Reporto;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Operaciones en Mercado de Valores;;Volumen de Operaciones en el Mercado de Valores por Lugar de Negociación;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Operaciones en Mercado de Valores;;Volumen de Operaciones por Agencia de Bolsa Vendedora y Compradora;3 mes;Mensual
+ASFI-Valores;ASFI - Valores\Operaciones en Mercado de Valores;;Volumen de Operaciones por Emisor e Instrumento;3 mes;Mensual
+ASFI;ASFI\Captaciones;;Encaje Legal del Sistema Financiero por Monedas;1 mes;Mensual
+ASFI;ASFI\Captaciones;;Depósitos del Público;1 mes;Mensual
+ASFI;ASFI\Captaciones;;Ranking de Depósitos;1 mes;Mensual
+ASFI;ASFI\Captaciones;;Estratificación de Depósitos;1 mes;Mensual
+ASFI;ASFI\Captaciones;;Obligaciones, Cartera y Contingente del Sistema Bancario por Departamento;1 mes;Mensual
+ASFI;ASFI\Colocaciones;;Ranking de Cartera y Contingente;1 mes;Mensual
+ASFI;ASFI\Colocaciones;;Financiamiento de Entidades del Exterior;1 mes;Mensual
+ASFI;ASFI\Consumidor Financiero;;Reclamos por Entidad Financiera;1 mes;Mensual
+ASFI;ASFI\Controladoras;;Estados Financieros de Controladoras de Grupos Financieros;1 mes;Mensual
+ASFI;ASFI\Entidades Financieras;;Cantidad de Puntos de Atención de Entidades Financieras por Departamento;1 mes;Mensual
+ASFI;ASFI\Entidades Financieras;;Puntos de Atención de Entidades Financieras;1 mes;Mensual
+ASFI;ASFI\Estados Financieros;;Estados Financieros 3er Nivel;1 mes;Mensual
+ASFI;ASFI\Estados Financieros;;Balance General 4to Nivel;1 mes;Mensual
+ASFI;ASFI\Estados Financieros;;Estado de Resultados 4to Nivel;1 mes;Mensual
+ASFI - BCB;ASFI\Estados Financieros;;Resultados de Mercado e Indicadores Financieros del Sistema;2 mes;Mensual
+ASFI;ASFI\Indicadores;;Ponderación de Activos y CAP;1 mes;Mensual
+ASFI;ASFI\Indicadores;;Indicadores Financieros ASFI por Tipo de Sistema;1 mes;Mensual
+ASFI;ASFI\Indicadores;;Indicadores Financieros ASFI;1 mes;Mensual
+ASFI;ASFI\Indicadores;;Indicadores Financieros del Sector Bancario (Utilidad Neta);1 mes;Mensual
+ASFI;ASFI\Indicadores;;Indicadores Financieros del Sector Bancario;1 mes;Mensual
+ASFI;ASFI\Indicadores;;Calificación de Cartera y Contingente;1 mes;Mensual
+ASFI;ASFI\Servicios Financieros;;Estados Financieros de Almacenes Generales de Depósito;1 mes;Mensual
+ASFI;ASFI\Servicios Financieros;;Estados Financieros Cámaras de Compensación y Liquidación;1 mes;Mensual
+ASFI;ASFI\Servicios Financieros;;Estados Financieros Empresas de Arrendamiento Financiero;1 mes;Mensual
+BBV;BBV\Estadísticas de Mercado;;Operaciones en la BBV según Lugar de Negociación, Instrumento, Tipo de Renta y Tipo de Operación;1 mes;Mensual
+BBV;BBV\Estadísticas de Mercado;;Valores Inscritos en Bolsa por Emisor;1 mes;Mensual
+BBV;BBV\Estados Financieros;;Estados Financieros SAFIs;1 mes;Mensual
+BCB;BCB\Encuestas\Remesas;;Remesas de Trabajadores Recibidas;2 mes;Mensual
+BCB;BCB\Indicadores Macroecómicos;;Precios y Tasas de Interés (Indicadores Macroeconómicos);0,45 mes;Mensual
+BCB;BCB\Sector Bancario y Financiero;;Captaciones por Departamento;3 mes;Mensual
+BCB;BCB\Sector Bancario y Financiero;;Balance Consolidado del BCB;3 mes;Mensual
+BCB;BCB\Sector Bancario y Financiero;;Activos Externos Netos del Sistema Bancario;3 mes;Mensual
+BCB;BCB\Sector Bancario y Financiero;;Bonos, Certificados de Depósito y Letras del Tesoro General de la Nación;3 mes;Mensual
+BCB;BCB\Sector Bancario y Financiero;;Financiamiento de Corto Plazo concedido por el Banco Central al Sistema Financiero para Operaciones con Garantía;3 mes;Mensual
+BCB;BCB\Sector Bancario y Financiero;;Financiamiento Concedido por el Banco Central de Bolivia al Sistema Financiero;3 mes;Mensual
+BCB;BCB\Sector Bancario y Financiero;;Financiamiento de Corto Plazo concedido por el Banco Central al Sistema Financiero para Operaciones de Reporto;3 mes;Mensual
+BCB;BCB\Sector Bancario y Financiero;;Financiamiento Concedido por el Banco Central al Sector Público;3 mes;Mensual
+BCB;BCB\Sector Bancario y Financiero;;Crédito al Sector Privado por Departamento;3 mes;Mensual
+BCB;BCB\Sector Bancario y Financiero;;Balances Consolidados según Clasificación de Entidades Financieras;3 mes;Mensual
+BCB;BCB\Sector Externo;;Deuda Externa Pública a Mediano y Largo Plazo por Acreedor;3 mes;Mensual
+BCB;BCB\Sector Externo;;Reservas Internacionales del Banco Central de Bolivia;3 mes;Mensual
+BCB;BCB\Sector Externo;;Ingreso y Egreso de Divisas;3 mes;Mensual
+BCB;BCB\Sector Externo;;Reservas Internacionales del Sistema Bancario Consolidado;3 mes;Mensual
+BCB;BCB\Sector Externo;;Reservas Internacionales Disponibles para Inversión (Evolución por Portafolio);3 mes;Mensual
+BCB;BCB\Sector Externo;;Balanza Cambiaria;3 mes;Mensual
+BCB;BCB\Sector Externo;;Volumen y Valor de la Exportación de Productos no Tradicionales;3 mes;Mensual
+BCB;BCB\Sector Externo;;Exportación de Minerales;3 mes;Mensual
+BCB;BCB\Sector Externo;;Deuda Externa Pública a Corto, Mediano y Largo Plazo por Deudor;3 mes;Mensual
+BCB;BCB\Sector Externo;;Volumen y Valor de la Exportación de Hidrocarburos;3 mes;Mensual
+BCB;BCB\Sector Externo;;Cotización Oficial de los Principales Minerales;3 mes;Mensual
+BCB;BCB\Sector Externo;;Operaciones en el Bolsín y Tipos de Cambio;3 mes;Mensual
+BCB;BCB\Sector Fiscal;;Operaciones Consolidadas;3 mes;Mensual
+BCB;BCB\Sector Fiscal;;Impuesto a las Transacciones Financieras (ITF);3 mes;Mensual
+BCB;BCB\Sector Monetario;;Tasas de Reporto y Fondos RAL (Requerimiento de Activos Líquidos);3 mes;Mensual
+BCB;BCB\Sector Monetario;;Destino del Medio Circulante y de la Liquidez Total;3 mes;Mensual
+BCB;BCB\Sector Monetario;;Tasas de Interés Reales;3 mes;Mensual
+BCB;BCB\Sector Monetario;;Agregados Monetarios por Cuenta Monetaria;3 mes;Mensual
+BCB;BCB\Sector Monetario;;Agregados Monetarios;3 mes;Mensual
+BCB;BCB\Sector Monetario;;Fuentes y Usos de Fondos;3 mes;Mensual
+BCB;BCB\Sector Monetario;;Tasas LIBOR para Operaciones en Dólares;3 mes;Mensual
+BCB;BCB\Sector Monetario;;Tasas de Interés de Encaje Legal;3 mes;Mensual
+BCB;BCB\Sector Monetario;;Base Monetaria por Origen;3 mes;Mensual
+BCB;BCB\Sector Monetario;;Base Monetaria por Determinantes y Componentes;3 mes;Mensual
+BCB;BCB\Sector Monetario;;Multiplicadores de la Base Monetaria;3 mes;Mensual
+BCB;BCB\Sector Monetario;;Origen de la Liquidez Total;3 mes;Mensual
+BCB;BCB\Sector Monetario;;Origen de la Liquidez Total (Desagregado);3 mes;Mensual
+BCB;BCB\Sector Monetario;;Base Monetaria por Destino;3 mes;Mensual
+BCB;BCB\Tasas de Interés;;Tasas de Interés para Letras de Tesorería (LTs) y Bonos del Tesoro (BTs);3 mes;Mensual
+BCB;BCB\Tasas de Interés;;Tasas Interbancarias;4 dias;Mensual
+CADEXCO;CADEXCO\Estadísticas;;Volumen y Valor de las Exportaciones de Cochabamba por País;2 mes;Mensual
+CADEXCO;CADEXCO\Estadísticas;;Volumen y Valor de las Exportaciones de Cochabamba por Sector;2 mes;Mensual
+CADEXCO;CADEXCO\Estadísticas;;Exportaciones de Productos no Tradicionales de Cochabamba;2 mes;Mensual
+CADEXCO;CADEXCO\Estadísticas;;Volumen y Valor de las Exportaciones de Cochabamba por Zona Económica;2 mes;Mensual
+CADEXCO;CADEXCO\Estadísticas;;Volumen y Valor de las Exportaciones de Cochabamba por Medio de Transporte;2 mes;Mensual
+CNDC;CNDC\Mensual;;Costos Marginales de Generación por Hora - General;;Mensual
+CNDC;CNDC\Mensual;;Demanda Prevista y Real de Energía y Potencia - General;;Mensual
+CNDC;CNDC\Mensual;;Ingresos - Costos por Inyecciones según Empresa y Central (Montos);;Mensual
+CNDC;CNDC\Mensual;;Costos Marginales en Nodos según Agente;;Mensual
+CNDC;CNDC\Mensual;;Demandas Máximas por Nodos y Máximas Coincidentales con el Sistema;;Mensual
+CNDC;CNDC\Mensual;;Inyecciones y Retiros de Energía por Empresa, Central y Nodo del STI;;Mensual
+CNDC;CNDC\Mensual;;Generación Bruta de Energía por Central y Componente (Hidroeléctricas y Termoeléctricas);;Mensual
+CNDC;CNDC\Mensual;;Ingresos - Costos por Inyecciones según Empresa y Central  (Cantidad, Costos y Montos);;Mensual
+CNDC;CNDC\Mensual;;Ingresos - Costos por Retiros según Agente y Sistema (Montos);;Mensual
+CNDC;CNDC\Mensual;;Curva de Carga por Hora del Día de Demanda Máxima del Mes - General;;Mensual
+CNDC;CNDC\Mensual;;Ingresos - Costos por Retiros según Agente y Sistema (Cantidad, Costo y Montos);;Mensual
+CNDC;CNDC\Mensual;;Poder Calorífico Empleado y Registrado, Informado por Agentes;;Mensual
+CNDC;CNDC\Mensual;;Precios del Gas Natural (sin IVA) según Central;;Mensual
+FINRURAL;FINRURAL\Colocaciones;;Estado de Cartera por Institución;1 mes;Mensual
+FINRURAL;FINRURAL\Colocaciones;;Tasas de Interés de FINRURAL;1 mes;Mensual
+FINRURAL;FINRURAL\Colocaciones;;Estado de Cartera por Departamento;1 mes;Mensual
+FINRURAL;FINRURAL\Colocaciones;;Cobertura de la Red de Agencias y Empleados por Departamento y Área;1 mes;Mensual
+FINRURAL;FINRURAL\Colocaciones;;Cobertura de la Red de Agencias y Empleados por Institución y por Área;1 mes;Mensual
+FINRURAL;FINRURAL\Colocaciones;;Clasificación de Cartera por Destino del Crédito;1 mes;Mensual
+FINRURAL;FINRURAL\Colocaciones;;Número de Clientes por Departamento;1 mes;Mensual
+FINRURAL;FINRURAL\Colocaciones;;Estratificación de Cartera por Monto de Crédito;1 mes;Mensual
+FINRURAL;FINRURAL\Colocaciones;;Número de Clientes por Institución;1 mes;Mensual
+FINRURAL;FINRURAL\Colocaciones;;Distribución de Cartera por Tipo de Crédito;1 mes;Mensual
+ASFI - FINRURAL;FINRURAL\Estados Financieros;;Estados Financieros 3er Nivel + IFD's;1 mes;Mensual
+ASFI;FINRURAL\Indicadores;;Ranking de Mora ASFI+IFD'S;1 mes;Mensual
+ASFI;FINRURAL\Indicadores;;Benchmark Sistema Financiero;1 mes;Mensual
+FINRURAL;FINRURAL\Indicadores;;Indicadores Financieros ASFI + IFDs;1 mes;Mensual
+FINRURAL;FINRURAL\Indicadores;;Indicadores Financieros FINRURAL;1 mes;Mensual
+FINRURAL;FINRURAL\Indicadores;;Calificación de Cartera por Institución;1 mes;Mensual
+INE;INE\Boletín Estadístico\Actualidad Estadística;;Variación del IPC por Ciudad;1 mes;Mensual
+INE;INE\Boletín Estadístico\Actualidad Estadística;;Índice de Precios al Consumidor, Variación Mensual e Incidencia según División y Departamento;1 mes;Mensual
+INE;INE\Cuentas Nacionales\IGAE;;Índice Global de la Actividad Económica;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Exportación;;Exportación a Estados Unidos según Clasificación NANDINA;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Exportación;;Exportación por Departamento según Zona Geoeconómica y País de Destino;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Exportación;;Exportación según Principales Productos por Departamento y Actividad Económica;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Exportación;;Exportación según Clasificación NANDINA;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Exportación;;Exportación según Clasificación de Productos Tradicionales y No Tradicionales;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Exportación;;Exportación según Clasificación CUCI - Detallado;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Exportación;;Exportación según Clasificación de Grandes Categorías Económicas;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Exportación;;Exportación según Clasificación Actividad Económica y Principales Productos;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Exportación;;Exportación según CUCI por Departamento y País Destino;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Importación;;Importación según Clasificación Uso o Destino Económico(CUODE);1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Importación;;Importación según Clasificación NANDINA por Departamento y País Origen;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Importación;;Comercio Exterior NANDINA;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Importación;;Importación por Departamento según Zona Geoeconómica y País de Origen;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Importación;;Importación según Clasificación de Grandes Categorías Económicas;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Importación;;Importación según CUCI por Departamento y País Origen;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Precios Internacionales;;Precios Internacionales Mensuales de los Principales Productos del Comercio Mundial;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Reexportación;;Reexportación según Clasificación de Productos Tradicionales y No Tradicionales;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Reexportación;;Reexportación según Clasificación Grandes Categorías Económicas;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Reexportación;;Reexportación según Clasificación CUCI;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Reexportación;;Reexportación según Clasificación Internacional Industrial Uniforme (CIIU);1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Reexportación;;Reexportación según Clasificación Actividad Económica y Principales Productos;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Saldo Comercial;;Exportación, Importación y Saldo Comercial por Año y Mes;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Saldo Comercial;;Saldo Comercial de la Clasificación Intern. Industrial Uniforme (CIIU);1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Saldo Comercial;;Saldo Comercial de la Clasificación CUCI;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Saldo Comercial;;Saldo Comercial de la Clasificación NANDINA;1 mes;Mensual
+INE;INE\Estadísticas de Comercio Exterior\Saldo Comercial;;Saldo Comercial de la Clasificación Grandes Categorías Económicas;1 mes;Mensual
+INE;INE\Estadisticas Departamentales\Capítulo 04: Sector Real\Estadísticas de Precios al Consumidor;;Variación Porcentual Mensual del IPC por Mes y Ciudad;1 mes;Mensual
+INE;INE\Estadísticas Económicas (Construcción y Precios)\Precios;;Precios Promedio de Productos y Servicios por Departamento;1 mes;Mensual
+INE;INE\Estadísticas Económicas\Estadísticas de Precios al Consumidor;;IPC por Departamento y Actividad Económica;1 mes;Mensual
+INE;INE\Resumen Estadístico Mensual;;Índice de Precios al Consumidor - General Bolivia;2 mes;Mensual
+INE;INE\Sector Externo\Turismo;;Llegada de Viajeros a Establecimientos de Hospedaje, según Departamento por Tipo de Viajero;2 mes;Mensual
+INE;INE\Sector Real\Estadística de Precios al Consumidor;;Índice y Variación del IPC;2 mes;Mensual
+INE;INE\Sector Real\Producto Interno Bruto;;IPC General, Variación Mensual, Acumulada y a 12 Meses;2 mes;Mensual
+INE;INE\Sector Real\Transportes y Comunicaciones;;Índice de Cantidad del Transporte Carretero Interdepartamental, según Flujo y Tipo de Servicio;2 mes;Mensual
+Ministerio de Economía y Finanzas Públicas;MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS\Deuda Pública;;Saldo de la Deuda Interna Pública del Tesoro General de la Nación;1 mes;Mensual
+MHE;MINISTERIO DE HIDROCARBUROS Y ENERGIA;;Precios de Gas Natural por Tipo de Mercado;1 mes;Mensual
+MHE;MINISTERIO DE HIDROCARBUROS Y ENERGIA;;Precios de Gas Natural en el Mercado Interno;2 mes;Mensual
+MUL;MULTIPLES\Índices;;Índices de Bolsa de Valores de Sectores Primarios Clasificado por Continente y País;5 dias;Mensual
+ADA;OTROS HISTÓRICOS\ADA\Cochabamba;;Evolucion del Precio del Maiz puesto en Cochabamba;;Mensual
+APS;OTROS HISTÓRICOS\APS\Seguros;;Indicadores de Eficiencia por Compañías de Seguros;1 mes;Mensual
+ASFI-Valores;OTROS HISTÓRICOS\ASFI - Valores\Fondo de Renta Universal de Vejez;;Diversificación de la Cartera del Fondo Universal de Renta de Vejez por Emisor;1 mes;Mensual
+ASFI-Valores;OTROS HISTÓRICOS\ASFI - Valores\Fondo de Renta Universal de Vejez;;Diversificación de la Cartera del Fondo Universal de Renta de Vejez por Instrumento;1 mes;Mensual
+ASFI;OTROS HISTÓRICOS\ASFI\Colocaciones;;Estratificación de Cartera por Departamento, Tipo de Crédito, Monto, Moneda y Actividad Económica - Bancos;1 mes;Mensual
+ASFI;OTROS HISTÓRICOS\ASFI\Colocaciones;;Estratificación de Cartera y Contingente por Departamento, Tipo de Crédito, Monto, Moneda y Destino del Crédito - Completo;1 mes;Mensual
+ASOFIN;OTROS HISTÓRICOS\ASOFIN;;Indicadores Financieros ASOFIN;1 mes;Mensual
+ASOFIN;OTROS HISTÓRICOS\ASOFIN;;Evolución por Entidad;1 mes;Mensual
+ASOFIN;OTROS HISTÓRICOS\ASOFIN;;Cartera Bruta y Número de Clientes por Actividad Económica;1 mes;Mensual
+ASOFIN;OTROS HISTÓRICOS\ASOFIN;;Cartera por Tipo de Crédito;1 mes;Mensual
+ASOFIN;OTROS HISTÓRICOS\ASOFIN;;Evolución Consolidada de la Cartera de Créditos de los Asociados a ASOFIN;1 mes;Mensual
+ASOFIN;OTROS HISTÓRICOS\ASOFIN;;Cartera Bruta, Mora y Clientes por Tipo de Persona y Género;1 mes;Mensual
+ASOFIN;OTROS HISTÓRICOS\ASOFIN;;Cartera y Contingente por Tipo de Calificación;1 mes;Mensual
+ASOFIN;OTROS HISTÓRICOS\ASOFIN;;Caja de Ahorro y DPF por Tipo de Persona y Género;1 mes;Mensual
+ATT;OTROS HISTÓRICOS\ATT\Telefonía;;Tarifas de Servicio de Larga Distancia Nacional;1 año;Mensual
+ATT;OTROS HISTÓRICOS\ATT\Telefonía;;Tarifas por Minuto del Servicio de Larga Distancia Internacional;1 año;Mensual
+AE;OTROS HISTÓRICOS\Autoridad de Electricidad;;Distribución de Electricidad por empresa - Mensual;2 mes;Mensual
+BCB;OTROS HISTÓRICOS\BCB\Sector Bancario y Financiero;;Operaciones del Sistema de Pagos Nacional según Tipo de Moneda;1 mes;Mensual
+FIFA;OTROS HISTÓRICOS\Deportes\FIFA;;Clasificación Mundial FIFA;1 - 2 mes;Mensual
+DGAC;OTROS HISTÓRICOS\DGAC\Anuario Estadístico;;Resultados Obtenidos según Tipo de Ruta, Tipo de Servicio, Tipo de Transporte Aéreo, Empresa y Modelo de Avión;1 año;Mensual
+DGAC;OTROS HISTÓRICOS\DGAC\Anuario Estadístico;;Resultados Obtenidos según Ruta Nacional por Empresa y Tipo de Transporte Aéreo;1 año;Mensual
+DGAC;OTROS HISTÓRICOS\DGAC\Anuario Estadístico;;Tráfico Embarcado y Desembarcado de Pasajeros, Carga y Correo en Bolivia por Línea Aérea;1 año;Mensual
+DGAC;OTROS HISTÓRICOS\DGAC\Anuario Estadístico;;Autorizaciones de Vuelo Operaciones no Regulares según Tipo de Autorización y Estado;1 año;Mensual
+FAM;OTROS HISTÓRICOS\FAM\SIAM\Información Estadística;;Ingresos y Gastos de Bolivia por Municipio;1 mes;Mensual
+FINRURAL;OTROS HISTÓRICOS\FINRURAL;;Estado de Cartera por Departamento e Institución (en Sus);1 mes;Mensual
+FINRURAL;OTROS HISTÓRICOS\FINRURAL;;Cartera por Tecnología Financiera y Área;1 mes;Mensual
+FINRURAL;OTROS HISTÓRICOS\FINRURAL;;Estado de Cartera por Departamento e Institución (en Bs.);1 mes;Mensual
+FUNDEMPRESA;OTROS HISTÓRICOS\FUNDEMPRESA;;Base Empresarial, Cantidad de Empresas Inscritas y Canceladas según Actividad Económica por Departamento;1 mes;Mensual
+FUNDEMPRESA;OTROS HISTÓRICOS\FUNDEMPRESA;;Base Empresarial, Cantidad de Empresas Inscritas y Canceladas según Tipo Societario por Departamento;1 mes;Mensual
+FUNDEMPRESA;OTROS HISTÓRICOS\FUNDEMPRESA;;Empresas Inscritas y Canceladas;1 mes;Mensual
+IBCH;OTROS HISTÓRICOS\IBCH\Producción y Venta;;Producción, Venta y Variación del Cemento por Departamento, Empresa y Fábrica;1 mes;Mensual
+INE;OTROS HISTÓRICOS\INE\Estadísticas de la Actividad de la Construcción\Permisos de Construcción;;Superficie de Construcción Aprobada según Ciudades Capitales (Mensual);1 año;Mensual
+MUL;OTROS HISTÓRICOS\MULTIPLES\Bonos;;Bonos Soberanos Mundiales Mensuales;1 mes;Mensual
+MUL;OTROS HISTÓRICOS\MULTIPLES\Commodities;;Precios de Commodities al Cierre de Cada Mes;1 mes;Mensual
+MUL;OTROS HISTÓRICOS\MULTIPLES\Índices;;Índices Mensuales de Bolsas de Valores Clasificado por Continente y País;1 mes;Mensual
+MUL;OTROS HISTÓRICOS\MULTIPLES\Índices;;Índice de Precios al Consumidor por Países;1 mes;Mensual
+MUL;OTROS HISTÓRICOS\MULTIPLES\Tipos de Cambio;;Tipo de Cambio de Monedas - Mensual;1 mes;Mensual
+SICOES;OTROS HISTÓRICOS\SICOES\Estadisticas de Contrataciones;;Procesos de Contratación por Tipo de Administración;1 mes;Mensual
+SNIS;OTROS HISTÓRICOS\SNIS\Producción de Servicios;;Número de Pacientes Referidos y Retornados;1 mes;Mensual
+SNIS;OTROS HISTÓRICOS\SNIS\Producción de Servicios;;Atención Odontológica por Género y Tipo;1 mes;Mensual
+SNIS;OTROS HISTÓRICOS\SNIS\Producción de Servicios;;Anticoncepción, Prevención de ITS y de Cáncer de Cuello Uterino;1 mes;Mensual
+APS;OTROS HISTÓRICOS\SPVS\Pensiones;;Número de Afiliados Registrados en el Seguro Social Obligatorio por AFP y Departamento, según Tipo de Dependencia;2 mes;Mensual
+APS;OTROS HISTÓRICOS\SPVS\Pensiones;;Recaudaciones Globales al Seguro Social Obligatorio por AFP y Departamento;2 mes;Mensual
+APS;OTROS HISTÓRICOS\SPVS\Pensiones;;Evolución de la Distribución de las Recaudaciones Globales Acumuladas al Seguro Social Obligatorio por Tipo de Cuenta y AFP;2 mes;Mensual
+SPVS;OTROS HISTÓRICOS\SPVS\Pensiones;;Beneficios del Seguro Social Obligatorio por Tipo de Riesgo;2 mes;Mensual
+SPVS;OTROS HISTÓRICOS\SPVS\Pensiones;;Pagos del Bonosol por Departamento y Género;2 mes;Mensual
+SPVS;OTROS HISTÓRICOS\SPVS\Pensiones;;Inversiones del Fondo de Capitalización Individual (FCI);2 mes;Mensual
+SPVS;OTROS HISTÓRICOS\SPVS\Pensiones;;Fondo de Capitalización Individual;2 mes;Mensual
+SPVS;OTROS HISTÓRICOS\SPVS\Pensiones;;Número de Casos e Importe por Tipo de Riesgo, Entidad y Departamento;2 mes;Mensual
+SPVS;OTROS HISTÓRICOS\SPVS\Seguros;;Inversiones Admisibles por Tipo de Seguro;2 mes;Mensual
+SNIS;SNIS\Producción de Servicios II y III Nivel;;Cirugias y Anestesias;1 mes;Mensual
+SNIS;SNIS\Producción de Servicios II y III Nivel;;Servicios Complementarios;1 mes;Mensual
+SNIS;SNIS\Producción de Servicios II y III Nivel;;Gestion de Calidad;1 mes;Mensual
+SNIS;SNIS\Producción de Servicios II y III Nivel;;Ingresos y Egresos por Servicio de Internacion;1 mes;Mensual
+SNIS;SNIS\Producción de Servicios II y III Nivel;;Referencias y Contrareferencias Hospitalarias;1 mes;Mensual
+SNIS;SNIS\Producción de Servicios II y III Nivel;;Emergencia;1 mes;Mensual
+SNIS;SNIS\Producción de Servicios II y III Nivel;;Tratamientos Complementarios;1 mes;Mensual
+SNIS;SNIS\Producción de Servicios II y III Nivel;;Consulta Externa por Especialidad;1 mes;Mensual
+BCB;BCB\Sector Monetario;;Encaje Legal del Sistema Bancario por Monedas (Diferencia Netas);3 mes;Quincenal
+BCB;BCB\Sector Monetario;;Encaje Legal del Sistema Bancario por Monedas;3 mes;Quincenal
+ASFI;ASFI\Información Financiera;;Liquidez por Factores del Sistema Bancario;1 mes;Semanal
+ASFI;ASFI\Información Financiera;;Cartera por Tipo de Moneda del Sistema Bancario;1 mes;Semanal
+ASFI;ASFI\Información Financiera;;Cartera por Situación del Sistema Bancario;1 mes;Semanal
+BCB;BCB\Resultado Subastas;;Resultado de Subastas;3 semanas;Semanal
+BCB;BCB\Tasas de Interés;;Tasas de Interés Activas y Pasivas del Sistema Financiero por Moneda;3 semanas;Semanal
+BCB;BCB\Tasas de Interés;;Tasas Nominales Empresas;2 semans;Semanal
+BCB;BCB\Tasas de Interés;;Evolución de las Tasas de Referencia (TRE);1 mes;Semanal
+BCB;BCB\Tasas de Interés;;Tasas Interbancarias - Promedio Ponderado;4 dias;Semanal
+BCB;BCB\Tasas de Interés;;Tasas de Interés Anuales Efectivas - Semanal;1 dia;Semanal
+CNDC;CNDC\Diaria;;Caudal Incremental Medio por Sistema según Tiempo Semanal y Tiempo Regular;;Semanal
+CNDC;CNDC\Diaria;;Caudales de Aportes, Volumen Embalsado, Energía Disponible por Embalse;;Semanal
+CNDC;CNDC\Mensual;;Volumen Útil Embalsado;;Semanal
+DATAX;Guia de Base de Datos;;Base de datos SPIM;;Semanal
+ASFI;OTROS HISTÓRICOS\ASFI\Información Financiera;;Obligaciones del Sistema Bancario (Captaciones por Tipo de Moneda);1 mes;Semanal
+ASFI;OTROS HISTÓRICOS\ASFI\Información Financiera;;Cartera por Fuentes de Recursos;1 mes;Semanal
+SNIS;OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;;Vigilancia Epidemiológica por Institución y Establecimiento;1 mes;Semanal
+SNIS;OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;;Vigilancia Epidemiológica (Semanal);1 mes;Semanal
+SNIS;OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;;Registro de Eventos de Notificaciones Inmediata por Establecimientos;1 mes;Semanal
+SNIS;OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;;Mortalidad Registrada Dentro y Fuera de Establecimientos;1 mes;Semanal
+SNIS;OTROS HISTÓRICOS\SNIS\Vigilancia Epidemiológica;;Salud Sexual y Reproductiva Número de Casos;1 mes;Semanal
+BCB;BCB\Sector Externo;;Servicio Debido Deuda Externa Pública de Mediano y Largo Plazo;3 mes;Semestral
+BCB;BCB\Sector Externo;;Transferencias Unilaterales Oficiales por País Donante, Organización y Naturaleza Contable;3 mes;Semestral
+BCB;BCB\Sector Externo;;Desembolso Deuda Pública Externa de Mediano y Largo Plazo por Acreedor;3 mes;Semestral
+BCB;BCB\Sector Externo;;Servicio Debido Deuda Externa Pública de Mediano y Largo Plazo por Acreedor;3 mes;Semestral
+BCB;BCB\Sector Externo;;Volumen y Valor de las Exportaciones (Semestral);3 mes;Semestral
+ASOFIN;OTROS HISTÓRICOS\ASOFIN;;Información de Cartera de Créditos por Departamento;1 mes;Semestral
+ASOFIN;OTROS HISTÓRICOS\ASOFIN;;Estratificación de la Relación Cartera - Castigados por Monto Desembolsado y Número de Clientes;1 mes;Semestral
+ASOFIN;OTROS HISTÓRICOS\ASOFIN;;Estratificación de Cartera por Monto Desembolsado y Número de Clientes;1 mes;Semestral
+ATT;OTROS HISTÓRICOS\ATT\Telefonía;;Estado de Resultados de los Operadores de Servicios Básicos de Telecomunicaciones;1 año;Semestral
+ATT;OTROS HISTÓRICOS\ATT\Telefonía;;Balance General de los Operadores de Servicios Básicos de Telecomunicaciones;1 año;Semestral
+BCB;OTROS HISTÓRICOS\BCB\Sector Externo;;Movimiento de Capital de Débito;1 mes;Semestral
+BCB;OTROS HISTÓRICOS\BCB\Sector Externo;;Movimiento de Capital de Crédito;1 mes;Semestral
+BCB;OTROS HISTÓRICOS\BCB\Sector Externo;;Desembolso Deuda Pública Externa de Mediano y Largo Plazo por Tipo de Sector y Deudor;1 mes;Semestral
+APS;APS\Seguros;;Ventas SOAT por Departamento;6 mes;Trimestral
+APS;APS\Seguros;;Margen de Solvencia y Patrimonio Técnico por Compañías de Seguros;2 mes;Trimestral
+APS;APS\SOAT;;Cobertura del SOAT a Nivel Nacional por Departamento -  Acumulados;6 mes;Trimestral
+SPVS;APS\SOAT;;Información del SOAT por Departamento;6 mes;Trimestral
+ASFI-Valores;ASFI - Valores\Bolsa Boliviana de Valores;;Estados Financieros de la Bolsa Boliviana de Valores;3 mes;Trimestral
+ASFI-Valores;ASFI - Valores\Emisores en Bolsa;;Indicadores Financieros de Empresas Emisoras de la Bolsa Boliviana de Valores;3 mes;Trimestral
+ASFI-Valores;ASFI - Valores\Emisores en Bolsa;;Estados Financieros de Empresas Emisoras en Bolsa - Actualizado;3 mes;Trimestral
+ASFI-Valores;ASFI - Valores\Emisores en Bolsa;;Estados Financieros de Empresas Emisoras en la Bolsa Boliviana de Valores;3 mes;Trimestral
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Diversificación de la Cartera de los Fondos de Inversión por Emisor e Instrumento;3 mes;Trimestral
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Diversificación de la Cartera de los Fondos de Inversión por Valor y Emisor (Participación);3 mes;Trimestral
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Diversificación de la Cartera de los Fondos de Inversión por Emisor e Instrumento;3 mes;Trimestral
+ASFI-Valores;ASFI - Valores\Fondos de Inversión;;Diversificación de la Cartera de los Fondos de Inversión por Valor y Emisor (Participación);3 mes;Trimestral
+ASFI-Valores;ASFI - Valores\Operaciones en Mercado de Valores;;Tasa Promedio Ponderada por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija. Operaciones en Bolsa : Mercado Primario;3 mes;Trimestral
+ASFI-Valores;ASFI - Valores\Operaciones en Mercado de Valores;;Tasa Promedio Ponderada por Plazo, Emisor y Tipo de Moneda. Valores de Renta Fija. Operaciones en Bolsa: Mercado Secundario;3 mes;Trimestral
+ASFI;ASFI\Colocaciones;;Clasificación de Cartera-Contingente por Tipo de Crédito;4 mes;Trimestral
+ASFI;ASFI\Colocaciones;;Clasificación de Cartera y Contingente por Entidad, Estado y Destino del Crédito;4 mes;Trimestral
+ASFI;ASFI\Colocaciones;;Clasificación de Cartera-Contingente por Actividad Económica del Deudor;4 mes;Trimestral
+ASFI;ASFI\Colocaciones;;Estratificación de Cartera - Contingente por Monto y Número de Prestatarios;4 mes;Trimestral
+ASFI;ASFI\Colocaciones;;Clasificación de Cartera y Contingente por Departamento, Plazo y Destino del Crédito;4 mes;Trimestral
+ASFI;ASFI\Colocaciones;;Clasificación de Cartera-Contingente por Tipo de Garantía;4 mes;Trimestral
+ASFI;ASFI\Colocaciones;;Clasificación de Cartera y Contingente por Entidad, Estado y Tipo del Crédito;4 mes;Trimestral
+ASFI;ASFI\Colocaciones;;Clasificación de Cartera-Contingente por Departamento, Estado y Destino del Crédito;4 mes;Trimestral
+ASFI;ASFI\Colocaciones;;Clasificación de Cartera - Contingente por Destino del Crédito;4 mes;Trimestral
+ASFI;ASFI\Colocaciones;;Clasificación de Cartera-Contingente por Tipo y Objeto del Crédito;4 mes;Trimestral
+ASFI;ASFI\Indicadores;;Empleados por Entidad Financiera;4 mes;Trimestral
+BBV;BBV\Estados Financieros;;Estados Financieros de los Emisores - Seguros - BBV;2 mes;Trimestral
+BCB;BCB\Sector Bancario y Financiero;;Cuentas Contingentes - Banca Comercial;3 mes;Trimestral
+BCB;BCB\Sector Bancario y Financiero;;Depósitos en el Sistema Bancario por Tipo Cuenta y Departamento;3 mes;Trimestral
+BCB;BCB\Sector Bancario y Financiero;;Cuentas Contingentes por Origen y Tipo de Moneda;3 mes;Trimestral
+BCB;BCB\Sector Bancario y Financiero;;Financiamiento Concedido por el Sistema Financiero al Sector Privado por Actividad Económica;3 mes;Trimestral
+BCB;BCB\Sector Bancario y Financiero;;Depósitos de Entidades Bancarias por Departamento y Tipo de Depósito;3 mes;Trimestral
+BCB;BCB\Sector Bancario y Financiero;;Financiamiento Concedido por el Sistema Bancario por Tipo de Banco;3 mes;Trimestral
+BCB;BCB\Sector Bancario y Financiero;;Financiamiento Concedido por Tipo de Entidad Financiadora y Actividad Económica;3 mes;Trimestral
+BCB;BCB\Sector Bancario y Financiero;;Depósitos de Entidades Financieras por Monedas;3 mes;Trimestral
+BCB;BCB\Sector Externo;;Balanza Comercial;3 mes;Trimestral
+BCB;BCB\Sector Externo;;Importación de Bienes según Uso o Destino Económico;3 mes;Trimestral
+BCB;BCB\Sector Externo;;Exportaciones por Zonas Económicas;3 mes;Trimestral
+INE;INE\Cuentas Nacionales\Producto Interno Bruto;;Variación Acumulada del PIB a Precios Constantes por Actividad Económica;1 mes;Trimestral
+INE;INE\Cuentas Nacionales\Producto Interno Bruto;;Oferta y Demanda Final PIB;1 mes;Trimestral
+INE;INE\Cuentas Nacionales\Producto Interno Bruto;;Históricos del Producto Interno Bruto Acumulado por Actividad Económica;1 mes;Trimestral
+INE;INE\Cuentas Nacionales\Producto Interno Bruto;;Producto Interno Bruto por Tipo de Gasto;1 mes;Trimestral
+INE;INE\Cuentas Nacionales\Producto Interno Bruto;;Participación en el PIB a Precios de Mercado por Actividad Económica;1 mes;Trimestral
+INE;INE\Cuentas Nacionales\Producto Interno Bruto;;Producto Interno Bruto por Actividad Económica a Precio de Mercado;1 mes;Trimestral
+INE;INE\Cuentas Nacionales\Producto Interno Bruto;;Producto Interno Bruto por Actividad Económica a Precio Básico;1 mes;Trimestral
+INE;INE\Estadísticas de Trabajo;;Condición de la Actividad por Género;2 mes;Trimestral
+INE;INE\Estadísticas de Trabajo;;Condición de la Actividad del Eje Troncal;2 mes;Trimestral
+INE;INE\Estadísticas Económicas\Hidrocarburos;;Índice del Volumen y Extracción del Petróleo;1 mes;Trimestral
+INE;INE\Estadísticas Económicas\Minería;;Índice de la Cantidad de Producción de Minerales;1 mes;Trimestral
+INE;INE\Sector Real\Construcción;;Precios de los Principales Materiales de la Construcción por Trimestre y Ciudad;2 mes;Trimestral
+APS;OTROS HISTÓRICOS\APS\Seguros;;Valor de Cartera a Precio de Mercado por Emisor;1 mes;Trimestral
+ASFI;OTROS HISTÓRICOS\ASFI\Indicadores;;Sucursales y Agencias por Entidad Financiera;1 mes;Trimestral
+BCB;OTROS HISTÓRICOS\BCB\Sector Bancario y Financiero;;Financiamiento Concedido por el Sistema Bancario al Sector Privado por Departamento y Banco;1 mes;Trimestral
+BCB;OTROS HISTÓRICOS\BCB\Sector Externo;;Balanza de Pagos;1 mes;Trimestral
+INE;OTROS HISTÓRICOS\INE\Estadísticas de Trabajo;;Distribución de la Población según su Estado Ocupacional y Género;1 año;Trimestral
+INE;OTROS HISTÓRICOS\INE\Estadísticas Económicas (Construcción y Precios)\Construcción;;Índice del Costo de la Construcción según Tipo de Construcción;1 año;Trimestral
+INE;OTROS HISTÓRICOS\INE\Estadísticas Económicas (Construcción y Precios)\Construcción;;Índice del Costo de la Construcción según Actividad de la Construcción e Insumos;1 año;Trimestral
+INE;OTROS HISTÓRICOS\INE\Estadísticas Económicas (Construcción y Precios)\Construcción;;Precio Promedio según Materiales de Construcción y Maquinaria por Región;1 año;Trimestral
+INE;OTROS HISTÓRICOS\INE\Estadísticas Económicas\Construcción;;Remuneración Promedio según Categorías Ocupacionales de la Construcción por Ciudad;1 año;Trimestral
+INE;OTROS HISTÓRICOS\INE\Estadísticas Económicas\Telecomunicaciones;;Índice de Cantidad, Precio y Valores de Telecomunicaciones;1 año;Trimestral
+APS;OTROS HISTÓRICOS\SPVS\Pensiones;;Balance General de las Administradoras de Fondos de Pensiones;2 mes;Trimestral
+APS;OTROS HISTÓRICOS\SPVS\Pensiones;;Estado de Resultados de las Administradoras de Fondos de Pensiones;2 mes;Trimestral
+TRANSTATS;OTROS HISTÓRICOS\TRANSTATS\Cuenta Financiera;;Estados Financieros de Aerolíneas Nivel 3 según Transportador, Código, Grupo de Transporte y Región;1 mes;Trimestral
+VIPFE;OTROS HISTÓRICOS\VIPFE\Inversión Pública;;Distribución Departamental-Regional de la Inversión Pública;1 mes;Trimestral
+VIPFE;OTROS HISTÓRICOS\VIPFE\Inversión Pública;;Distribución Sectorial de la Inversión Pública;1 mes;Trimestral

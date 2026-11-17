@@ -90,6 +90,13 @@ ejecutándose en `http://localhost:8000`, porque Vite redirige allí las rutas
 ## Funcionalidades del dashboard
 
 - Consultar la consolidación CSV sin importar manualmente los datos.
+- Ver un dashboard interactivo con datasets por `Path Analyze`.
+- Separar cada path en fuente de origen y carpeta del dataset; `OTROS HISTÓRICOS` se trata como categoría histórica.
+- Comparar vigentes frente a `OTROS HISTÓRICOS`.
+- Estimar el porcentaje actualizado usando fecha, periodicidad del portal y máximo retraso.
+- Calcular el estado activo con los límites de `diccionary/maximoRetraso.csv`, excluyendo `OTROS HISTÓRICOS`.
+- Mostrar un ranking de fuentes por índice de desactualización (`atrasados / evaluados`).
+- Excluir del ranking las fuentes cuyo índice de desactualización sea 100%.
 - Buscar por código SPIM, nombre o ID de producto del portal.
 - Filtrar por fuente de origen.
 - Abrir el producto Datax en un botón.
@@ -98,8 +105,21 @@ ejecutándose en `http://localhost:8000`, porque Vite redirige allí las rutas
 
 ## Reglas de monitoreo
 
-El estado se calcula en `v2/PortalScrapper.py` comparando la fecha publicada
-con la periodicidad del dataset:
+El estado activo del dashboard se calcula comparando la fecha publicada del
+scraper con la fecha límite esperada:
+
+```text
+fecha límite = fecha publicada + frecuencia de actualización + (máximo retraso × 1,20)
+```
+
+Por ejemplo, un dataset anual publicado en diciembre de 2025 con un máximo
+retraso de 6 meses permanece `Actualizado` hasta aproximadamente julio/agosto de 2027, aplicando una
+tolerancia adicional del 20% (7,2 meses de tolerancia). El día exacto depende
+del día de publicación. El cálculo usa meses calendario para frecuencias
+mensuales, semestrales y anuales.
+
+El estado calculado por `v2/PortalScrapper.py` compara únicamente la fecha
+publicada con la periodicidad del dataset:
 
 | Estado | Regla |
 |---|---|
@@ -118,7 +138,7 @@ El servidor definido en `server.py` expone:
 
 | Método | Ruta | Descripción |
 |---|---|---|
-| `GET` | `/api/status` | Filas y metadatos de la consolidación SPIM |
+| `GET` | `/api/status` | Productos del portal enriquecidos con la consolidación SPIM |
 | `POST` | `/api/run-v2` | Ejecuta `v2/PortalScrapper.py` |
 | `POST` | `/api/convert-excel` | Convierte el CSV de consolidación a Excel |
 | `GET` | `/downloads/consolidacion/<archivo>` | Descarga el CSV de consolidación |

@@ -1,9 +1,12 @@
 import csv
 import json
 import mimetypes
+import re
 import subprocess
 import sys
-from datetime import datetime
+import unicodedata
+from calendar import monthrange
+from datetime import date, datetime, timedelta
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import unquote, urlparse
@@ -15,9 +18,12 @@ from openpyxl.styles import Font
 ROOT = Path(__file__).resolve().parent
 V2_DIR = ROOT / "v2"
 CSV_PATH = ROOT / "diccionary" / "DATAX_Consolidacion_Tabla_Web.csv"
+PORTAL_CSV_PATH = V2_DIR / "productos_datax_dataset.csv"
 HISTORY_DIR = V2_DIR / "historial_productos"
 FRONTEND_DIR = ROOT / "frontend" / "dist"
 PORT = 8000
+DELAY_CRITERIA_PATH = ROOT / "diccionary" / "maximoRetraso.csv"
+DELAY_TOLERANCE = 1.2
 
 
 def csv_rows(path):
@@ -25,6 +31,102 @@ def csv_rows(path):
         return []
     with path.open("r", encoding="utf-8-sig", newline="") as file:
         return list(csv.DictReader(file, delimiter=";"))
+
+
+def path_metadata(raw_path):
+    parts = [part.strip() for part in re.split(r"[\\/]+", raw_path or "") if part.strip()]
+    historical = bool(parts and parts[0].upper() == "OTROS HISTÓRICOS")
+    source_index = 1 if historical else 0
+    return {
+        "Fuente origen": parts[source_index] if len(parts) > source_index else "Sin fuente",
+        "Carpeta dataset": parts[-1] if parts else "Sin carpeta",
+        "Es otros históricos": "Sí" if historical else "No",
+    }
+
+
+def load_delay_criteria():
+    if not DELAY_CRITERIA_PATH.exists():
+        return {}
+    with DELAY_CRITERIA_PATH.open("r", encoding="utf-8-sig", newline="") as file:
+        for _ in range(4):
+            next(file, "")
+        criteria = {}
+        for row in csv.DictReader(file, delimiter=";"):
+            path = row.get("Path", "").strip()
+            name = row.get("Cubo / Dataset", "").strip()
+            if path and name:
+                criteria[(path, name)] = row
+        return criteria
+
+
+def _normalized(value):
+    text = unicodedata.normalize("NFKD", value or "")
+    return "".join(character for character in text if not unicodedata.combining(character)).lower()
+
+
+def delay_offset(value):
+    match = re.search(
+        r"(\d+(?:[,.]\d+)?)\s*(?:-\s*(\d+(?:[,.]\d+)?)\s*)?(ano|mes|semana|seman|dia)",
+        _normalized(value),
+    )
+    if not match:
+        return None
+    first = float(match.group(1).replace(",", "."))
+    second = float(match.group(2).replace(",", ".")) if match.group(2) else first
+    return (first + second) / 2, _normalized(match.group(3))
+
+
+def add_months(value, months):
+    whole_months = int(months)
+    target_month = value.month - 1 + whole_months
+    year = value.year + target_month // 12
+    month = target_month % 12 + 1
+    day = min(value.day, monthrange(year, month)[1])
+    return value.replace(year=year, month=month, day=day)
+
+
+def add_frequency(value, frequency):
+    normalized = _normalized(frequency)
+    months = {
+        "mensual": 1,
+        "bimestral": 2,
+        "trimestral": 3,
+        "cuatrimestral": 4,
+        "semestral": 6,
+        "anual": 12,
+    }
+    for name, amount in months.items():
+        if name in normalized:
+            return add_months(value, amount)
+    if "diari" in normalized:
+        return value + timedelta(days=1)
+    if "seman" in normalized:
+        return value + timedelta(days=7)
+    return None
+
+
+def criterio_actualizacion(fecha, frecuencia, maximo_retraso, hoy=None):
+    try:
+        publicada = datetime.strptime(fecha[:10], "%Y-%m-%d").date()
+    except (TypeError, ValueError):
+        return "Sin fecha"
+
+    fecha_limite = add_frequency(publicada, frecuencia)
+    retraso = delay_offset(maximo_retraso)
+    if fecha_limite is None or retraso is None:
+        return "Sin criterio"
+
+    cantidad, unidad = retraso
+    cantidad *= DELAY_TOLERANCE
+    if unidad in {"ano", "mes"}:
+        total_meses = cantidad * (12 if unidad == "ano" else 1)
+        meses_enteros = int(total_meses)
+        fecha_limite = add_months(fecha_limite, meses_enteros)
+        fecha_limite += timedelta(days=round((total_meses - meses_enteros) * 30))
+    else:
+        fecha_limite += timedelta(days=cantidad * (7 if unidad.startswith("seman") else 1))
+
+    return "Actualizado" if (hoy or date.today()) <= fecha_limite else "Atrasado"
 
 
 def file_metadata(path):
@@ -40,13 +142,83 @@ def file_metadata(path):
 
 
 def status_payload():
-    rows = csv_rows(CSV_PATH)
+    consolidation_rows = csv_rows(CSV_PATH)
+    consolidation_by_id = {
+        row.get("ID producto Portal", "").strip(): row
+        for row in consolidation_rows
+        if row.get("ID producto Portal", "").strip()
+    }
+    delay_criteria = load_delay_criteria()
+    history_files = sorted(HISTORY_DIR.glob("productos_*.csv"))
+    history_by_id = {}
+    history_values = {}
+    for history_file in history_files:
+        match = re.search(r"productos_(\d{8}_\d{6})\.csv$", history_file.name)
+        seen_at = (
+            datetime.strptime(match.group(1), "%Y%m%d_%H%M%S").isoformat(timespec="seconds")
+            if match
+            else datetime.fromtimestamp(history_file.stat().st_mtime).isoformat(timespec="seconds")
+        )
+        for history_row in csv_rows(history_file):
+            dataset_id = history_row.get("ID", "").strip()
+            if not dataset_id:
+                continue
+            history_by_id.setdefault(dataset_id, []).append(seen_at)
+            history_values.setdefault(dataset_id, []).append(history_row.get("Fecha", ""))
+
+    portal_rows = csv_rows(PORTAL_CSV_PATH)
+    rows = []
+    for portal_row in portal_rows:
+        row = dict(portal_row)
+        row.update(consolidation_by_id.get(portal_row.get("ID", "").strip(), {}))
+        row.update(path_metadata(row.get("Path Analyze", "")))
+        criterion = delay_criteria.get((
+            row.get("Path Analyze", "").strip(),
+            row.get("Nombre Analyze", "").strip(),
+        ))
+        row["Máximo retraso"] = criterion.get("maximo_retraso", "") if criterion else ""
+        row["Estado según criterio"] = criterio_actualizacion(
+            portal_row.get("Fecha", ""),
+            portal_row.get("Periodicidad", "") or row.get("Periodicidad Portal", ""),
+            row["Máximo retraso"],
+        )
+        dataset_id = portal_row.get("ID", "").strip()
+        observations = history_by_id.get(dataset_id, [])
+        dates = history_values.get(dataset_id, [])
+        row["Históricos scraper"] = str(len(observations))
+        row["Último scraping"] = max(observations) if observations else ""
+        row["Fecha cambió en históricos"] = "Sí" if len(set(dates)) > 1 else "No"
+        rows.append(row)
+    source_stats = {}
+    for row in rows:
+        if row.get("Es otros históricos") == "Sí":
+            continue
+        source = row.get("Fuente origen") or "Sin fuente"
+        stats = source_stats.setdefault(source, {"total": 0, "evaluated": 0, "outdated": 0})
+        stats["total"] += 1
+        if row.get("Estado según criterio") in {"Actualizado", "Atrasado"}:
+            stats["evaluated"] += 1
+        if row.get("Estado según criterio") == "Atrasado":
+            stats["outdated"] += 1
+    outdated_by_source = [
+        {
+            "source": source,
+            "total": stats["total"],
+            "evaluated": stats["evaluated"],
+            "outdated": stats["outdated"],
+            "index": round(stats["outdated"] / stats["evaluated"] * 100) if stats["evaluated"] else 0,
+        }
+        for source, stats in source_stats.items()
+    ]
+    outdated_by_source = [item for item in outdated_by_source if item["index"] < 100]
+    outdated_by_source.sort(key=lambda item: (-item["index"], -item["outdated"], item["source"]))
     return {
         "generatedAt": datetime.now().isoformat(timespec="seconds"),
         "dataset": {
             "rows": len(rows),
             "file": file_metadata(CSV_PATH),
         },
+        "outdatedBySource": outdated_by_source,
         "rows": rows,
     }
 
