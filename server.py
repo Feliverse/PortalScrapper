@@ -105,19 +105,19 @@ def add_frequency(value, frequency):
     return None
 
 
-def criterio_actualizacion(fecha, frecuencia, maximo_retraso, hoy=None):
+def fecha_limite_con_retraso(fecha, frecuencia, maximo_retraso, multiplicador):
     try:
         publicada = datetime.strptime(fecha[:10], "%Y-%m-%d").date()
     except (TypeError, ValueError):
-        return "Sin fecha"
+        return None
 
     fecha_limite = add_frequency(publicada, frecuencia)
     retraso = delay_offset(maximo_retraso)
     if fecha_limite is None or retraso is None:
-        return "Sin criterio"
+        return None
 
     cantidad, unidad = retraso
-    cantidad *= DELAY_TOLERANCE
+    cantidad *= multiplicador
     if unidad in {"ano", "mes"}:
         total_meses = cantidad * (12 if unidad == "ano" else 1)
         meses_enteros = int(total_meses)
@@ -125,8 +125,25 @@ def criterio_actualizacion(fecha, frecuencia, maximo_retraso, hoy=None):
         fecha_limite += timedelta(days=round((total_meses - meses_enteros) * 30))
     else:
         fecha_limite += timedelta(days=cantidad * (7 if unidad.startswith("seman") else 1))
+    return fecha_limite
+
+
+def criterio_actualizacion(fecha, frecuencia, maximo_retraso, hoy=None):
+    try:
+        publicada = datetime.strptime(fecha[:10], "%Y-%m-%d").date()
+    except (TypeError, ValueError):
+        return "Sin fecha"
+
+    fecha_limite = fecha_limite_con_retraso(fecha, frecuencia, maximo_retraso, DELAY_TOLERANCE)
+    if fecha_limite is None:
+        return "Sin criterio"
 
     return "Actualizado" if (hoy or date.today()) <= fecha_limite else "Atrasado"
+
+
+def es_candidato_historico(fecha, frecuencia, maximo_retraso, hoy=None):
+    fecha_limite = fecha_limite_con_retraso(fecha, frecuencia, maximo_retraso, 2)
+    return fecha_limite is not None and (hoy or date.today()) > fecha_limite
 
 
 def file_metadata(path):
@@ -182,6 +199,16 @@ def status_payload():
             portal_row.get("Periodicidad", "") or row.get("Periodicidad Portal", ""),
             row["Máximo retraso"],
         )
+        row["Candidato a histórico"] = (
+            "Sí"
+            if row.get("Es otros históricos") != "Sí"
+            and es_candidato_historico(
+                portal_row.get("Fecha", ""),
+                portal_row.get("Periodicidad", "") or row.get("Periodicidad Portal", ""),
+                row["Máximo retraso"],
+            )
+            else "No"
+        )
         dataset_id = portal_row.get("ID", "").strip()
         observations = history_by_id.get(dataset_id, [])
         dates = history_values.get(dataset_id, [])
@@ -210,7 +237,6 @@ def status_payload():
         }
         for source, stats in source_stats.items()
     ]
-    outdated_by_source = [item for item in outdated_by_source if item["index"] < 100]
     outdated_by_source.sort(key=lambda item: (-item["index"], -item["outdated"], item["source"]))
     return {
         "generatedAt": datetime.now().isoformat(timespec="seconds"),

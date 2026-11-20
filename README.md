@@ -87,6 +87,22 @@ Abrir [http://localhost:5173](http://localhost:5173). La API debe seguir
 ejecutándose en `http://localhost:8000`, porque Vite redirige allí las rutas
 `/api` y `/downloads`.
 
+## GitHub Pages
+
+El frontend puede publicarse en GitHub Pages. El workflow
+`.github/workflows/pages.yml` genera una instantánea estática con los datos
+CSV disponibles en el repositorio y publica `frontend/dist`.
+
+1. En GitHub abrir **Settings > Pages**.
+2. En **Build and deployment**, elegir **GitHub Actions**.
+3. Ejecutar el workflow o subir cambios a `main`.
+
+La página queda disponible bajo `/PortalScrapper/` mientras se use el
+nombre actual del repositorio. En esa versión no están disponibles el
+scraper ni las operaciones POST: son funciones exclusivas de `server.py`
+local. Los datos publicados se actualizan solamente al ejecutar el workflow
+de nuevo.
+
 ## Funcionalidades del dashboard
 
 - Consultar la consolidación CSV sin importar manualmente los datos.
