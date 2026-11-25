@@ -8,27 +8,35 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
+      includeAssets: [
+        'favicon.ico',
+        'favicon-16x16.png',
+        'favicon-32x32.png',
+        'apple-touch-icon.png'
+      ],
       manifest: {
-        name: 'Nombre Completo de tu App',
-        short_name: 'NombreCorto',
-        description: 'Descripción de tu aplicación',
-        theme_color: '#ffffff',
-        background_color: '#ffffff',
+        name: 'DATAX System Monitor',
+        short_name: 'DATAX',
+        description: 'Monitor de sistemas de DATAX',
+        theme_color: '#0a192f',
+        background_color: '#0a192f',
         display: 'standalone',
         icons: [
           {
             src: 'icon-192x192.png',
             sizes: '192x192',
-            type: 'image/png'
+            type: 'image/png',
+            purpose: 'any maskable'
           },
           {
             src: 'icon-512x512.png',
             sizes: '512x512',
-            type: 'image/png'
+            type: 'image/png',
+            purpose: 'any maskable'
           }
         ]
       }
-    })
+    }),
   ],
   server: {
     port: 5173,
