@@ -1,0 +1,95 @@
+@media (min-width: 1400px) {
+  :root {
+    --wide-content-width: 1720px;
+    --wide-content-gutter: clamp(48px, 4vw, 88px);
+  }
+
+  .topbar,
+  footer {
+    padding-inline: max(
+      var(--wide-content-gutter),
+      calc((100vw - var(--wide-content-width)) / 2 + var(--wide-content-gutter))
+    );
+  }
+
+  .content {
+    max-width: var(--wide-content-width);
+    padding-inline: var(--wide-content-gutter);
+  }
+
+  .intro {
+    align-items: center;
+  }
+
+  .intro h1 {
+    font-size: clamp(42px, 3vw, 54px);
+  }
+
+  .summary {
+    gap: clamp(26px, 3vw, 52px);
+  }
+
+  .kpis {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    gap: 16px;
+  }
+
+  .kpi {
+    min-width: 0;
+    gap: 10px;
+    padding: 16px 14px;
+  }
+
+  .kpi-icon {
+    flex-shrink: 0;
+  }
+
+  .kpi > div:last-child {
+    min-width: 0;
+  }
+
+  .kpi span {
+    min-height: 2.2em;
+  }
+
+  .analytics-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+  }
+
+  .chart-card {
+    min-height: 230px;
+  }
+
+  .treemap {
+    height: clamp(480px, 29vw, 620px);
+  }
+
+  .results table {
+    table-layout: fixed;
+  }
+
+  .results th:nth-child(1) {
+    width: 15%;
+  }
+
+  .results th:nth-child(2) {
+    width: 43%;
+  }
+
+  .results th:nth-child(3) {
+    width: 18%;
+  }
+
+  .results th:nth-child(4) {
+    width: 24%;
+  }
+
+  .results td {
+    max-width: none;
+  }
+
+  .dag-actions {
+    flex-wrap: wrap;
+  }
+}

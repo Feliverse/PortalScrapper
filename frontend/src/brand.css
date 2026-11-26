@@ -1,0 +1,211 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;500;600;700&family=Montserrat:wght@400;500;600;700&display=swap");
+
+:root {
+  --datax-navy: #213368;
+  --datax-ink: #15113b;
+  --datax-blue: #2b93d1;
+  --datax-muted: #68738a;
+  --datax-border: #e0e6f0;
+  --datax-canvas: #f5f7fb;
+  --datax-body-font: "Lato", Arial, sans-serif;
+  --datax-display-font: "Montserrat", "Avenir Next", Arial, sans-serif;
+
+  color: var(--datax-ink);
+  background: var(--datax-canvas);
+  font-family: var(--datax-body-font);
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font-family: var(--datax-body-font);
+}
+
+body {
+  color: var(--datax-ink);
+  background: var(--datax-canvas);
+}
+
+h1,
+h2,
+.intro h1,
+.card-title h2,
+.results-heading h2,
+.empty strong,
+.brand strong,
+.summary strong,
+.kpi strong,
+.donut strong,
+.legend strong,
+.path-row b,
+.treemap-tile strong {
+  font-family: var(--datax-display-font);
+}
+
+.overline,
+.download-link,
+.action-button,
+.text-button,
+.refresh,
+.scraper-button,
+.map-toggle,
+.outdated-badge,
+.historical-candidate-badge {
+  font-family: var(--datax-display-font);
+}
+
+.topbar {
+  border-bottom-color: var(--datax-border);
+  box-shadow: 0 4px 18px rgb(33 51 104 / 6%);
+}
+
+.brand,
+.brand strong,
+.intro h1,
+.summary strong,
+.kpi strong,
+.card-title h2,
+.results-heading h2,
+.empty strong {
+  color: var(--datax-navy);
+}
+
+.brand strong {
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.brand span,
+.last-update,
+.subtitle,
+.hint,
+.summary span {
+  color: var(--datax-muted);
+}
+
+.logo {
+  border-radius: 10px;
+  background: #e8f3fa;
+  color: var(--datax-navy);
+}
+
+.overline {
+  color: var(--datax-blue);
+}
+
+.content,
+.app {
+  background: var(--datax-canvas);
+}
+
+.search-card,
+.results,
+.kpi,
+.chart-card,
+.source-map-card,
+.ranking-card {
+  border-color: var(--datax-border);
+  border-radius: 12px;
+  box-shadow: 0 8px 26px rgb(33 51 104 / 5%);
+}
+
+.search-card {
+  box-shadow: 0 3px 14px rgb(33 51 104 / 5%);
+}
+
+.select-box {
+  border-color: var(--datax-border);
+}
+
+.details span {
+  border-color: var(--datax-border);
+  background: #f7f9fc;
+}
+
+.download-link,
+.refresh,
+.map-toggle,
+.action-button.portal,
+.details-copy {
+  color: var(--datax-blue);
+}
+
+.download-link,
+.refresh,
+.map-toggle,
+.action-button,
+.details-copy {
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.download-link,
+.text-button,
+.scraper-button {
+  border-radius: 999px;
+}
+
+.download-link:hover,
+.refresh:hover,
+.map-toggle:hover,
+.details-copy:hover {
+  background: #eaf5fb;
+}
+
+.scraper-button,
+.text-button {
+  background: var(--datax-blue);
+  color: #fff;
+}
+
+.scraper-button:hover {
+  background: #247fb7;
+}
+
+.text-button:hover {
+  background: #247fb7;
+}
+
+.map-toggle {
+  border-color: #b8dced;
+  border-radius: 999px;
+}
+
+.action-button {
+  border-color: var(--datax-border);
+  border-radius: 7px;
+}
+
+.action-button:hover {
+  background: #f1f7fb;
+  border-color: #b8dced;
+}
+
+.kpi-icon.blue {
+  color: var(--datax-blue);
+  background: #e8f3fa;
+}
+
+.donut {
+  background: conic-gradient(var(--datax-blue) calc(100% - var(--historical)), #c7e4f2 0);
+}
+
+.legend-current,
+.bar-track i {
+  background: var(--datax-blue);
+}
+
+.path-row:hover,
+.path-row.selected {
+  background: #edf5fa;
+}
+
+.results th {
+  color: var(--datax-muted);
+}
+
+:focus-visible {
+  outline: 3px solid #77c2e3;
+  outline-offset: 2px;
+}
