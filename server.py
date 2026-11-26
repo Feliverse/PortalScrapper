@@ -21,6 +21,7 @@ CSV_PATH = ROOT / "diccionary" / "DATAX_Consolidacion_Tabla_Web.csv"
 PORTAL_CSV_PATH = V2_DIR / "productos_datax_dataset.csv"
 HISTORY_DIR = V2_DIR / "historial_productos"
 FRONTEND_DIR = ROOT / "frontend" / "dist"
+FRONTEND_BASE_PATH = "/PortalScrapper/"
 PORT = 8000
 DELAY_CRITERIA_PATH = ROOT / "diccionary" / "maximoRetraso.csv"
 DELAY_TOLERANCE = 1.2
@@ -282,14 +283,15 @@ class Handler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(body)
 
-    def _send_file(self, path):
+    def _send_file(self, path, download=False):
         if not path.exists() or not path.is_file() or ROOT not in path.resolve().parents:
             self.send_error(404)
             return
         content = path.read_bytes()
         self.send_response(200)
         self.send_header("Content-Type", mimetypes.guess_type(path.name)[0] or "application/octet-stream")
-        self.send_header("Content-Disposition", f'attachment; filename="{path.name}"')
+        if download:
+            self.send_header("Content-Disposition", f'attachment; filename="{path.name}"')
         self.send_header("Content-Length", str(len(content)))
         self.end_headers()
         self.wfile.write(content)
@@ -302,16 +304,23 @@ class Handler(BaseHTTPRequestHandler):
         if parsed.path.startswith("/downloads/consolidacion/"):
             requested = unquote(parsed.path.removeprefix("/downloads/consolidacion/"))
             if requested == CSV_PATH.name:
-                self._send_file(CSV_PATH)
+                self._send_file(CSV_PATH, download=True)
             else:
                 self.send_error(404)
             return
         if parsed.path.startswith("/downloads/"):
             requested = unquote(parsed.path.removeprefix("/downloads/"))
-            self._send_file((V2_DIR / requested).resolve())
+            self._send_file((V2_DIR / requested).resolve(), download=True)
             return
         if FRONTEND_DIR.exists():
-            requested = parsed.path.removeprefix("/")
+            base_path = FRONTEND_BASE_PATH.rstrip("/")
+            if parsed.path == base_path or parsed.path == FRONTEND_BASE_PATH:
+                requested = ""
+            elif parsed.path.startswith(FRONTEND_BASE_PATH):
+                requested = parsed.path.removeprefix(FRONTEND_BASE_PATH)
+            else:
+                requested = parsed.path.removeprefix("/")
+            requested = unquote(requested)
             candidate = (FRONTEND_DIR / requested).resolve()
             if not candidate.is_file() or FRONTEND_DIR.resolve() not in candidate.parents:
                 candidate = FRONTEND_DIR / "index.html"

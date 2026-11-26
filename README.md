@@ -65,6 +65,9 @@ python server.py
 ```
 
 Abrir [http://localhost:8000](http://localhost:8000).
+El dashboard también está disponible bajo `/PortalScrapper/`, ruta que usa el
+build de Vite en producción. Los archivos del frontend se sirven como recursos
+web; las rutas `/downloads/` se mantienen como descargas.
 
 ### Modo desarrollo
 
